@@ -11,3 +11,11 @@ Put the most dense material first, because the less dense material is counterint
 7. Any material off of the ACBS website
 8. Presentations at workshops
 9. Weaknesses of behaviorism that other people have written about?
+10. Articles about ADHD; https://gekk.info/articles/adhd.html
+11. Articles about ADHD compared to creativity
+12. Material about Valued Action in ACT therapy
+13. Material about deliteralization in ACT therapy
+
+Remember the rules
+
+Use documents! Use first principle rhetoric! Use the register (crystallization, conversation, verbal tricks, background knowledge, reading genre, etc.)!
