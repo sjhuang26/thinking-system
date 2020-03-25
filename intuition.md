@@ -68,3 +68,5 @@ string-thin noodles augmented with a soup of metaphors
 > The metaphors include metaphors that would help you get through the SMART training of same-different (e.g., hot vs. cold) and more-less (e.g., imagining "getting closer" to the ideal image, especially in a context where you are memorizing a recollection from a cue), hierarchy (e.g., clearly imagining the hierarchy of details)
 
 If you have details in hierarchies, one hierarchy stained RED and one GREEN, the point is to learn arbitrary staining in the context of RED-GREEN ping-pong.
+
+Principle of surprise >> on how surprising the difference between present and memory is, you should judge the quality of mental recall (affects all RFT relations earlier described)
