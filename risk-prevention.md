@@ -11,3 +11,4 @@ Realize that there is a sharp divide between the identity of the Prior You and t
 3. painting >> You need to understand that the essence of Serial Data + Full Text is to paint regions on the "notebook paper."
 4. document structure >> Learn a formal document structure. (e.g., Crystallized-Fluid binary; imagine that the first sentences of the document are crystallized while the rest of the document is far more fluid.) The way document reading is taught in schools is quite rote and the Thinking System will force you to re-learn it.
 5. contentment >> Learn some rhetorical catchphrase of being content. This is easily missed.
+6. polyfill of CPU >> Polyfill the CPU by creating Emotional Tokens of reward/punishment (e.g., smiley faces and sad faces) because the reward/punishment emotional network is going to be seriously damped out
