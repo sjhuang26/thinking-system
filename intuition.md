@@ -66,3 +66,5 @@ string-thin noodles augmented with a soup of metaphors
 > Since you have learned many education constructs incorrectly (through rote), you should re-learn a bunch of stuff. OR, you can create a standardized format of data exchange (Serial Data Code Full Text) and base everything off of that home base.
 > "The system of ..." as a Correct-Incorrect Intent Metaphor (legacy: CIsrm).
 > The metaphors include metaphors that would help you get through the SMART training of same-different (e.g., hot vs. cold) and more-less (e.g., imagining "getting closer" to the ideal image, especially in a context where you are memorizing a recollection from a cue), hierarchy (e.g., clearly imagining the hierarchy of details)
+
+If you have details in hierarchies, one hierarchy stained RED and one GREEN, the point is to learn arbitrary staining in the context of RED-GREEN ping-pong.

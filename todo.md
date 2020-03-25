@@ -19,3 +19,17 @@ Put the most dense material first, because the less dense material is counterint
 Remember the rules
 
 Use documents! Use first principle rhetoric! Use the register (crystallization, conversation, verbal tricks, background knowledge, reading genre, etc.)!
+
+RANDOM FPR.
+
+"In relationship, rationality's rule changes and the stodgy 'rationalist morality' brightens up but is forced to adapt to the rationally significant Self-Other differentiation ..."
+
+RANDOM STUFF.
+
+Criticism of social studies textbook I use. Personally important so I can learn how to cognitively manage it.
+
+An antagonism exists between the textbook's "consistent narrative voice" and the study-notes website (which shows you what students are desperately thirsting for) that merits serious attention.
+
+Study-note websites provide easy memorization outlines, straightforward topic overviews, and challenging test-prep reading comprehension questions. We need to show students how profound and complex history is, and that is what extended excerpts of primary documents are for. Primary documents are cognitively expensive; these narratives carry their insights in the most cognitively expensive and unproductive ways. We need to act against this hyperinflation trend -- this high school pedagogical fashion -- where somehow this fluffiness is OK, where thirty textbook pages are worth hardly three diligent notebook pages.
+
+One sentence from the study-notes website is essentially equal to one or more textbook paragraphs. The textbook creates a slippery sensation of marginally skimmable facts and figures; to gather tiny fragments of the main point, it takes at least two or three jarring back-glances and searches; the Ebbinghaus forgetting curve suggests that >90% of fragments are forgotten in the next 20 minutes and left essentially unreviewed. No college would dream of training their students this way!
