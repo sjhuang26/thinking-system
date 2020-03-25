@@ -1,8 +1,6 @@
 # The Thinking System
 
-Revolutionary application of Relational Frame Theory.
-
-> Unless otherwise specified, blockquotes are "side thoughts" in my multi-document writing workflow.
+> Unless otherwise specified, blockquotes are "side thoughts" which I will revise and either integrate into the main document, leave separate (e.g., as technical details), or move to new documents.
 
 The SMART training (Relational Frame Theory) says that Multiple Exemplar Training is a scientifically proven way to increase IQ through mastering "arbitrary applicable derived relations." I agree with the goal of training general relational response; I argue that  Multiple Exemplar Training is misapplied rote learning. Radical behaviorism feels like a neat and tidy construct where stimulus classes, as nice "tokens" of thought, are "pushed around" by the brain and yield various behaviors, but someone critical of rote learning would say that efficiency comes from proficiency in metaphor. From this general notion, I recommend a new application of Relational Frame Theory that is based on a journey of conceptualistic development.
 
