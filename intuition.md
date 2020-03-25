@@ -22,11 +22,24 @@ Is it the CPU or the GPU that drives IQ?
 
 > In many cases, the GPU can let go of the helping hand of the CPU. The GPU can self-organize; for example, in a logic puzzle, the bubble corresponding to "A == B" can be expanded to cause the proliferation of "NOT (A =/= B)" which may subsequently bubble into awareness. This parallels the conventional Relational Frame Theory explanation.
 
-The GPU is hypothesized to have the following three characteristics. This is the result of guesswork.
+Here are the two steps for the CPU to relinquish its cognitive responsibilities.
+
+1. imagine both correct and incorrect
+2. learn a ton of metaphors
+
+> visualize imagining correctly and then visualize imagining incorrectly. At this point, behavior flows unhindered from the Correct-Incorrect binary (a local maxima of rationality in the moment) that the cognitive map directly maps into. Principle of surprise >> on how surprising the difference between present and memory is, you should judge the quality of mental recall (affects all RFT relations earlier described)
+
+> Educational constructs were learned through rote, requiring you to re-learn a bunch of stuff. For instance, the use of memorizing a "NOT" sign for the NOT relation. A "LESS" sign for the LESS relation. etc. metaphor-ize the relations and other rote understandings; create a productive standardized format of data exchange (Serial Data Code Full Text); base everything off of that home base
+
+> same-different (e.g., hot vs. cold), more-less (e.g., small snowball, big snowball), hierarchy (e.g., zoom in / zoom out)
+
+Here is the final way that the GPU can be built into something that drives IQ.
 
 1. SAME-DIFF teaches attention.
 2. MORE-LESS teaches snowballing.
 3. HIERARCHY teaches painting.
+
+ANALYSIS.
 
 > exclusionary attention as an interaction between every combinatorial pair of details
 
@@ -41,17 +54,6 @@ The GPU is hypothesized to have the following three characteristics. This is the
 > Density is acted upon by the Ebbinghaus principles of forgetting. The present sensory stream-of-consciousness is an asymptote of virtually infinite density, conventional episodic memory is worse, and declarative memory is especially low. NOTE: In some training contexts (e.g., spatial-visual), it is easy to absorb density; the speed that the individual hierarchically unpacks big details into little details (many of which are memorized and retained) is astoundingly fast compared to the declarative memory schemas.
 
 > The input of the present sensory data is equivalent to encoding an extremely strong episodic memory that immediately begins to fade by Ebbinghaus.
-
-Here are the two steps for the CPU to relinquish its cognitive responsibilities.
-
-1. imagine both correct and incorrect
-2. learn a ton of metaphors
-
-> visualize imagining correctly and then visualize imagining incorrectly. At this point, behavior flows unhindered from the Correct-Incorrect binary (a local maxima of rationality in the moment) that the cognitive map directly maps into. Principle of surprise >> on how surprising the difference between present and memory is, you should judge the quality of mental recall (affects all RFT relations earlier described)
-
-> Educational constructs were learned through rote, requiring you to re-learn a bunch of stuff. For instance, the use of memorizing a "NOT" sign for the NOT relation. A "LESS" sign for the LESS relation. etc. metaphor-ize the relations and other rote understandings; create a productive standardized format of data exchange (Serial Data Code Full Text); base everything off of that home base
-
-> same-different (e.g., hot vs. cold), more-less (e.g., small snowball, big snowball), hierarchy (e.g., zoom in / zoom out)
 
 SAME-DIFF: Given two tokens, A and B, alter which object you are paying attention to. Do this in a rapid temporal ping-pong.
 
