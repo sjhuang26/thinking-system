@@ -2,24 +2,13 @@
 
 I'm really having trouble expressing the main intuition. When you know there's something new, you really feel it, but then when you write it down, even though it only takes a few main metaphors, it's hard!
 
-The recent Relational Frame Theory development of SMART training is counterintuitive because it claims that specific forms of rote learning -- Multiple Exemplar Training -- are scientifically proven ways to increase IQ by maturing the "arbitrary applicable derived relations." While the training of general relational behavior is real and valid, I argue that the approach of Multiple Exemplar Training is misapplied rote learning. Radical behaviorism feels like a neat and tidy construct where stimulus classes, as nice "tokens" of thought, are "pushed around" by the brain and yield various behaviors. Someone critical of rote learning would say that efficiency comes from proficiency in metaphor, not brute repetition, and I go along the same lines, recommending a new way of practicing Relational Frame Theory that is based on a journey of conceptualistic development.
+The SMART training (Relational Frame Theory) says that Multiple Exemplar Training is a scientifically proven way to increase IQ through mastering "arbitrary applicable derived relations." I agree with the goal of training general relational response, I argue that  Multiple Exemplar Training is misapplied rote learning. Radical behaviorism feels like a neat and tidy construct where stimulus classes, as nice "tokens" of thought, are "pushed around" by the brain and yield various behaviors, but someone critical of rote learning would say that efficiency comes from proficiency in metaphor. From this general notion, I recommend a new application of Relational Frame Theory that is based on a journey of conceptualistic development.
 
-At a philosophical level, I establish a dichotomy where the CPU is about Reward and Punishment (operant reinforcement, rote learning) while the GPU is about Rationality (cognitive map, creative intuition, maps of language rhetoric, mental models). Arbitrarily applicable derived relations are characterized as superficially in the CPU and essentially in the GPU.
+At a philosophical level, I establish a dichotomy where the CPU is about Reward and Punishment (operant reinforcement, rote learning) while the GPU is about Rationality (simulating the future from the episodic past and the episodic present, cognitive map, creative intuition, maps of language rhetoric, mental models). Arbitrarily applicable derived relations are characterized as superficially in the CPU and essentially in the GPU.
 
-> The GPU simulates episodes of the future from the episodic past and the episodic present
+A movement from CPU to GPU is essential to avoiding existential crisis. In the theraputic context, this is what the use of abstract ACT defusion techniques does.
 
-In our philosophical framework, avoiding existential crisis necessarily requires a movement from CPU to GPU.
-
-> In the theraputic context, the use of Snaps* and R34 ultimately moves the individual from CPU to GPU (behaving in a local maxima of Correctness in rationality)
-
-> Snaps* = an abstract ACT defusion technique
-
-Rationality contains many things, one of which is Self-Other Relationship, which I argue is essential for avoiding existential crisis.
-
-1. Contentment >> the solidarity of the bond of Self-Other relationship.
-2. Curiosity >> the inherent desire to move closer to the Other in a way that is essentially unchosen by the Self (including conventional morality).
-
-Curiosity, being something actionable, is essentially contained in the GPU. As an important implication, the behavior of morally expensive yet morally legitimate intellectual curiosity obligates a behavior of "privileged religious priority" towards the abstracted Other, as a matter of rational parallelism, although we must note that many technical contexts of epistemology and ontology would be affected very little to none.
+The GPU creates a local maxima of rationality each moment: consistently "Correct" behavior.
 
 Explanation of GPU.
 
@@ -53,7 +42,7 @@ The GPU is hypothesized to have the following three characteristics. This is the
 
 > The input of the present sensory data is equivalent to encoding an extremely strong episodic memory that immediately begins to fade by Ebbinghaus.
 
-The two steps of GPU control, to help the CPU relinquish its responsibility.
+Here are the two steps for the CPU to relinquish its cognitive responsibilities.
 
 1. imagine both correct and incorrect
 2. learn a ton of metaphors
