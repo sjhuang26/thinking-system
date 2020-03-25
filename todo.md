@@ -35,3 +35,8 @@ Study-note websites provide easy memorization outlines, straightforward topic ov
 One sentence from the study-notes website is essentially equal to one or more textbook paragraphs. The textbook creates a slippery sensation of marginally skimmable facts and figures; to gather tiny fragments of the main point, it takes at least two or three jarring back-glances and searches; the Ebbinghaus forgetting curve suggests that >90% of fragments are forgotten in the next 20 minutes and left essentially unreviewed. No college would dream of training their students this way!
 
 What you need to see, though, is that the textbook does teach attention regulation and narrative building in your head. That counts for something if you really learn to see through the cruft and see the First Principles (especially of human interaction) being rolled out, over and over again, the authors rolling out the same red carpet for the same honored guest, Human Interaction First Principles in History. But this is not the DP unless you actively get better at schema building.
+
+
+MISC INFORMATION.
+
+> Being able to name a system; "The system of ..."; as a Correct-Incorrect Intent Metaphor (legacy: CIsrm).
