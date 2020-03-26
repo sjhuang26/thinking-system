@@ -1,12 +1,24 @@
 # The Thinking System
 
+## Abstract
+
 > Unless otherwise specified, blockquotes are "side thoughts" which I will revise and either integrate into the main document, leave separate (e.g., as technical details), or move to new documents.
+
+This piece develops a novel training program that (1) could possibly increase cognitive intelligence far faster (2) has wide-ranging psychological effects not observed in prior research. An important dichotomy of functional circuits (Reward and Punishment vs. Rationality) is discussed so that a long list of psychological phenomena (including core ideas in Relational Frame Theory) can be deconstructed in terms of the two circuits.
+
+First, we suggest a therapeutic intervention that "funnels" the client towards Rationality.
+
+Second, we assert the necessity of a Self-Other Relationship embedded in Rationality, discussing (existential crisis vs. existential fulfillment; moral aspect, religious aspect).
+
+Third, we holistically investigate Rationality-increasing measures (prior art; SMART training shows us how IQ can be increased) and demonstrate the possibilities for great optimization.
+
+## Introduction
 
 The SMART training (Relational Frame Theory) says that Multiple Exemplar Training is a scientifically proven way to increase IQ through mastering "arbitrary applicable derived relations." I agree with the goal of training general relational response; I argue that  Multiple Exemplar Training is misapplied rote learning. Radical behaviorism feels like a neat and tidy construct where stimulus classes, as nice "tokens" of thought, are "pushed around" by the brain and yield various behaviors, but someone critical of rote learning would say that efficiency comes from proficiency in metaphor. From this general notion, I recommend a new application of Relational Frame Theory that is based on a journey of conceptualistic development.
 
 At a philosophical level, I establish a "CPU-GPU" dichotomy where the CPU is about Reward and Punishment (operant reinforcement, rote learning) while the GPU is about Rationality (simulating the future from the episodic past and the episodic present, cognitive map, creative intuition, maps of language rhetoric, mental models).
 
-Arbitrarily applicable derived relations are characterized as superficially in the CPU and essentially in the GPU. In the conventional narrative, the CPU develops into a "token language" (e.g., sounds representing tokens) that through Multiple Exemplar Training becomes these generalizable relational skills. My opinion, however, is that parallel to this rote learning, over the years of sensory cues and behaviors, the GPU follows a trajectory of self-organization across first principles that combinatorially generalize (such that first principles have other first principles themselves). Once the CPU-driven stage completes and the "token bubbles" are crystallized in the GPU, the individual can possibly let go of the helping hand of the CPU and the GPU would continue to self-organize, this stage with more potency.
+Arbitrarily applicable derived relations are characterized as superficially in the CPU and essentially in the GPU. In the conventional narrative, the CPU develops into a "token language" (e.g., sounds representing tokens) that through Multiple Exemplar Training becomes these generalizable relational skills. My opinion, however, is that parallel to this rote learning, over the years of sensory cues and behaviors, the GPU follows a trajectory of self-organization across principles (see ```systems-analysis.md```) that combinatorially generalize (such that principles have other principles themselves). Once the CPU-driven stage completes and the "token bubbles" are crystallized in the GPU, the individual can possibly let go of the helping hand of the CPU and the GPU would continue to self-organize, this stage with more potency.
 
 We propose new ideals where the individual shifts from CPU dominance to GPU dominance.
 

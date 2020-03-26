@@ -20,6 +20,12 @@ Remember the rules
 
 Use documents! Use first principle rhetoric! Use the register (crystallization, conversation, verbal tricks, background knowledge, reading genre, etc.)!
 
+We would probably have several documents.
+1. One "practitioner's takeaways" document that contains the kinds of resources that I would use in my day-to-day training (my perspective).
+2. One document to add rhetorical "momentum."
+3. One document to hit the highlights of the "practitioner's takaways."
+4. One document purely as a list of terminologies so that we can categorize them efficiently and track the existing literature.
+
 RANDOM FPR.
 
 "In relationship, rationality's rule changes and the stodgy 'rationalist morality' brightens up but is forced to adapt to the rationally significant Self-Other differentiation ..."

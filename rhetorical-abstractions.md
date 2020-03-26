@@ -1,4 +1,4 @@
-# End-to-end psychological organization
+# TODO: Please combine this into the main README.
 
 I have developed an end-to-end psychological organization.
 
@@ -11,28 +11,3 @@ Relational Frame Theory is represented in the top-down brain system, while the p
 3. In the bottom-up brain system, cognitive maps can be modeled as a "rationality map": (1) originators of rational cognition (2) high-dimensional spaces (3) grid cell networks accessible through conscious and subconscious processes (4) massively organized as a high-dimensional space (5) based on first principles such as those pertaining to self-identity, personal values, ethics, morality, and life experiences, as well as a general set of first principles generally and arbitrarily applicable to constitute an exciting new hypothetical training system of "polymath creativity."
 
 Rules and Problems.
-
-Rule R1. Snaps.
-Rule R2. Density.
-Rule R3. Contentment.
-Rule R4. Curiosity.
-Rule R5. ACT therapy vocabulary.
-
-# Discussion of psychological risks
-
-Risk types
-
-- Existential crisis
-- ADHD
-- Circadian rhythm
-- Identity coping
-
-Resolution types (all involve misc/CIsrm).
-
-- Curiosity
-- Contentment
-- Self-Other (relational theist)
-- &R34/CIsrm AND misc/CIsrm
-- Generalized identity coping
-
-I define a variation of theism entitled relational theism where psychological rationality needs to incorporate traits of a transcendent Self-Other relationship that works at all levels. Avoiding existential crisis is nontrivial and requires a significant dose of curiosity/contentment which leads into this all-level relationship. This runs along the lines of how believing in consciousness might be psychologically necessary simply because any other belief is too morally nihilistic.

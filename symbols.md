@@ -1,3 +1,5 @@
+# TODO: we might want a specialized "terminology for trainers" document.
+
 r1234
 mc(mmrfps)
 sdcft
