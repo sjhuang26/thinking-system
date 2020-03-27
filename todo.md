@@ -116,3 +116,11 @@ ZPS <> Rhetorical privilege <> Code (the C in SDCFT)
 - One major aspect of the reader is in Wartime where their code resources are limited ... you wouldn't let an arbitrary book invade your precious time unboundedly (e.g., reading front to back at 100wpm when you could skim at 1000wpm). Also, high barrier of entry (e.g., the book rhetoric is so fluffy, it wastes hours of talent to produce this stuff)
 
 Wait ... aren't ~= and <> the same thing? TODO.
+
+"Decay factor" vs. level of detail = density
+
+- Density fluctuates. DetailA RandomDetailB has poor density (fast decay) while DetailA RelatedDetailB has good density (slow decay)
+- The point is that high-density painting is more efficient
+- A higher level of detail will always have faster decay ... but the degree of this effect is density.
+
+Unanswered/ Density seems important, like a global factor, but it seems to have a limited local use at best. So what IS density ABOUT at a first principles level?
