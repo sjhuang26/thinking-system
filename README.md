@@ -1,12 +1,12 @@
 # Defending the "Mapper-Packer" Dialectic as a Breakthrough Perspective in Applied Psychology
 
-> Unless otherwise specified, blockquotes are "side thoughts" which I will revise and either integrate into the main document, leave separate (e.g., as technical details), or move to new documents.
+## Format notes
 
-## Title
+> Blockquotes are oftentimes "side thoughts" to be managed later {e.g., create separate document; rewrite into main document; restructure document for clarity and naturalness}.
 
-> We may want to "in media res" the book title with our key rhetorical "bottleneck" that the reader would pass through, hypothetically, in the middle of a long-winded journey
+> A subtle recursive phenomenon to note is that the essay uses the same specialized rhetorical notations that it advocates.
 
-The Thinking System runs off the "Mapper vs. Packer" dialectic. The CPU is really a "packer" and the GPU is really a "mapper."
+## Context/ Overview of "mapper-packer" vocabulary and the science of cognitive maps
 
 Quote https://wiki.c2.com/?MappersVsPackers {
 
@@ -20,7 +20,7 @@ map-like representations observed in a spatial context may be an instance of gen
 
 }
 
-Personal plans.
+## Context/ Personal plans.
 
 > We argue for intelligence training all the way up to SDCFT (Static Data Code Full Text) as well as the four "existential rules." Then, we turn around and talk about rhetoric as if it were a special case of `SDCFT` and apply a three-tier "Wedding Cake" (DP rhetoric - privileged/memory rhetoric - detail rhetoric) model to comprehensively rewrite the reader's intuition about rhetorical styles and rhetorical effectiveness.
 
@@ -34,30 +34,36 @@ Personal plans.
 
 > Self-help community; leadership community; rationality community; etc. >> filling out charts of "what I think could be improved, using this framework." Epistemology Tables to productively cover ground
 
-## Abstract
+## Context/ Psychology
 
+We deconstruct a long list of psychological phenomena (including core ideas in Relational Frame Theory) in terms of a two-circuit dichotomy.
 
-This piece develops a novel training program that (1) could possibly increase cognitive intelligence far faster (2) has wide-ranging psychological effects not observed in prior research. An important dichotomy of functional circuits (Reward and Punishment vs. Rationality) is discussed so that a long list of psychological phenomena (including core ideas in Relational Frame Theory) can be deconstructed in terms of the two circuits.
+- Packer - Reward and Punishment circuit - CPU
+  - operant reinforcement
+  - rote learning
+- Mapper - Rationality circuit - GPU
+  - visualization; simulating the future from the episodic past+present
+  - cognitive map; creative intuition
+  - mental models
 
-First, we suggest a therapeutic intervention that "funnels" the client towards Rationality.
+We suggest that when the individual shifts from CPU dominance to GPU dominance ...
 
-Second, we assert the necessity of a Self-Other Relationship embedded in Rationality, discussing (existential crisis vs. existential fulfillment; moral aspect, religious aspect).
+- wide-ranging psychological effects arise
+  - We propose a therapeutic training program so that the the CPU can relinquish its responsibilities.
+  - We defend the necessity of a GPU-embedded Self-Other Relationship in a psychologically rigorous way, talking about {existential crisis vs. existential fulfillment; moral aspect, religious aspect}.
+  - We examine the evidence/ documentation of psychological symptoms that the therapy produces. Qualitatively distinct from previous therapies.
+- new opportunities for increasing cognitive intelligence appear
+  - We demonstrate a plausible optimization to the prior art [https://raiseyouriq.com] where giving the GPU more power causes IQ increase.
 
-Third, we holistically investigate Rationality-increasing measures (prior art; SMART training shows us how IQ can be increased) and demonstrate the possibilities for great optimization.
-
-## Introduction
+## Context/ Introduction
 
 The SMART training (Relational Frame Theory) says that Multiple Exemplar Training is a scientifically proven way to increase IQ through mastering "arbitrary applicable derived relations." I agree with the goal of training general relational response; I argue that  Multiple Exemplar Training is misapplied rote learning. Radical behaviorism feels like a neat and tidy construct where stimulus classes, as nice "tokens" of thought, are "pushed around" by the brain and yield various behaviors, but someone critical of rote learning would say that efficiency comes from proficiency in metaphor. From this general notion, I recommend a new application of Relational Frame Theory that is based on a journey of conceptualistic development.
 
-At a philosophical level, I establish a "CPU-GPU" dichotomy where the CPU is about Reward and Punishment (operant reinforcement, rote learning) while the GPU is about Rationality (simulating the future from the episodic past and the episodic present, cognitive map, creative intuition, maps of language rhetoric, mental models).
-
 Arbitrarily applicable derived relations are characterized as superficially in the CPU and essentially in the GPU. In the conventional narrative, the CPU develops into a "token language" (e.g., sounds representing tokens) that through Multiple Exemplar Training becomes these generalizable relational skills. My opinion, however, is that parallel to this rote learning, over the years of sensory cues and behaviors, the GPU follows a trajectory of self-organization across principles (see ```systems-analysis.md```) that combinatorially generalize (such that principles have other principles themselves). Once the CPU-driven stage completes and the "token bubbles" are crystallized in the GPU, the individual can possibly let go of the helping hand of the CPU and the GPU would continue to self-organize, this stage with more potency.
-
-We propose new ideals where the individual shifts from CPU dominance to GPU dominance.
 
 In terms of self-regulation, the GPU creates a local maxima of rationality each moment (consistently "Correct" behavior), and from this binary (Correct-Incorrect), the goal is for behavior to flow unhindered, avoiding poor self-control and existential crisis. The implication is that the ACT therapy is on the right track in the therapeutic context but isn't quite there yet. I have developed a more abstract version of ACT therapy, discussed in ```self-regulation.md```.
 
-In terms of IQ training, the GPU is in fact the only way that IQ actually increases. The implication is that we can deliberately engineer a training program so that the the CPU can relinquish its cognitive responsibilities.
+## Outline of BASIC training
 
 1. Imagine both correct and incorrect.
 2. Learn a ton of metaphors.

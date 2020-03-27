@@ -124,3 +124,10 @@ Wait ... aren't ~= and <> the same thing? TODO.
 - A higher level of detail will always have faster decay ... but the degree of this effect is density.
 
 Unanswered/ Density seems important, like a global factor, but it seems to have a limited local use at best. So what IS density ABOUT at a first principles level?
+
+- Going from really high density to lower to lower to lower density is a deliberate practice style/cycle that is what I am doing right now
+
+Formulas = construct decontamination?
+
+> Genre strategy -- "in media res"? Sales copy should reflect an "in media res" where the reader is in a crucial point in the middle of a long-winded journey
+
