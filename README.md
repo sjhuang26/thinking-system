@@ -6,18 +6,16 @@
 
 > A subtle recursive phenomenon to note is that the essay uses the same specialized rhetorical notations that it advocates.
 
-## Context/ Overview of "mapper-packer" vocabulary
+## Introduction
 
-QUOTE { Mapping is the kind of learning you do when, after you pick up some information, you sit and think about it in an effort to simplify the way you think about it (i.e., simplify your mental map). Mappers are the world's great thinkers: they are the inventors, the scientists, those who think and control. Packing is like mapping in that you collect information, but differs from mapping in that you don't have any particular desire to simplify your mental map. Packers are the world's great storehouses of memory: they are the storytellers, the historians, those who memorize and repeat. } [https://wiki.c2.com/?MappersVsPackers]
+A mapper will "sit and think" about "collect[ed] information" to "simplify" the "mental map" while a packer lacks command of the aforementioned simplifying process. [https://wiki.c2.com/?MappersVsPackers]
 
-## Context/ Psychology
-
-We deconstruct a long list of psychological phenomena (including core ideas in Relational Frame Theory) in terms of a two-circuit dichotomy.
+We rigorize the dichotomy with speculative neurological circuits so we can deconstruct a long list of psychological phenomena (including core ideas in Relational Frame Theory).
 
 - Packer - Reward and Punishment circuit - CPU
 - Mapper - Rationality circuit - GPU
 
-The point is to wholly transcend the CPU. We suggest that when the individual shifts to GPU dominance ...
+The goal is for the CPU to relinquish virtually all of its responsibility (using, for instance, metaphors), so that:
 
 - wide-ranging psychological effects arise
   - We propose a therapeutic training program so that the the CPU can relinquish its responsibilities.
@@ -30,9 +28,9 @@ The point is to wholly transcend the CPU. We suggest that when the individual sh
 
 To address the prior art, there is vast room for improving the successes of the SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"; the problem is simply that the training context insufficiently stresses the GPU.
 
-- Derived relational responding and Multiple Exemplar Training is derisively "rote," but that isn't the main criticism (as most people do arrive at a _true metaphor-based understanding_ of relational logic). 
+- Derived relational responding and Multiple Exemplar Training is derisively "rote," but that isn't the main criticism (as most people do arrive at a _true metaphor-based understanding_ of relational logic).
 
-# Context/ Speculative neurological explanations
+# Speculative neurological circuits
 
 CPU >> Emotional Executive:
 
@@ -86,20 +84,26 @@ Exclusionary attention as:
 
 Snowballing as:
 
-1. a cumulating series of objects from 0 to 01 to 012, involving a generic "NULL" item as a "zero item" that all other objects originate from
+1. a cumulating series of objects from 0 to 01 to 012, involving a generic "NULL" item as a "zero item"* that all other objects originate from
 2. going from Question to Question+Answer
 3. a cumulating sequence of densities
+
+*{TODO This concept is heavily rigorized and I need to write it up (ZPS etc.)}
 
 Neuron networks are hierarchies that:
 
 1. are encapsulated by a token
 2. can be painted with a color (RED-GREEN)
-3. encode variegated details in various densities of detail
+3. encode variegated details in various densities of detail*
+
+*{TODO revise the definition of density}
 
 Token-details hierarchy as:
 
 1. one token encapsulating many details
 2. details as being shared by at least one possible token
+
+*{TODO need to clarify this fuzzy relationship and clarify the operation of hierarchy/painting which is the key generalizable skill}
 
 Density is acted upon by the Ebbinghaus principles of forgetting.
 
@@ -107,12 +111,16 @@ Density is acted upon by the Ebbinghaus principles of forgetting.
 2. Conventional episodic memory is worse.
 3. Declarative memory is especially low.
 
+> The "Ebbinghaus asymptote" is really important idea of speculative neurological extrapolation
+
 Training context comprises:
 
-1. temporal ping-pong
+1. temporal ping-pong*
 2. painting two neuron networks (A and B)
 3. string together detail within A to detail within B
 4. practice using a low-density visualization (easier to switch attention) to offload the difficulty of switching attention from one heavy tree of sensory data to another in a high-density, high-pressure situation (e.g., low-density Control Panel, high-density Present Sensory Data, attention switch capability)
+
+*{TODO emphasize how temporal ping-pong is a key training element and give concrete example so we are all on the same page with the metaphor}
 
 > The input of the present sensory data is equivalent to encoding an extremely strong episodic memory that immediately begins to fade.
 
