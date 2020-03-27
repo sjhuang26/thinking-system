@@ -1,8 +1,43 @@
-# The Thinking System
+# Defending the Mapper-Packer Dialectic as an Breakthrough Perspective in Applied Psychology
+
+> Unless otherwise specified, blockquotes are "side thoughts" which I will revise and either integrate into the main document, leave separate (e.g., as technical details), or move to new documents.
+
+## Title
+
+> We may want to "in media res" the book title with our key rhetorical "bottleneck" that the reader would pass through, hypothetically, in the middle of a long-winded journey
+
+Defending the Mapper-Packer Dialectic as an Innovative Perspective in Applied Psychology
+
+The Thinking System runs off the "Mapper vs. Packer" dialectic. The CPU is really a "packer" and the GPU is really a "mapper."
+
+Quote https://wiki.c2.com/?MappersVsPackers {
+
+Mapping is the kind of learning you do when, after you pick up some information, you sit and think about it in an effort to simplify the way you think about it (i.e., simplify your mental map). Mappers are the world's great thinkers: they are the inventors, the scientists, those who think and control. Packing is like mapping in that you collect information, but differs from mapping in that you don't have any particular desire to simplify your mental map. Packers are the world's great storehouses of memory: they are the storytellers, the historians, those who memorize and repeat.
+
+}
+
+Quote https://www.sciencedirect.com/science/article/pii/S0896627318308560 {
+
+map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds
+
+}
+
+Personal plans.
+
+> We argue for intelligence training all the way up to SDCFT (Static Data Code Full Text) as well as the four "existential rules." Then, we turn around and talk about rhetoric as if it were a special case of `SDCFT` and apply a three-tier "Wedding Cake" (DP rhetoric - privileged/memory rhetoric - detail rhetoric) model to comprehensively rewrite the reader's intuition about rhetorical styles and rhetorical effectiveness.
+
+> We discuss the nature of creativity, entrepreneurship, UX design, and leadership.
+
+> Problem-Solution Rhetoric becomes a special case of psychological motivation.
+
+> We look at Trees, Maps, and Theorems as a new prototype of rhetoric that exemplifies the principles discussed.
+
+> We hypothesize powerful causal links between inefficient rhetoric and inefficient self-help.
+
+> Self-help community; leadership community; rationality community; etc. >> filling out charts of "what I think could be improved, using this framework." Epistemology Tables to productively cover ground
 
 ## Abstract
 
-> Unless otherwise specified, blockquotes are "side thoughts" which I will revise and either integrate into the main document, leave separate (e.g., as technical details), or move to new documents.
 
 This piece develops a novel training program that (1) could possibly increase cognitive intelligence far faster (2) has wide-ranging psychological effects not observed in prior research. An important dichotomy of functional circuits (Reward and Punishment vs. Rationality) is discussed so that a long list of psychological phenomena (including core ideas in Relational Frame Theory) can be deconstructed in terms of the two circuits.
 
