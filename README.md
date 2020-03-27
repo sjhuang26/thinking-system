@@ -1,4 +1,4 @@
-# Defending the Mapper-Packer Dialectic as an Breakthrough Perspective in Applied Psychology
+# Defending the "Mapper-Packer" Dialectic as a Breakthrough Perspective in Applied Psychology
 
 > Unless otherwise specified, blockquotes are "side thoughts" which I will revise and either integrate into the main document, leave separate (e.g., as technical details), or move to new documents.
 
