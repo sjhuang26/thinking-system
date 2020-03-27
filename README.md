@@ -6,8 +6,6 @@
 
 > We may want to "in media res" the book title with our key rhetorical "bottleneck" that the reader would pass through, hypothetically, in the middle of a long-winded journey
 
-Defending the Mapper-Packer Dialectic as an Innovative Perspective in Applied Psychology
-
 The Thinking System runs off the "Mapper vs. Packer" dialectic. The CPU is really a "packer" and the GPU is really a "mapper."
 
 Quote https://wiki.c2.com/?MappersVsPackers {
