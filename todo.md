@@ -131,3 +131,16 @@ Formulas = construct decontamination?
 
 > Genre strategy -- "in media res"? Sales copy should reflect an "in media res" where the reader is in a crucial point in the middle of a long-winded journey
 
+## Context/ Personal plans.
+
+> We argue for intelligence training all the way up to SDCFT (Static Data Code Full Text) as well as the four "existential rules." Then, we turn around and talk about rhetoric as if it were a special case of `SDCFT` and apply a three-tier "Wedding Cake" (DP rhetoric - privileged/memory rhetoric - detail rhetoric) model to comprehensively rewrite the reader's intuition about rhetorical styles and rhetorical effectiveness.
+
+> We discuss the nature of creativity, entrepreneurship, UX design, and leadership.
+
+> Problem-Solution Rhetoric becomes a special case of psychological motivation.
+
+> We look at Trees, Maps, and Theorems as a new prototype of rhetoric that exemplifies the principles discussed.
+
+> We hypothesize powerful causal links between inefficient rhetoric and inefficient self-help.
+
+> Self-help community; leadership community; rationality community; etc. >> filling out charts of "what I think could be improved, using this framework." Epistemology Tables to productively cover ground
