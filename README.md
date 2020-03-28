@@ -34,6 +34,10 @@ We address the prior art (SMART [Strengthening Mental Abilities with Relational 
 
 ## Speculative neurological circuits
 
+### The biggest speculation
+
+> The point is not radical behaviorism. The point is cognitive map navigation. Portions of the GPU cognitive map are "painted" with tokens which mesh into the gears of the CPU of radical behaviorism. By getting better at token painting we get better at IQ.
+
 ### CPU >> Emotional Executive
 
 > TODO: executive control metaphor; fuse Skinnerian operant w/curiosity; The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
@@ -60,8 +64,6 @@ We address the prior art (SMART [Strengthening Mental Abilities with Relational 
 - `self-regulation.md`
 
 ### TODO Advanced cognitive languages
-
-> TODO clean up this mess
 
 ```
 
