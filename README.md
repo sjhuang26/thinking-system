@@ -261,7 +261,7 @@ TODO/ Rhetorical privilege is necessary only at a later stage in the training. M
 
 CLEARLY IDENTIFY THE PROBLEM!!! "unjustified rhetorical privilege" >> NECESSITY of rewrite rhetorical intuitions; rhetorical styles; sense of rhetorical productivity
 
-"Wartime makes it clear who's Mapper and who's Packer."
+"Wartime makes it clear who's Mapper and who's Packer." "aggressive" 90% reduction in volume while retaining X% of the "meat"; The higher we can make that X% the higher value there is for society. That is my attitude.
 
 ### Outline
 
