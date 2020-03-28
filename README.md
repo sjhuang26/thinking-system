@@ -59,7 +59,7 @@ We address the prior art (SMART [Strengthening Mental Abilities with Relational 
 - key differences from Acceptance and Commitment Therapy
 - `self-regulation.md`
 
-### TODO Advanced Languages
+### TODO Advanced cognitive languages
 
 > TODO clean up this mess
 
@@ -72,6 +72,8 @@ ensure a good trajectory
 - skill generalization
 - maturity
 - rationality
+- To do this, we assume the existence of particular neurological phenomena
+- in the end, we can't get "stuck" so we'll have to do this Wartime Mentality capture of value
 
 Serial Data Full Text / Code
 SDFT/C, SDCFT
@@ -83,8 +85,8 @@ The student should imagine that the GPU tries to use rationality to model a Pack
 The student should do this in order to get the GPU to "understand CI without the CPU's help"
 
 ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
-ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method; Categorization; Mental Model)
-SDSL (Social Domain Specific Language) / face-recognition primitives
+ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method; Categorization; Mental Model/the CommonCog formulation) / domains in which you are an expert / address Michael Simmons as a ZPAS, NOT a ZPS -- ZPAS problem/solution, classify/divide vs. the ZPS variations; ZPS notation vs. ZPAS notation?
+SDSL (Social Domain Specific Language) / face-recognition primitives (identity issues) / social-relationship-based tones of rhetoric / cultural influences
 MPSOC (Mapper Packer Stream-of-Consciousness) / Code as a bridge from Packer to Mapper (self-organization of rationality) / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
 
 > TODO: We have a more rigorous "rotational symmetry of attention spotlight" that we need to type up, also, how "far" the attention spotlight shines, also, abstracting the idea of an "attention spotlight" to an "observer reference point that has a statistical bias"
