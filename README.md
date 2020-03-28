@@ -26,7 +26,7 @@ The goal is for the CPU to relinquish virtually all of its responsibility (using
   - We argue that the prior art [Multiple Exemplar Training as applied in https://raiseyouriq.com] is fundamentally unworkable.
 - Limitation: the CPU stage may be necessary at a very young age to crystallize some "cue/token bubbles" in the GPU.
   - TODO: Packers + tokens; Mappers + GPU contains a subsystem of Packers (rhetoric/ reconciliation process???)
-  - TODO: token = locus of attention/behavior (Token-locus painting)
+  - TODO: token = locus of attention/behavior (The neuron network encodes the details as being encapsulated by the token. The student associates the token with either RED or GREEN.)
 
 We address the prior art (SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ") by arguging that their training is fundamentally unworkable* in cognitively stressing the GPU.
 
@@ -57,34 +57,32 @@ GPU >> Self-regulation:
 - key differences from Acceptance and Commitment Therapy
 - `self-regulation.md`
 
-## Outline of a VERY BASIC VERSION of the training
+## Student's Guide
+
+### Outline
 
 1. Imagine both correct and incorrect.
-2. Learn a ton of metaphors.
-3. SAME-DIFF teaches "exclusionary attention."
-4. MORE-LESS teaches "snowballing."
-5. HIERARCHY teaches "painting."
+2. SAME-DIFF teaches "exclusionary attention/temporal ping-pong/CI"
+3. MORE-LESS teaches "snowballing/curiosity."
+4. HIERARCHY teaches "token/locus/painting."
 
-### Steps 1/2.
+### Principle of surprise (Correct-Incorrect Binary)
 
-> visualize imagining correctly and then visualize imagining incorrectly. Principle of surprise >> on how cognitively surprising the difference between present and memory is, you should judge the quality of mental recall, instead of doing some habit of operant reinforcement (e.g., self-blame) whether conscious or subconscious
+- visualize imagining both cases
+- On how cognitively surprising the difference between present and memory is, you should judge the correctness
 
-> Educational constructs were learned through rote, requiring you to re-learn a bunch of stuff. For instance, the use of memorizing a "NOT" sign for the NOT relation. A "LESS" sign for the LESS relation. etc. metaphor-ize the relations and other rote understandings; create a productive standardized format of data exchange (Serial Data Code Full Text); base everything off of that home base
+avoid "Packer self-blame" and other conscious/subconscious issues, especially during the metaphor-ization of logical associations
 
-> same-different (e.g., hot vs. cold), more-less (e.g., small snowball, big snowball), hierarchy (e.g., zoom in / zoom out)
+- signs: a "NOT" sign for the NOT relation
+- signs: a "LESS" sign for the LESS relation
+- bubbles: "A == B" inflates to cause the proliferation of "NOT (A =/= B)" which may subsequently bubble into awareness
 
-> for example, in a logic puzzle, the bubble corresponding to "A == B" can be expanded to cause the proliferation of "NOT (A =/= B)" which may subsequently bubble into awareness. This parallels the conventional Relational Frame Theory explanation but does not essentialize the CPU in cognitive thriving.
+qualitiative feelings
 
-Portal >> Temporal ping-pong is a game involving a metaphorical portal between two painted items.
+- "relearning" the educational constructs that were learned through rote
+- productive standardized format of data exchange (SDFT/C)
 
-TODO Simplify the training to clarify that the main functional unit is temporal ping-pong painting. This creates the necessary creativity but "channeling" creativity into intelligence is a hugely difficult task. This is why we need the rigor of all this "stuff."
-
-> CPU executive control and CPU attention >> GPU attention. The GPU attention is done by threatening yourself to pay attention properly using a "10% chance" of a random quiz.
-> > TODO a way to fuse Skinnerian operant w/curiosity; and another great opportunity of temporal ping-pong (Skinnerian frame vs. curiosity frame)
-
-> Also practice cumulating keeping track of items in a memory palace journey, although the density fluctuation is lower (but it is still worth practicing this). Do the Correct-Incorrect exercises over the densities to suppress the CPU's operants.
-
-### Steps 3/4/5.
+### Detail, density, Ebbinghaus asymptote
 
 Detail >> Different appearances encode different levels of detail. (e.g., Cartoony appearance vs. realistic appearance)
 
@@ -94,79 +92,158 @@ Density >> An item is dense if it is an exemplar case of encoding many details v
 
 "Ebbinghaus asymptote" >> assume that the present sensory stream-of-consciousness is essentially equivalent to an asymptotic (virtually infinite detail level) episodic memory. [Ebbinghaus principles of forgetting]
 
-Snowballing as: a cumulating sequence from an easy item to a hard item
+### The temporal ping-pong game
 
-1. a cumulating series of objects from 0 to 01 to 012, involving a generic "NULL" item as a "zero item" that all other objects originate from
-2. going from Question to Question+Answer
+> TODO WARNING! This is insufficient. Density must be deliberate practiced in a particular way.
 
-Practical use of "zero item" snowballing*
+> TODO: executive control metaphor; fuse Skinnerian operant w/curiosity; The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
 
-- The student wants skill generalization
-- The student uses a list of major stimulus classes
-- The student occasionally portals between specific item and zero item (Platonic ideal of mastery)
-- The density of the specific item gets easier over time
+The training can be simplified into a single game, temporal ping-pong
 
-e.g., ```(ZPa AND ZPb IS TRUE => ZPb AND ZPa IS TRUE) & (objectA AND objectB IS TRUE => objectB and objectA IS TRUE) [Relational Frame Theory]```
+```
+as a portal between Item A and Item B, as a shift of attention.
+```
 
-In this specific case, you would imagine that there is this Platonic ideal of the "variable object" (like some generic colored sphere) that you substitute with the real object. The point is that it gives the student an abstract concept of the Platonic ideal. This is not sufficient but it is very helpful. The Platonic ideal has skill generalization where mastering the logic of variables is equal to mastering logical comparisons between specific objects. Also, mastering the collision of two "variable objects" creates this general "creative combination" skill.
+#### Step 1 (fast)
 
-- visualized in the head as a "gray sphere" that can be "colored" depending on the formula it's in.
-- generalization is frequently combinatorial so practice two-object formulas
-- a Platonic ideal of universalist generalizability at the top of the object hierarchy
-- Represents an innate curiosity to recall or to pattern-match.
+The temporal ping-pong should be between Correct and Incorrect.
 
-*{We defer discussion of a more formal "Zero Point Symmetry" conceptualization.}
+- paying attention = Correct
+- responding correctly = Correct
+- Eventually, it only takes a "1% chance" of a random quiz to get the brain to pay attention.
 
-### Student Guide
+The portal formula is ```TokenA-ObjectA-RandomDetail & TokenB-ObjectB-RandomDetail```. Token painting = the key cognitive operation.
 
-1. temporal ping-pong constitutes the "mind's eye."
-2. temporal ping-pong supports the visualization-synthesis of prior episodic memories.
-3. The formula is: temporal ping-pong between ObjectA-RandomDetail & ObjectB-RandomDetail.
-4. The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
-5. "Token painting" >> a major cognitive operation that is the key generalizable skill. The neuron network encodes the details as being encapsulated by the token. The student associates the token with either RED or GREEN.
-6. use two dense items in the beginning
-7. be really careful to preserve as much detail as possible, when, say, coloring objects RED and GREEN, almost certainly to result in an informal "artistic line-diagram notation" to annotate their visualizations
-8. gains should result immediately, and then apply deliberate practice >> Finding easy item & hard item using explicit ampersand (```&```) portal notation >> over a long period increasing the difficulty.
+- creativity (skill generalization)
+- quick improvement
+- two dense items; be really careful to preserve as much detail as possible, when, say, coloring objects RED and GREEN, almost certainly to result in an informal "artistic line-diagram notation" to annotate their visualizations
 
-### Easy-hard portals
+Traits of temporal ping-pong
 
+- "mind's eye"
+- visualization-synthesis of prior episodic memories
+
+#### Step 2 (slow)
+
+- rigorous work
+- channeled into productive intelligence
+- Finding easy item & hard item using explicit ampersand (```&```) portal notation >> over a long period increasing the difficulty.
+- deliberate practice
+
+portal formulas/
+
+```
 - 1A and 1A2B, followed by 1B and 1B2A
 - less detailed item PORTAL more detailed item
 - A PORTAL AB
 - 0 PORTAL 01
 - 01 PORTAL 012
 - 2 PORTAL 012
+```
 
-## Serial Data Full Text vs. Code (SDCFT)
+### Vague description of snowballing
 
-The student should master the systems thinking formula
+Snowballing is when the student moves from less detail to more detail.
 
-> from SDFT (packers) to Code="the system of {SDFT}" (mappers)
+- cumulative nature
+- innate curiosity of brain
+- series of objects
+  - Student practice: practice random-access jumping between a cumulating list of items in a memory palace journey.
 
-The student should imagine that the GPU tries to use rationality to model a Packer
+```
+0
+01
+012
+0123
+01234
+involving a generic "NULL" item as a "zero item" that all other objects originate from
 
-> The computer science data-as-code >> Manipulating the GPU through code execution as a Mapper, but also, the GPU, as part of rationality, MODELS data/Packers
+Zero
+Zero Question
+Zero Question Answer
+```
 
-The student should use steps 1/2 to fight urges of operants and get Code properly grounded on CI
+The student divides up their thought process between the major languages. But this is fairly advanced way to get skill generalization.
 
-## TODO Zero Point Symmetry (ZPS)
+```
+ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
+ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method; Categorization; Mental Model)
+SDSL (Social Domain Specific Language) / face-recognition primitives
+MPSOC (Mapper Packer Stream-of-Consciousness) / Code / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
+
+> TODO: We have a more rigorous "rotational symmetry of attention spotlight" that we need to type up, also, how "far" the attention spotlight shines, also, abstracting the idea of an "attention spotlight" to an "observer reference point that has a statistical bias"
 
 Empirical suggesting of branching >> Between the two extremes of 0 (generalizable) and 1 (nongeneralizable), there is a "top" object and a limited amount of "branches" at the top.
 
-- loosely tracking the skills of each domain of expertise >> train each major stimulus classes until it is mastered
-
-Branching model >> mathematics of high-dimensional brain spaces >> speculative rotational symmetry diagram
+Branching model >> mathematics of high-dimensional brain spaces >> speculative rotational symmetry diagram (Zero Point Symmetry)
 
 - 0 = center, 1 = edges of circle
 - `~=` defined as combination of
   - non-side-channel (rotational symmetry around 0 = SDFT (rote memory and basic repetition))
   - side channel (popular culture necessity of Deliberate Practice; the Code of SDCFT) pushed to the outside context
+```
 
-## Outline of rhetorical privilege
+### Coping with formulas
+
+```
+Logic A > B means that B < A [see: Relational Frame Theory]
+You could visualize this as a two-variable equation
+Even jumping from "front of flashcard" to "back of flashcard" is a logic formula of Item1 + Item2
+```
+
+> TODO: sort this out
+
+- Use imagination to visualize a "variable object" as a sort of Platonic Ideal that all specific objects descend from, such that in a "formula," it becomes possible to substitute specific for general.
+- visualized in the head as a "small gray-colored sphere" that can be "colored" depending on the position in the formula
+- This is for psychological purposes
+  - a confidence in the skill generalization where mastering the logic of variables is equal to mastering logical comparisons between specific objects.
+  - a confidence in creativity by the metaphorical combinatorial collision of thousands of spheres
+  - a confidence in the ability to jump from one sphere to another sphere independent from the first one
+- portal between specific item (one item) and Platonic Ideal (zero item)
+  - placing a Platonic ideal (zero item) of universalist generalizability at the top of the object hierarchy
+
+## Serial Data Full Text vs. Code (SDCFT)
+
+> TODO The computer science data-as-code >> the GPU's-rationality-model includes data/Packers, and the code alters-this-rationality-circuit
+
+```
+The student should master the systems thinking formula
+from SDFT (packers) to Code="the system of {SDFT}" (mappers)
+The student should imagine that the GPU tries to use rationality to model a Packer
+The student should do this in order to get the GPU to "understand CI without the CPU's help"
+```
+
+## Constructs and deconstruction
+
+TODO. Try to clarify this as quick as possible because this shouldn't be an advanced concept -- we just have to mention First Principle exaptation and the rest is a matter for the student to deal with.
+
+- construct <> system <> First Principle <> deconstruction
+
+A system is defined in the dictionaries as:
+
+> [Merriam Webster] the act, process, or profession of studying an activity (such as a procedure, a business, or a physiological function) typically by mathematical means in order to define its goals or purposes and to discover operations and procedures for accomplishing them most efficiently
+>
+> [Google Dictionary] a set of things working together as parts of a mechanism or an interconnecting network; a set of principles or procedures according to which something is done; an organized scheme or method.
+
+Speculative applications
+
+> We discuss the nature of creativity, entrepreneurship, UX design, and leadership.
+
+> We hypothesize powerful causal links between inefficient rhetoric and inefficient self-help.
+
+> Self-help community; leadership community; rationality community; etc. >> filling out charts of "what I think could be improved, using this framework." Epistemology Tables to productively cover ground
+
+## TODO ADVANCED: Rhetorical privilege
+
+### Motivation
+
+TODO/ Rhetorical privilege is necessary only at a later stage in the training. Make this part of the training timeline.
 
 CLEARLY IDENTIFY THE PROBLEM!!! "unjustified rhetorical privilege" >> NECESSITY of rewrite rhetorical intuitions; rhetorical styles; sense of rhetorical productivity
 
 "Wartime makes it clear who's Mapper and who's Packer."
+
+### Outline
 
 - _Wartime Mindset_ argument
 - _Tech Entrepreneur_ argument
@@ -179,7 +256,7 @@ CLEARLY IDENTIFY THE PROBLEM!!! "unjustified rhetorical privilege" >> NECESSITY 
 - _Rhetorical Privilege_ argument
 - limited resources; difficulty of writing (e.g., the book rhetoric is so fluffy, it wastes hours of talent to produce this stuff)
 
-## Applications of rhetorical privilege
+### Applications
 
 rhetorical momentum as the Code of rhetorical privilege
 
@@ -203,37 +280,8 @@ Discuss the `@` notation for rhetorical privilege.
 
 As an exemplar, discuss [Trees, Maps, and Theorems].
 
-## Notation
-
-TODO add more.
+### Notation
 
 - A rhetorical push `>>` would be a portal where the portal construct is rhetorically privileged
 - A curly bracket notation `{}` would be a portal between the normal outside and privileged inside
 - An asterisk `*` or footnote -- suggests a _de facto_ side channel (`*{Footnote}` notation becomes a real possibility)
-
-## Constructs and deconstruction
-
-TODO. Try to clarify this as quick as possible because this shouldn't be an advanced concept -- we just have to mention First Principle exaptation and the rest is a matter for the student to deal with.
-
-- construct <> system <> First Principle <> deconstruction
-
-A system is defined in the dictionaries as:
-
-> [Merriam Webster] the act, process, or profession of studying an activity (such as a procedure, a business, or a physiological function) typically by mathematical means in order to define its goals or purposes and to discover operations and procedures for accomplishing them most efficiently
->
-> [Google Dictionary] a set of things working together as parts of a mechanism or an interconnecting network; a set of principles or procedures according to which something is done; an organized scheme or method.
-
-Speculative applications
-
-> We discuss the nature of creativity, entrepreneurship, UX design, and leadership.
-
-> We hypothesize powerful causal links between inefficient rhetoric and inefficient self-help.
-
-> Self-help community; leadership community; rationality community; etc. >> filling out charts of "what I think could be improved, using this framework." Epistemology Tables to productively cover ground
-
-## TODO the four rules
-
-1. Snaps
-2. Density
-3. Contentment
-4. Curiosity
