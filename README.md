@@ -59,15 +59,33 @@ We address the prior art (SMART [Strengthening Mental Abilities with Relational 
 - key differences from Acceptance and Commitment Therapy
 - `self-regulation.md`
 
-### Advanced Languages
+### TODO Advanced Languages
 
-The student divides up their thought process between the major languages. But this is fairly advanced way to get skill generalization.
+> TODO clean up this mess
 
 ```
+
+The student divides up their thought process between the major languages.
+
+ensure a good trajectory
+
+- skill generalization
+- maturity
+- rationality
+
+Serial Data Full Text / Code
+SDFT/C, SDCFT
+
+TODO The computer science data-as-code >> the GPU's-rationality-model includes data/Packers, and the code alters-this-rationality-circuit
+The student should master the systems thinking formula
+from SDFT (packers) to Code="the system of {SDFT}" (mappers)
+The student should imagine that the GPU tries to use rationality to model a Packer
+The student should do this in order to get the GPU to "understand CI without the CPU's help"
+
 ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
 ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method; Categorization; Mental Model)
 SDSL (Social Domain Specific Language) / face-recognition primitives
-MPSOC (Mapper Packer Stream-of-Consciousness) / Code / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
+MPSOC (Mapper Packer Stream-of-Consciousness) / Code as a bridge from Packer to Mapper (self-organization of rationality) / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
 
 > TODO: We have a more rigorous "rotational symmetry of attention spotlight" that we need to type up, also, how "far" the attention spotlight shines, also, abstracting the idea of an "attention spotlight" to an "observer reference point that has a statistical bias"
 
@@ -79,6 +97,7 @@ Branching model >> mathematics of high-dimensional brain spaces >> speculative r
 - `~=` defined as combination of
   - non-side-channel (rotational symmetry around 0 = SDFT (rote memory and basic repetition))
   - side channel (popular culture necessity of Deliberate Practice; the Code of SDCFT) pushed to the outside context
+
 ```
 
 ## Student's Guide
@@ -207,17 +226,6 @@ Even jumping from "front of flashcard" to "back of flashcard" is a logic formula
   - a confidence in the ability to jump from one sphere to another sphere independent from the first one
 - portal between specific item (one item) and Platonic Ideal (zero item)
   - placing a Platonic ideal (zero item) of universalist generalizability at the top of the object hierarchy
-
-## Serial Data Full Text vs. Code (SDCFT)
-
-> TODO The computer science data-as-code >> the GPU's-rationality-model includes data/Packers, and the code alters-this-rationality-circuit
-
-```
-The student should master the systems thinking formula
-from SDFT (packers) to Code="the system of {SDFT}" (mappers)
-The student should imagine that the GPU tries to use rationality to model a Packer
-The student should do this in order to get the GPU to "understand CI without the CPU's help"
-```
 
 ## Constructs and deconstruction
 
