@@ -115,6 +115,8 @@ The idea that violations of the languages can lead to (serious?) psychological s
 
 TODO/ neurology/ tie to integrative path planning, etc. in cognitive spatial maps
 
+TODO/ garbage collected stream-of-consciousness
+
 ```
 
 ## Student's Guide
