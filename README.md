@@ -36,6 +36,8 @@ We address the prior art (SMART [Strengthening Mental Abilities with Relational 
 
 ### The biggest speculation
 
+> TODO merge all prior art into one assertion. STOP ESSENTIALIZING!!!
+
 > The point is not radical behaviorism. The point is cognitive map navigation. Portions of the GPU cognitive map are "painted" with tokens which mesh into the gears of the CPU of radical behaviorism. By getting better at token painting we get better at IQ.
 
 ### CPU >> Emotional Executive
