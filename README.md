@@ -34,11 +34,13 @@ We address the prior art (SMART [Strengthening Mental Abilities with Relational 
 
 ## Speculative neurological circuits
 
-CPU >> Emotional Executive:
+### CPU >> Emotional Executive
+
+> TODO: executive control metaphor; fuse Skinnerian operant w/curiosity; The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
 
 - root of impulsivity
 
-GPU >> Cognitive map:
+### GPU >> Cognitive map
 
 - self-organizing cognitive map
 - the popular construct of "rationality"
@@ -50,12 +52,34 @@ GPU >> Cognitive map:
 - principles transclude other principles
 - QUOTE ABSTRACT "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds" [https://www.sciencedirect.com/science/article/pii/S0896627318308560]
 
-GPU >> Self-regulation:
+### GPU >> Self-regulation
 
-- the goal is for behavior to always meet a binary standard of Correct-Incorrect (CI)
+- People need to behave in accordance with a binary signal of rationality (Correct-Incorrect).
 - CI represents the local maxima of rationality
 - key differences from Acceptance and Commitment Therapy
 - `self-regulation.md`
+
+### Advanced Languages
+
+The student divides up their thought process between the major languages. But this is fairly advanced way to get skill generalization.
+
+```
+ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
+ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method; Categorization; Mental Model)
+SDSL (Social Domain Specific Language) / face-recognition primitives
+MPSOC (Mapper Packer Stream-of-Consciousness) / Code / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
+
+> TODO: We have a more rigorous "rotational symmetry of attention spotlight" that we need to type up, also, how "far" the attention spotlight shines, also, abstracting the idea of an "attention spotlight" to an "observer reference point that has a statistical bias"
+
+Empirical suggesting of branching >> Between the two extremes of 0 (generalizable) and 1 (nongeneralizable), there is a "top" object and a limited amount of "branches" at the top.
+
+Branching model >> mathematics of high-dimensional brain spaces >> speculative rotational symmetry diagram (Zero Point Symmetry)
+
+- 0 = center, 1 = edges of circle
+- `~=` defined as combination of
+  - non-side-channel (rotational symmetry around 0 = SDFT (rote memory and basic repetition))
+  - side channel (popular culture necessity of Deliberate Practice; the Code of SDCFT) pushed to the outside context
+```
 
 ## Student's Guide
 
@@ -81,6 +105,10 @@ qualitiative feelings
 
 - "relearning" the educational constructs that were learned through rote
 - productive standardized format of data exchange (SDFT/C)
+- Combinations of experiential exercises such as rationality reflection, ACT therapy deliteralization, and Snaps make practicing this shift feel like "downhill sledding."
+- The rationality network is far more resilient to stress than the token network; therefore, it buffers the psychological risks of the training.
+- everyone has their own viewpoint, and social norms result in particular cases of wildly varying first principles, but the first principles of the first principles are far more similar
+- cognitive map is massively organized as a high-dimensional space
 
 ### Detail, density, Ebbinghaus asymptote
 
@@ -95,8 +123,6 @@ Density >> An item is dense if it is an exemplar case of encoding many details v
 ### The temporal ping-pong game
 
 > TODO WARNING! This is insufficient. Density must be deliberate practiced in a particular way.
-
-> TODO: executive control metaphor; fuse Skinnerian operant w/curiosity; The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
 
 The training can be simplified into a single game, temporal ping-pong
 
@@ -163,26 +189,6 @@ Zero Question
 Zero Question Answer
 ```
 
-The student divides up their thought process between the major languages. But this is fairly advanced way to get skill generalization.
-
-```
-ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
-ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method; Categorization; Mental Model)
-SDSL (Social Domain Specific Language) / face-recognition primitives
-MPSOC (Mapper Packer Stream-of-Consciousness) / Code / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
-
-> TODO: We have a more rigorous "rotational symmetry of attention spotlight" that we need to type up, also, how "far" the attention spotlight shines, also, abstracting the idea of an "attention spotlight" to an "observer reference point that has a statistical bias"
-
-Empirical suggesting of branching >> Between the two extremes of 0 (generalizable) and 1 (nongeneralizable), there is a "top" object and a limited amount of "branches" at the top.
-
-Branching model >> mathematics of high-dimensional brain spaces >> speculative rotational symmetry diagram (Zero Point Symmetry)
-
-- 0 = center, 1 = edges of circle
-- `~=` defined as combination of
-  - non-side-channel (rotational symmetry around 0 = SDFT (rote memory and basic repetition))
-  - side channel (popular culture necessity of Deliberate Practice; the Code of SDCFT) pushed to the outside context
-```
-
 ### Coping with formulas
 
 ```
@@ -232,6 +238,10 @@ Speculative applications
 > We hypothesize powerful causal links between inefficient rhetoric and inefficient self-help.
 
 > Self-help community; leadership community; rationality community; etc. >> filling out charts of "what I think could be improved, using this framework." Epistemology Tables to productively cover ground
+
+> based on first principles such as those pertaining to self-identity, personal values, ethics, morality, and life experiences, as well as a general set of first principles generally and arbitrarily applicable to constitute an exciting new hypothetical training system of "polymath creativity."
+
+> First principles are descriptions of the partly innate and partly acquired aspects of the rationality map that rhetoric can convey.
 
 ## TODO ADVANCED: Rhetorical privilege
 

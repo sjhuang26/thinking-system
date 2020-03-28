@@ -1,4 +1,4 @@
-# Ideal of self-regulation
+# "Snaps" self-regulation
 
 We set up the hand-waving metaphor* as a template that fully contains the essence of Motivation.
 
