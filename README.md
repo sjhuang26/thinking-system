@@ -89,7 +89,7 @@ The student should imagine that the GPU tries to use rationality to model a Pack
 The student should do this in order to get the GPU to "understand CI without the CPU's help"
 
 ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
-ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method; Categorization; Mental Model/the CommonCog formulation) / domains in which you are an expert / address Michael Simmons as a ZPAS, NOT a ZPS -- ZPAS problem/solution, classify/divide vs. the ZPS variations; ZPS notation vs. ZPAS notation? / ZPAS as a combination of sequential accumulation and combinatorial explosion
+ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method <> deliberate practice; Categorization; Mental Model/the CommonCog formulation) / domains in which you are an expert / address Michael Simmons as a ZPAS, NOT a ZPS -- ZPAS problem/solution, classify/divide vs. the ZPS variations; ZPS notation vs. ZPAS notation? / ZPAS as a combination of sequential accumulation and combinatorial explosion
 SDSL (Social Domain Specific Language) / face-recognition primitives (identity issues) / social-relationship-based tones of rhetoric / cultural influences
 MPSOC (Mapper Packer Stream-of-Consciousness) / Code as a bridge from Packer to Mapper (self-organization of rationality) / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
 
@@ -101,8 +101,19 @@ Branching model >> mathematics of high-dimensional brain spaces >> speculative r
 
 - 0 = center, 1 = edges of circle
 - `~=` defined as combination of
-  - non-side-channel (rotational symmetry around 0 = SDFT (rote memory and basic repetition))
+  - non-side-channel (rotational symmetry around 0 = SDFT (raw absorption/Ebbinghaus-retention of full text and data presented in a simple serial format))
   - side channel (popular culture necessity of Deliberate Practice; the Code of SDCFT) pushed to the outside context
+  - TODO fix the side channel setup: SDFT is Packer while Code is mapper!!!
+
+The idea that violations of the languages can lead to (serious?) psychological stress
+
+- TODO/ SDFT violations
+  - non-serial presentation
+  - ambiguous data-fulltext division
+
+- TODO/ etc. ... let the student figure this out
+
+TODO/ neurology/ tie to integrative path planning, etc. in cognitive spatial maps
 
 ```
 
@@ -309,3 +320,4 @@ As an exemplar, discuss [Trees, Maps, and Theorems].
 - A rhetorical push `>>` would be a portal where the portal construct is rhetorically privileged
 - A curly bracket notation `{}` would be a portal between the normal outside and privileged inside
 - An asterisk `*` or footnote -- suggests a _de facto_ side channel (`*{Footnote}` notation becomes a real possibility)
+- TODO: ```@X``` or ```X/ Y``` as rhetorical privilge? (e.g., `problem/ A; solution/ B`)
