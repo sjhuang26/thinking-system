@@ -2,7 +2,7 @@
 
 ## Revised Introduction: Big Picture Questions
 
-What is the "thought process and life methodology" of a profoundly gifted person like? If a normal person studies the process in the right way, do they turn into a profoundly gifted person? Can we claim that certain cognitive exercises will greatly accelerate this process? In life, which constructs are vital and which constructs are wasteful, in that virtually everyone is psychologically motivated to _make one's cognitive map more rational_*? *{"self-organization"}
+What is the "thought process and life methodology" of a profoundly gifted person like? Do they feel the same sensations as a normal person as they go through the stresses and traumas of life? If a normal person studies the process in the right way, do they turn into a profoundly gifted person? Can we claim that certain cognitive exercises will greatly accelerate this process? In life, which constructs are vital and which constructs are wasteful, in that virtually everyone is psychologically motivated to _make one's cognitive map more rational_*? *{"self-organization"}
 
 ## Format notes
 
