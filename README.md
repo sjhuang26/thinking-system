@@ -8,14 +8,15 @@
 
 ## Introduction
 
-A mapper will "sit and think" about "collect[ed] information" to "simplify" the "mental map" while a packer lacks command of the aforementioned simplifying process. [https://wiki.c2.com/?MappersVsPackers]
+Abstractions must be condensed for comprehensibility*, but the document is written with a clear dialectic in mind: a mapper will "sit and think" about "collect[ed] information" to "simplify" the "mental map" while a packer lacks command of the aforementioned simplifying process. [https://wiki.c2.com/?MappersVsPackers] The first step is to outline the neurological circuits that we speculate exist. We use an uninventive computer science metaphor to get the point across. GPU vs. CPU circuit.
 
-We rigorize the dichotomy with speculative neurological circuits so we can deconstruct a long list of psychological phenomena (including core ideas in Relational Frame Theory).
+CPU = Packer = Reward and Punishment circuit
 
-- Packer - Reward and Punishment circuit - CPU
-- Mapper - Rationality circuit - GPU
+GPU = Mapper = Rationality circuit
 
-The goal is for the CPU to relinquish virtually all of its responsibility (using, for instance, metaphors), so that:
+*{or else the document will be a "flight of ideas" in the derisive sense}
+
+Our ultimate goal is to force the CPU to relinquish virtually all of its responsibility (using, for instance, metaphors), so that:
 
 - wide-ranging psychological effects arise
   - We describe a therapy with the advantages of learnability (easy to learn), simplicity (very few elements), productivity (generally faster results).
@@ -25,12 +26,12 @@ The goal is for the CPU to relinquish virtually all of its responsibility (using
   - We develop a new training to cognitively stress the GPU far more.
   - We argue that the prior art [Multiple Exemplar Training as applied in https://raiseyouriq.com] is fundamentally unworkable.
 - Limitation: the CPU stage may be necessary at a very young age to crystallize some "cue/token bubbles" in the GPU.
-  - TODO: Packers + tokens; Mappers + GPU contains a subsystem of Packers (rhetoric/ reconciliation process???)
-  - TODO: token = locus of attention/behavior (The neuron network encodes the details as being encapsulated by the token. The student associates the token with either RED or GREEN.)
+  - TODO: YOU MUST CLARIFY: Packers + tokens; Mappers + GPU contains a subsystem of Packers (rhetoric/ reconciliation process???)
+  - TODO: YOU MUST CLARIFY: token = locus of attention/behavior (The neuron network encodes the details as being encapsulated by the token. The student associates the token with either RED or GREEN.)
 
-We address the prior art (SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ") by arguging that their training is fundamentally unworkable* in cognitively stressing the GPU.
+### Prior art
 
-- *{I think the training (inefficiently) works because repeating the drills hundreds to thousands of times creates a marginal stress on the GPU.}
+SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"). TODO: argue that compared to our training, their training is fundamentally unworkable in cognitively stressing the GPU. However, the SMART training (inefficiently) works because repeating the drills hundreds to thousands of times creates a marginal stress on the GPU.
 
 ## Speculative neurological circuits
 
@@ -38,7 +39,9 @@ We address the prior art (SMART [Strengthening Mental Abilities with Relational 
 
 > TODO merge all prior art into one assertion. STOP ESSENTIALIZING!!!
 
-> The point is not radical behaviorism. The point is cognitive map navigation. Portions of the GPU cognitive map are "painted" with tokens which mesh into the gears of the CPU of radical behaviorism. By getting better at token painting we get better at IQ.
+GPU/Cognitive map navigation is elevated above CPU/radical behavioralism.
+
+Cognitive map regions are "painted" with linguistic tokens. This token painting is speculatively helping us with IQ.
 
 ### CPU >> Emotional Executive
 
@@ -116,6 +119,10 @@ The idea that violations of the languages can lead to (serious?) psychological s
 TODO/ neurology/ tie to integrative path planning, etc. in cognitive spatial maps
 
 TODO/ garbage collected stream-of-consciousness
+
+TODO/ Creativity training >> "creativity workflow training"
+
+TODO/ The document that only grabs one piece of rhetorical privilege -- one first principle
 
 ```
 
