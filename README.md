@@ -1,5 +1,9 @@
 # Defending the "Mapper-Packer" Dialectic as a Breakthrough Perspective in Applied Psychology
 
+## Revised Introduction: Big Picture Questions
+
+What is the "thought process and life methodology" of a profoundly gifted person like? If a normal person studies the process in the right way, do they turn into a profoundly gifted person? Can we claim that certain cognitive exercises will greatly accelerate this process? In life, which constructs are vital and which constructs are wasteful, in that virtually everyone is psychologically motivated to _make one's cognitive map more rational_*? *{"self-organization"}
+
 ## Format notes
 
 > Blockquotes are oftentimes "side thoughts" to be managed later {e.g., create separate document; rewrite into main document; restructure document for clarity and naturalness}.
