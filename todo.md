@@ -42,3 +42,123 @@ What you need to see, though, is that the textbook does teach attention regulati
 ## Genre strategy
 
 - "in media res"? Sales copy should reflect an "in media res" where the reader is in a crucial point in the middle of a long-winded journey
+
+## Rhetorical strategy
+
+Particularly in the introduction and conclusion, writing is about acts of focus. If a cognitive map underlies rhetoric, then such focus is like a hotspot of attention in a complex cognitive map.
+
+- narrow spotlight
+- psychologically motivating the reader to think about something
+- no proliferating islands of "swamp floaters"
+- no meandering
+- question/answer
+- problem/solution
+
+I decided that "draining the swamp of rhetoric" is easiest with the thin client* formula: ```claim + illustrations of the first principles of what is claimed```**.
+
+*computer science analogy
+
+**There are strong parallels to patents (standardized patent format).
+
+## "Remote switch"
+
+How could strategies similar to temporal ping-pong -- a "remote switch" of attention -- be the only true necessity?
+
+- I decided to introduce Zero Point Symmetry.
+- I decided to introduce Density, so we can contextualize the learning curve and the deliberate practice involved. 
+- I decided to introduce an ampersand  ```&``` notation for portals, so we can talk about the formulas involved.
+  - ```0&01 versus 01&012``` only really matters for low-density work
+
+## TODO Advanced cognitive languages: even more formulas?
+
+```
+
+The student divides up their thought process between the major languages.
+
+ensure a good trajectory
+
+- skill generalization
+- maturity
+- rationality
+- To do this, we assume the existence of particular neurological phenomena
+- in the end, we can't get "stuck" so we'll have to do this Wartime Mentality capture of value
+
+Serial Data Full Text / Code
+SDFT/C, SDCFT
+
+TODO The computer science data-as-code >> the GPU's-rationality-model includes data/Packers, and the code alters-this-rationality-circuit
+The student should master the systems thinking formula
+from SDFT (packers) to Code="the system of {SDFT}" (mappers)
+The student should imagine that the GPU tries to use rationality to model a Packer
+The student should do this in order to get the GPU to "understand CI without the CPU's help"
+
+ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
+ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method <> deliberate practice; Categorization; Mental Model/the CommonCog formulation) / domains in which you are an expert / address Michael Simmons as a ZPAS, NOT a ZPS -- ZPAS problem/solution, classify/divide vs. the ZPS variations; ZPS notation vs. ZPAS notation? / ZPAS as a combination of sequential accumulation and combinatorial explosion
+SDSL (Social Domain Specific Language) / face-recognition primitives (identity issues) / social-relationship-based tones of rhetoric / cultural influences
+MPSOC (Mapper Packer Stream-of-Consciousness) / Code as a bridge from Packer to Mapper (self-organization of rationality) / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
+
+> TODO: We have a more rigorous "rotational symmetry of attention spotlight" that we need to type up, also, how "far" the attention spotlight shines, also, abstracting the idea of an "attention spotlight" to an "observer reference point that has a statistical bias"
+
+Empirical suggesting of branching >> Between the two extremes of 0 (generalizable) and 1 (nongeneralizable), there is a "top" object and a limited amount of "branches" at the top.
+
+Branching model >> mathematics of high-dimensional brain spaces >> speculative rotational symmetry diagram (Zero Point Symmetry)
+- cognitive map is massively organized as a high-dimensional space
+
+- 0 = center, 1 = edges of circle
+- `~=` defined as combination of
+  - non-side-channel (rotational symmetry around 0 = SDFT (raw absorption/Ebbinghaus-retention of full text and data presented in a simple serial format))
+  - side channel (popular culture necessity of Deliberate Practice; the Code of SDCFT) pushed to the outside context
+  - TODO fix the side channel setup: SDFT is Packer while Code is mapper!!!
+
+The idea that violations of the languages can lead to (serious?) psychological stress
+
+- TODO/ SDFT violations
+  - non-serial presentation
+  - ambiguous data-fulltext division
+
+- TODO/ etc. ... let the student figure this out
+
+TODO? Look into garbage collection / stream-of-consciousness.
+
+```
+
+## TODO: Our speculative neural circuits
+
+A mapper will "sit and think" about "collect[ed] information" to "simplify" the "mental map" while a packer lacks command of the aforementioned simplifying process. [https://wiki.c2.com/?MappersVsPackers]
+
+CPU = Packer = Reward and Punishment circuit
+
+GPU = Mapper = Cognitive Map circuit (TODO legacy notation: Rationality Circuit)
+
+Is this terminology useful?
+
+Are these real neural circuits, and if so, how much dominance should the CPU have? What if our training philosophy were to force the CPU to relinquish virtually all of its responsibility? How could this be done? The CPU stage may be necessary at a very young age to crystallize cues in the GPU. The cognitive map seems to encode details as being encapsulated by cues, which we exploit by having the student associates the cue with either RED or GREEN. In other words, cognitive map regions are "painted" with linguistic tokens. This token painting is speculatively helping us with IQ.
+
+### Prior art
+
+SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"). TODO: argue that compared to our training, their training is fundamentally unworkable in cognitively stressing the GPU. However, the SMART training (inefficiently) works because repeating the drills hundreds to thousands of times creates a marginal stress on the GPU.
+
+### CPU >> Emotional Executive
+
+> TODO: executive control metaphor; fuse Skinnerian operant w/curiosity; The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
+
+- root of impulsivity
+
+### GPU >> Cognitive map
+
+- self-organizing cognitive map
+- the popular construct of "rationality"
+- nonverbal acquisition of first principles
+- `systems-analysis.md`
+- mental models
+- sensory process of visualization; simulating the future from the episodic past/present
+- combinatorial generalization >> creative intuition
+- principles transclude other principles
+- QUOTE ABSTRACT "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds" [https://www.sciencedirect.com/science/article/pii/S0896627318308560]
+
+### GPU >> Self-regulation
+
+- People need to behave in accordance with a binary signal of rationality (Correct-Incorrect).
+- CI represents the local maxima of rationality
+- key differences from Acceptance and Commitment Therapy
+- `self-regulation.md`
