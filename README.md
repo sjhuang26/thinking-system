@@ -15,7 +15,7 @@ Here is the big picture of this essay.
 3. Is the prior art of Multiple Exemplar Training as applied in https://raiseyouriq.com fundamentally unworkable?
 4. From the cognitive map idea, we can start to talk about "one spatial reference point" versus "many spatial reference points." How can we use this general dichotomy to create a curriculum for education? Could such education change the way people communicate (i.e., rhetoric)?
 
-How can **token painting aptitude** -- productively "painting" **cognitive map** regions with tokens (i.e., **cues**) -- be trained?
+How can **token painting aptitude** -- productively "painting" **cognitive map** regions with tokens (i.e., **cues**) to reinforce navigation/self-organization of the map -- be trained?
 
 The training is based on a simple attention switch between arbitrary cues and details. The training seems really elementary, but I believe that schoolteachers and the whole education system totally fail to teach this stuff in a rigorous way.
 
