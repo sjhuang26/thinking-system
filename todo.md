@@ -162,3 +162,5 @@ SMART [Strengthening Mental Abilities with Relational Training] training, curren
 - CI represents the local maxima of rationality
 - key differences from Acceptance and Commitment Therapy
 - `self-regulation.md`
+
+> ```{TODO: "rationality module" + "energy system" + "Self-Other Relationship module" + "(TODO: SDSL?)" + "(TODO: ZPAS; "Genius Slave"?) or some other metaphor contra grandioseness" + Packer-Mapper analogy (TODO: MPSOC)} (TODO: Packer >> Mapper)(ZPS) (Mapper-ish; SDFT-ish) ("Single Thin Client" metaphor)```
