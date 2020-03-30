@@ -10,77 +10,95 @@
 
 Here is the big picture of this essay.
 
-1. Cognitive maps can be represented with simple paradigms like "navigation, painting, and spotlighting" that seem learnable: at least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map. From here, is it possible to write a cognitive map training curriculum which we can reasonably market as having powerful and useful effects on both psychological state and cognitive aptitude, and even as a general model of psychopathology versus psychological thriving?
-2. Is the prior art of Multiple Exemplar Training as applied in https://raiseyouriq.com fundamentally unworkable?
-3. From the cognitive map idea, we can start to talk about "one spatial reference point" versus "many spatial reference points." Can we use this general dichotomy to create a feasible education curriculum? How would such education change rhetoric?
+1. Cognitive maps can be represented with simple paradigms like "navigation, painting, and spotlighting" that seem learnable: at least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map. From here, is it possible to write a cognitive map training curriculum -- with powerful effects on both psychological state and cognitive aptitude?
+2. What do cognitive maps tell us about psychopathology versus psychological thriving?
+3. Is the prior art of Multiple Exemplar Training as applied in https://raiseyouriq.com fundamentally unworkable?
+4. From the cognitive map idea, we can start to talk about "one spatial reference point" versus "many spatial reference points." How can we use this general dichotomy to create a curriculum for education? Could such education change the way people communicate (i.e., rhetoric)?
+
+How can **token painting aptitude** -- productively "painting" **cognitive map** regions with tokens (i.e., **cues**) -- be trained?
+
+The training is based on a simple attention switch between arbitrary cues and details. The training seems really elementary, but I believe that schoolteachers and the whole education system totally fail to teach this stuff in a rigorous way.
+
+Our training is related to Relational Frame Theory because it vaguely resembles the three fundamental relational frames.
+
+1. SAME-DIFF => temporal ping-pong and Correct-Incorrect.
+2. MORE-LESS => snowballing/curiosity.
+3. HIERARCHY => cue/painting.
 
 ## Revised Training
 
-### Connections to Relational Theory
+### Overview
 
-Relational Frame Theory emphasizes three fundamental relational frames.
-
-Why are they noteworthy? They are inspirations for the training to follow.
-
-1. SAME-DIFF teaches temporal ping-pong and Correct-Incorrect.
-2. MORE-LESS teaches snowballing/curiosity.
-3. HIERARCHY teaches cue/painting.
+- Science suggests the existence of cognitive maps.
+  - QUOTE ABSTRACT "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds" [https://www.sciencedirect.com/science/article/pii/S0896627318308560]
+- The two hypothetical neural circuit constructs are proposed.
+  - CPU = Reward and Punishment + operant behavior
+  - GPU = Rational Behavior + cognitive map (which accounts for operant behavior) + token painting aptitude
+  - It is proposed that the CPU has no real self-regulation capacity: the GPU is what makes us mature humans.
+    - The GPU would create a special binary signal of rationality (Correct-Incorrect; a **local maxima** of rationality) that could overwrite Reward and Punishment when trained.
+- Somewhere along the line, we become contrarians of mainstream therapies like Cognitive Behavioral Therapy and Acceptance and Commitment Therapy.
+- Are these real neural circuits, and if so, how much dominance should the CPU have?
+  - What if our training philosophy were to force the CPU to relinquish virtually all of its responsibility?
+  - How could this be done?
+- The CPU stage may be necessary at a very young age to crystallize the token painting aptitude in the GPU.
+  - nonverbal acquisition of first principles or mental models
+  - a mesh of first principles subconsciously acquired in a particular sequence
+- SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ", is fundamentally unworkable compared to our training.
+  - It cognitively stresses the GPU only by repeating the drills hundreds to thousands of times; our training is far more direct.
 
 ### Terminology
 
-Detail >> Different appearances encode different levels of detail. (e.g., Cartoony appearance vs. realistic appearance)
+- Different appearances encode different levels of **detail** when visualized.
+  - ```cartoony appearance < realistic appearance```
+- A **dense** (opposite of **sparse**) training uses cues that the brain absorbs easily (i.e., many details are easily encoded under a single cue).
+  - This frequently occurs in the spatial-visual training context. The speed that the individual hierarchically unpacks big details into little details (many of which are memorized and retained) is astoundingly fast.
+  - Episodic memory is pretty dense.
+  - Declarative memory is notoriously sparse.
+- The **Ebbinghaus asymptote** is a common-sense assumption from the Ebbinghaus forgetting curve.
+  - The present sensory stream-of-consciousness is essentially equivalent to an **asymptotic** (virtually infinite detail level) episodic memory.
+  - To be clear, seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
+- The process of **snowballing** is cumulatively moving from less detail to more detail.
+  - Later, this is connected to curiosity.
 
-- *{Details may be shared between multiple tokens.}
+### Details
 
-Density >> An item is dense if it is an exemplar case of encoding many details very easily under a single token. For instance, in some training contexts (e.g., spatial-visual), it is trivial to absorb massive detail, such that the speed that the individual hierarchically unpacks big details into little details (many of which are memorized and retained) is astoundingly fast compared to the declarative memory schemas, which are notoriously poor in density.
-
-Sparsity >> the opposite of density.
-
-"Ebbinghaus asymptote" >> assume that the present sensory stream-of-consciousness is essentially equivalent to an asymptotic (virtually infinite detail level) episodic memory. [Ebbinghaus principles of forgetting]
-
-> Seeing an image and forgetting 90% of episodic detail between second 1 and second 10 implies (assume similar rates and extrapolate!) that second 0.01 must be an incredibly dense storage of thousands to millions of details and that second 0 must have virtually infinite detail density.
-
-Snowballing >> Snowballing is cumulatively moving from less detail to more detail, like a curious person would.
-
-### What is the training?
-
-The training is a simple attention switch between arbitrary cues and details. The formula is:
+The formula is:
 
 ```
 (cue A, detail A) => (cue B, detail B) => (cue A, detail C) => (cue B, detail D) => A => B => A ...
 
-We would say that there is a "PORTAL" between A and B, written as A&B. The portal symbolizes the skill that is generalized.
+Between A and B, there is a "PORTAL" written as A&B.
 
-Apply a "temporal ping-pong."
-
-Set up a rhythm.
-
-When paying attention, label the target cue or detail as CORRECT while all other stuff (in particular, the OTHER item) is INCORRECT.
+Label the cue or detail you should pay attention to as CORRECT.
+Label anything else as INCORRECT. Notice how the INCORRECT case is specific (it unambiguously points to a single item).
 ```
 
-**The reader can conceptualize: why could this intervention possibly work? The training seems elementary, but I believe that schoolteachers and the whole education system totally fail to teach this stuff in a rigorous way.**
+### Vital tips
 
-**To be clear, we develop the general skill of labeling items in the cognitive map.**
-
-1. Episodic memory of Cue A, Episodic memory of Cue B, and Contextual Cue X (episodic memory of non-AB details such as the room, time of day, etc.) are members of the cognitive map.
-2. Crowd A of neurons continues to talk to Crowd B and Crowd X resulting in very strong combinatorial interactions.
-
-**Is this more than a reward-and-punishment game?** Where it only takes a "1% chance" of a random quiz to get the brain to pay attention? Our exercise is far more than that. Yes, it is a blunt way to build a "detail mindfulness habit," but at the same time, the OTHER PARTS of the exercise as a whole are a massive _signal booster_ of attention/reward/punishment until focus goes up.
-
-**Is there a visualization aspect?** I believe the "mind's eye" works by storing the delta between the present and the desired visualization. I believe the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
-
-**Is there a reduction in interference effects related to attention?** I think so. A big part is the interference between paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue. Another big part is interference between Correct vs. incorrect (in particular, better managing any symbolic reasoning involved). Another big part is not directly specifying which object is correct versus incorrect until the last milliseconds and seeing how fast your brain can react.
-
-**Why does the narrow focus of the exercise (only two cues and details within them) matter?**
-
-1. Intuitively, I feel this is a MAJOR ADVANTAGE: focusing on two items has the major advantage that the Incorrect case unambiguously points to a single item.
-2. Two points makes a straight line and navigation is definetly based on straight lines. However, this suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
-
-**Do you need to have a clear conceptualization that detail is lost when you shift attention to the other item?** At an incredibly fast pace, density shifts from Cue A to Cue B and back. So yes.
-
-**I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."** The line-diagram notation (annotating boundaries and curves with lines -- like an artist!) tries to amplify this effect. We are trying to preserve as much detail as possible when the objects are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
-
-Hierarchy factors >> Hopefully I made it clear? One cue, many details.
+- We develop the general skill of labeling items in the cognitive map.
+  - The portal symbolizes the skill that is generalized.
+  - Episodic memory of Cue A, Episodic memory of Cue B, and Contextual Cue X (episodic memory of non-AB details such as the room, time of day, etc.) are members of the cognitive map.
+  - Crowd A of neurons continues to talk to Crowd B and Crowd X resulting in very strong combinatorial interactions.
+    - Does this make the training more robust? I don't know.
+- You must set up a temporal rhythm, which is what I call temporal ping-pong.
+- Why does the narrow focus of the exercise (only two cues and the details within them) give us a major advantage?
+  - The INCORRECT case is very specific, as mentioned in the formula.
+  - Two points makes a straight line; navigation is definetly based on straight lines.
+    - However, this suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
+- What makes this more than reward-and-punishment?
+  - To be clear, our exercise goes far beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention; far beyond a "detail mindfulness habit."
+  - The exercise as a whole is a massive _signal booster_ of attention/reward/punishment.
+  - There is a strong visualization aspect; I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
+    - An alternate explanation is that the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
+    - To be clear, I think the GPU is capable of the sensory process of visualization -- simulating the future from the episodic past/present.
+  - Attention-related interference effects are reduced.
+    - Interference: paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue.
+    - Interference: Correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
+    - Interference: not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react.
+  - There is an incredibly fast density shift from Cue A to Cue B and back.
+    - You should have a clear conceptualization that many details are being dropped from the brain during the shifts.
+    - I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
+    - The line-diagram notation (annotating boundaries and curves with lines -- like an artist!) tries to amplify this effect. We are trying to preserve as much detail as possible when the objects are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
 
 ### Unorganized tips
 
@@ -91,6 +109,7 @@ The point is to have a clear plan to graduate from more dense to less dense item
 - Practicing the line of reasoning: if my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
 - Ensuring the proper understanding of: CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
   - Creating metaphors for reward, punishment, and the cue-detail relationship, clearly understood to be a hierarchy.
+    - one cue, many details
     - details can be associated with other details
     - details have subdetails
     - details can turn into new cues
@@ -102,7 +121,7 @@ The point is to have a clear plan to graduate from more dense to less dense item
   - a "LESS" sign for the LESS relation
   - imagining the bubble that says "NOT (A =/= B)" sprouting from the bubble of "A == B"
 - Accept that you will have to "relearn" the educational constructs that you learned through rote.
-  - Timewise, this will be a very fast relearning.
+  - You should start thinking in terms of "KWL charts," "hamburger models of essays," and so on.
 - Create a productive standardized format of data exchange.
   - This is discussed at length in the more advanced or TODO sections?
 - Combinations of experiential exercises such as rationality reflection, ACT therapy deliteralization, and Snaps make practicing this shift feel like "downhill sledding" -- and it should?

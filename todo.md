@@ -132,35 +132,12 @@ GPU = Mapper = Cognitive Map circuit (TODO legacy notation: Rationality Circuit)
 
 Is this terminology useful?
 
-Are these real neural circuits, and if so, how much dominance should the CPU have? What if our training philosophy were to force the CPU to relinquish virtually all of its responsibility? How could this be done? The CPU stage may be necessary at a very young age to crystallize cues in the GPU. The cognitive map seems to encode details as being encapsulated by cues, which we exploit by having the student associates the cue with either RED or GREEN. In other words, cognitive map regions are "painted" with linguistic tokens. This token painting is speculatively helping us with IQ.
-
-### Prior art
-
-SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"). TODO: argue that compared to our training, their training is fundamentally unworkable in cognitively stressing the GPU. However, the SMART training (inefficiently) works because repeating the drills hundreds to thousands of times creates a marginal stress on the GPU.
-
 ### CPU >> Emotional Executive
 
 > TODO: executive control metaphor; fuse Skinnerian operant w/curiosity; The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
 
-- root of impulsivity
-
-### GPU >> Cognitive map
-
-- self-organizing cognitive map
-- the popular construct of "rationality"
-- nonverbal acquisition of first principles
-- `systems-analysis.md`
-- mental models
-- sensory process of visualization; simulating the future from the episodic past/present
-- combinatorial generalization >> creative intuition
-- principles transclude other principles
-- QUOTE ABSTRACT "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds" [https://www.sciencedirect.com/science/article/pii/S0896627318308560]
-
 ### GPU >> Self-regulation
 
-- People need to behave in accordance with a binary signal of rationality (Correct-Incorrect).
-- CI represents the local maxima of rationality
-- key differences from Acceptance and Commitment Therapy
 - `self-regulation.md`
 
 > ```{TODO: "rationality module" + "energy system" + "Self-Other Relationship module" + "(TODO: SDSL?)" + "(TODO: ZPAS; "Genius Slave"?) or some other metaphor contra grandioseness" + Packer-Mapper analogy (TODO: MPSOC)} (TODO: Packer >> Mapper)(ZPS) (Mapper-ish; SDFT-ish) ("Single Thin Client" metaphor)```
