@@ -137,6 +137,9 @@ The point is to have a clear plan to graduate from more dense to less dense item
     - a confidence in the skill generalization where mastering the logic of variables is equal to mastering logical comparisons between specific objects
     - a confidence in creativity by the metaphorical combinatorial collision of thousands of spheres
     - a confidence in the ability to jump from one sphere to another sphere independent from the first one
+- TODO: work out a First Principles-based language learning system? This might really be the next major step in the learning journey.
+  - universalizes to foreign languages
+  - systems analysis and first principles
 
 ## A list of more formulas for "snowballs"
 
