@@ -60,59 +60,73 @@ Our training is related to Relational Frame Theory because it vaguely resembles 
 
 ### Details
 
-- Sit in a typical room. Select two arbitrary cues (A and B).
-- From here, generate two more cues: AB (a visual "merging together" or "melting together" of A/B) and X (anything in the room that isn't A or B).
-- Define the **portal** procedure operating over two cues (notation: ```&```).
-  - Cues have details, right?
-  - Label the cue you should pay attention to as CORRECT.
-  - Label the other cue as INCORRECT.
-  - Notice the binary nature of the CORRECT-INCORRECT.
-  - Follow a cycle.
-    - Grab a random detail from the CORRECT cue.
-    - Switch the CORRECT and INCORRECT cue around.
-- Practice the following portals.
-  - ```A&B```
-  - ```X&AB```
-  - ```AB&A```
-  - ```AB&B```
-- The following attention-related interferences are stressed.
-  - paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
-  - correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
-  - not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react
-  - Cue#1 vs. Cue#2
-- Within a portal, there is a **dual pressure** (two cues at once) and a rhythmic shift from one to the other. Each cue is **"snowballing"** from less detail to more cumulative detail
-  - an expanding out of the hierarchy of details under each cue
-  - There is an associative aspect (what particular memories the cue is closely associated with?)
+Sit in a typical room to set up the exercise. Select two arbitrary cues.
 
-### Vital tips
+- Cue A.
+- Cue B.
+- Also consider cue AB.
+  - (a visual "merging together" or "melting together" of A/B)
+- Also consider cue X.
+  - (anything in the room that isn't A or B)
 
-- We develop the general skill of labeling items in the cognitive map.
-  - The portal symbolizes the skill that is generalized.
-  - Episodic memory of Cue A, Episodic memory of Cue B, and Contextual Cue X (episodic memory of non-AB details such as the room, time of day, etc.) are members of the cognitive map.
-  - Crowd A of neurons continues to talk to Crowd B and Crowd X resulting in very strong combinatorial interactions.
-    - Notice how details are pulled in pairs (one detail from one cue + one detail from another)
-    - Does this make the training more robust? I don't know.
-- You must set up a temporal rhythm, which is what I call temporal ping-pong.
-- Why does the narrow focus of the exercise (only two cues and the details within them) give us a major advantage?
-  - The INCORRECT case is very specific, as mentioned in the formula.
-  - Two points makes a straight line; navigation is definetly based on straight lines.
-    - However, this suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
-- What makes this more than reward-and-punishment?
-  - To be clear, our exercise goes far beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention; far beyond a "detail mindfulness habit."
-  - The exercise as a whole is a massive _signal booster_ of attention/reward/punishment.
-  - There is a strong visualization aspect; I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
-    - An alternate explanation is that the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
-    - To be clear, I think the GPU is capable of the sensory process of visualization -- simulating the future from the episodic past/present.
-  - There is an incredibly fast density shift from Cue A to Cue B and back.
-    - You should have a clear conceptualization that many details are being dropped from the brain during the shifts.
-    - I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
-    - The line-diagram notation (annotating boundaries and curves with lines -- like an artist!) tries to amplify this effect. We are trying to preserve as much detail as possible when the objects are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
+Define the **portal** procedure operating over two cues (notation: ```&```).
+
+The portal procedure is a general skill of cue labelling. Demands a steady **temporal ping-pong** rhythm. This cycle is to be repeated several times.
+
+- **CORRECT-INCORRECT** binary of attention.
+  - Label the cue you should pay **attention** to as CORRECT. Label the other cue as INCORRECT.
+  - Notice how the INCORRECT cue is unambiguously **anti-attention**.
+- From the CORRECT cue, find another random associated detail to point out: this is **"snowballing"** from less detail to more cumulative detail.
+  - (detail possibilities: locations of particular lines, shades of color, any associated memory, style of the room, time of day, etc.)
+- Switch the CORRECT and INCORRECT cue around. There are two **detail hierarchies** being proliferated at once. This is **dual pressure**.
+
+Practice the following portals.
+
+- ```A&B```
+- ```X&AB```
+- ```AB&A```
+- ```AB&B```
+
+The following attention-related interferences are stressed.
+
+- paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
+- correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
+- not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react
+- Cue#1 vs. Cue#2
+
+How does this tie into cognitive maps?
+
+- A, B, and X are all episodic memories and also members of the **cognitive map**.
+- Crowd A of neurons continues to talk to Crowd B and Crowd X resulting in very strong combinatorial interactions.
+  - Details are pulled in pairs (jump to Cue#1, pull a detail, jump to Cue#2, pull another detail).
+  - Does this make the training more robust? I don't know.
+
+### What makes this more than reward-and-punishment?
+
+Why does the narrow focus of the exercise (only two cues and the details within them) give us a major advantage?
+
+- The INCORRECT case is very specific.
+- Two points makes a straight line; navigation is definetly based on straight lines.
+  - However, this suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
+
+Does our exercise go beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention? Yes; it is far beyond a "detail mindfulness habit."
+
+- The exercise as a whole is a massive _signal booster_ of attention/reward/punishment.
+- There is a strong visualization aspect; I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
+  - An alternate explanation is that the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
+  - To be clear, I think the GPU is capable of the sensory process of visualization -- simulating the future from the episodic past/present.
+- There is an incredibly fast density shift from Cue A to Cue B and back.
+  - You should have a clear conceptualization that many details are being dropped from the brain during the shifts.
+  - I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
+  - The line-diagram notation (annotating boundaries and curves with lines -- like an artist!) tries to amplify this effect. We are trying to preserve as much detail as possible when the objects are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
 
 ### Unorganized tips
 
 Getting the general gist of the exercises is enough for beginners. (I noticed improvement in creativity without implementing even half of these.)
 
 The point is to have a clear plan to graduate from more dense to less dense items by using snowball formulas and other advanced techniques. Otherwise, you are virtually guaranteed to hit one of the many training plateaus, and you probably won't notice.
+
+What is nontrivial is using deliberate practice to scaffold the skill generalization process from dense to sparse.
 
 - Practicing the line of reasoning: if my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
 - Ensuring the proper understanding of: CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
@@ -135,23 +149,15 @@ The point is to have a clear plan to graduate from more dense to less dense item
 - Combinations of experiential exercises such as rationality reflection, ACT therapy deliteralization, and Snaps make practicing this shift feel like "downhill sledding" -- and it should?
 - The rationality network is extremely resilient to stress; therefore, it buffers the psychological risks of the training.
   - social norms result in particular cases of wildly varying first principles, but the first principles of the first principles are far more similar; this is the sense of common human identity
-- Follow some clear portal formulas. You should note that this point is further addressed in "snowballs."
-  - 1A&1A2B => 1B&1B2A
-  - less detailed item & more detailed item
-  - etc.
-- Use imagination to visualize a "variable object" as a sort of Platonic Ideal that all specific objects descend from
-  - portal between specific item (one item) and a small gray-colored sphere that can be colored depending on the position in the formula (zero item)
-    - placing a Platonic ideal (zero item) of universalist generalizability at the top of the object hierarchy
-    - a confidence in the skill generalization where mastering the logic of variables is equal to mastering logical comparisons between specific objects
-    - a confidence in creativity by the metaphorical combinatorial collision of thousands of spheres
-    - a confidence in the ability to jump from one sphere to another sphere independent from the first one
-- TODO: work out a First Principles-based language learning system? This might really be the next major step in the learning journey.
-  - universalizes to foreign languages
-  - systems analysis and first principles
+- Visualize a **zero cue** which is a small gray-colored sphere that can be colored depending on the position in the formula. Treat it as the top of the **cue hierarchy** -- the Platonic Ideal that all **one cues** (specific cues) descend from.
+  - ```0&1```
+  - Is mastering the logic of variables equal to mastering logical comparisons between specific objects? Is creativity the metaphorical combinatorial collision of thousands of spheres? Is there a general aptitude of jumping from one sphere to another sphere independent from the first one? The point is to build confidence in the skill generalization.
 
-## A list of more formulas for "snowballs"
+## Technical Aspects
 
-> TODO? Practice random-access jumping between a cumulating list of items in a memory palace journey.
+### A list of more formulas for "snowballs"
+
+> TODO? Practice random-access jumping between a cumulating list of items in a memory palace journey. But also a _Random-Access Stress_ in general.
 
 ```
 A&AB
@@ -165,6 +171,8 @@ involving a generic "NULL" item as a "zero item" that all other objects originat
 
 Zero & Zero Question
 Zero Question & Zero Question Answer
+
+less detailed item & more detailed item
 ```
 
 ```
@@ -173,8 +181,14 @@ You could visualize this as a two-variable equation
 Even jumping from "front of flashcard" to "back of flashcard" is a logic formula of Item1 + Item2
 ```
 
-## TODO Analysis of Deliberate Practice
+### Deliberate practice cycle
 
-Creativity training: ```Cue >> wait for detail expansion >> detail-as-new-cue1 & detail-as-new-cue2 >> hard output; also, repeat on multiple days to store into short-term memory```
+> TODO. I use a more sophisticated metaphor -- _Thin Client_ -- to keep track of all this.
 
-Speed training: ```Cue/detail-as-new-cue OR two unrelated cues >> cue1 & cue2; ```
+- Input >> apply a dense construct to discover one detail
+  - _first principles_
+  - _systems analysis_
+  - _legalistic constructs_
+- Perform ```initial-cue & detail-as-new-cue```
+- sparse output >> input
+  - multi-document cycle: _a content buffer over an extended period of time_

@@ -141,3 +141,7 @@ Is this terminology useful?
 - `self-regulation.md`
 
 > ```{TODO: "rationality module" + "energy system" + "Self-Other Relationship module" + "(TODO: SDSL?)" + "(TODO: ZPAS; "Genius Slave"?) or some other metaphor contra grandioseness" + Packer-Mapper analogy (TODO: MPSOC)} (TODO: Packer >> Mapper)(ZPS) (Mapper-ish; SDFT-ish) ("Single Thin Client" metaphor)```
+
+## Analytical Deliberate Practice
+
+"What really is the difference between training fluid intelligence and training foreign languages?"
