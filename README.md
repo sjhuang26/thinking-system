@@ -58,9 +58,11 @@ Our training is related to Relational Frame Theory because it vaguely resembles 
   - The present sensory stream-of-consciousness is essentially equivalent to an **asymptotic** (virtually infinite detail level) episodic memory.
   - To be clear, seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
 
-### Details
+### Portals: context
 
-Sit in a typical room to set up the exercise. Select two arbitrary cues.
+The **portal** procedure will be defined as operating over any two cues (notation: ```&```).
+
+Sit in a typical room to set up the exercise. Arbitrarily select:
 
 - Cue A.
 - Cue B.
@@ -69,17 +71,6 @@ Sit in a typical room to set up the exercise. Select two arbitrary cues.
 - Also consider cue X.
   - (anything in the room that isn't A or B)
 
-Define the **portal** procedure operating over two cues (notation: ```&```).
-
-The portal procedure is a general skill of cue labelling. Demands a steady **temporal ping-pong** rhythm. This cycle is to be repeated several times.
-
-- **CORRECT-INCORRECT** binary of attention.
-  - Label the cue you should pay **attention** to as CORRECT. Label the other cue as INCORRECT.
-  - Notice how the INCORRECT cue is unambiguously **anti-attention**.
-- From the CORRECT cue, find another random associated detail to point out: this is **"snowballing"** from less detail to more cumulative detail.
-  - (detail possibilities: locations of particular lines, shades of color, any associated memory, style of the room, time of day, etc.)
-- Switch the CORRECT and INCORRECT cue around. There are two **detail hierarchies** being proliferated at once. This is **dual pressure**.
-
 Practice the following portals.
 
 - ```A&B```
@@ -87,14 +78,29 @@ Practice the following portals.
 - ```AB&A```
 - ```AB&B```
 
-The following attention-related interferences are stressed.
+### Portals: procedure (a general skill of cue labelling)
+
+The portal procedure is defined as a cycle (repeated several times) in a steady **"temporal ping-pong"** rhythm.
+
+- **CORRECT-INCORRECT** binary of attention.
+  - Label the cue you should pay **attention** to as CORRECT. Label the other cue as INCORRECT.
+  - Notice how the INCORRECT cue is unambiguously **anti-attention**.
+- From the CORRECT cue, find another random associated detail to point out: this is **"snowballing"** from less detail to more cumulative detail.
+  - (detail possibilities: locations of particular lines, shades of color, any associated memory, style of the room, time of day, etc.)
+- Switch the CORRECT and INCORRECT cue around.
+
+There are two **detail hierarchies** being proliferated at once. This is **dual pressure**.
+
+### Attention-related interferences
+
+The following interferences are stressed.
 
 - paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
 - correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
 - not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react
 - Cue#1 vs. Cue#2
 
-How does this tie into cognitive maps?
+### How does this tie into cognitive maps?
 
 - A, B, and X are all episodic memories and also members of the **cognitive map**.
 - Crowd A of neurons continues to talk to Crowd B and Crowd X resulting in very strong combinatorial interactions.
@@ -136,12 +142,13 @@ Follow a _Thin Client_ cycle.
 - sparse output >> input
   - multi-document cycle: _a content buffer over an extended period of time_
 
-#### TODO: unorganized tips
+### How to avoid training plateaus? TODO: unorganized tips
 
 > TODO. There is no guarantee that any of these are clearly explained. But getting the general gist of the exercises is enough for beginners. (I noticed improvement in creativity without implementing even half of these.)
 
-- Practicing the line of reasoning: if my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
-- Ensuring the proper understanding of: CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
+- Practice the **CORRECT-INCORRECT binary swap**.
+  - if my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
+- Build the **cue equivalences understanding** of how CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
   - Creating metaphors for reward, punishment, and the cue-detail relationship, clearly understood to be a hierarchy.
     - one cue, many details
     - details can be associated with other details
@@ -149,20 +156,23 @@ Follow a _Thin Client_ cycle.
     - details can turn into new cues
     - details can be shared between multiple cues
     - etc.
-- Start judging correctness on how cognitively surprising the difference between the actual case and the anticipated case is.
-- Avoid "Packer self-blame" and other conscious/subconscious issues, especially during the metaphor-ization of logical associations.
-  - a "NOT" sign for the NOT relation
-  - a "LESS" sign for the LESS relation
-  - imagining the bubble that says "NOT (A =/= B)" sprouting from the bubble of "A == B"
-- Accept that you will have to "relearn" the educational constructs that you learned through rote.
+- Start judging correctness on how **surprising** the difference between the actual case and the anticipated case is.
+- Accept that you will have to relearn the **educational constructs** that you learned through rote.
   - You should start thinking in terms of "KWL charts," "hamburger models of essays," and so on.
-- Create a productive standardized format of data exchange.
-  - This is discussed at length in the more advanced or TODO sections?
-- Combinations of experiential exercises such as rationality reflection, ACT therapy deliteralization, and Snaps make practicing this shift feel like "downhill sledding" -- and it should?
-- The rationality network is extremely resilient to stress; therefore, it buffers the psychological risks of the training.
-  - social norms result in particular cases of wildly varying first principles, but the first principles of the first principles are far more similar; this is the sense of common human identity
+  - Create metaphors for logical relations and inductions.
+    - "NOT" signs
+    - "LESS THAN" and "MORE THAN" signs
+    - Imagine a bubble that says "NOT (A =/= B)" sprouting from the bubble of "A == B".
+  - Create a productive standardized format of data exchange.
+    - This is discussed at length in the more advanced or TODO sections?
+- Use proper **self-regulation exercises** such as rationality reflection, ACT therapy deliteralization, and Snaps.
+  - a feeling that self-regulation is as easy as "downhill sledding"
+  - TODO: investigate self-regulation denseness vs. sparseness?
+  - TODO: create a comprehensive guide on avoiding "Packer self-blame" and other conscious/subconscious issues?
+  - The rationality network is extremely resilient to stress; therefore, it buffers the psychological risks of the training.
+    - social norms result in particular cases of wildly varying first principles, but the first principles of the first principles are far more similar; this is the sense of common human identity
 - Visualize a **zero cue** which is a small gray-colored sphere that can be colored depending on the position in the formula. Treat it as the top of the **cue hierarchy** -- the Platonic Ideal that all **one cues** (specific cues) descend from.
-  - ```0&1```
+  - To be clear, the portal formula is: ```0&1```
   - Is mastering the logic of variables equal to mastering logical comparisons between specific objects? Is creativity the metaphorical combinatorial collision of thousands of spheres? Is there a general aptitude of jumping from one sphere to another sphere independent from the first one? The point is to build confidence in the skill generalization.
 
 ## Technical Aspects
