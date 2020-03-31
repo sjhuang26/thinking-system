@@ -120,13 +120,25 @@ Does our exercise go beyond merely creating a marginal chance of a "random quiz"
   - I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
   - The line-diagram notation (annotating boundaries and curves with lines -- like an artist!) tries to amplify this effect. We are trying to preserve as much detail as possible when the objects are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
 
-### Unorganized tips
+### How to avoid training plateaus?
 
-Getting the general gist of the exercises is enough for beginners. (I noticed improvement in creativity without implementing even half of these.)
+Have a clear plan to graduate from dense to sparse training by using deliberate practice.
 
-The point is to have a clear plan to graduate from more dense to less dense items by using snowball formulas and other advanced techniques. Otherwise, you are virtually guaranteed to hit one of the many training plateaus, and you probably won't notice.
+> TODO. Anything in italics is a sophisticated metaphor/construct that requires further explanation.
 
-What is nontrivial is using deliberate practice to scaffold the skill generalization process from dense to sparse.
+Follow a _Thin Client_ cycle.
+
+- Input >> apply a dense construct to discover one detail
+  - _first principles_
+  - _systems analysis_
+  - _legalistic constructs_
+- Perform ```(initial cue) & (detail as new cue)```
+- sparse output >> input
+  - multi-document cycle: _a content buffer over an extended period of time_
+
+#### TODO: unorganized tips
+
+> TODO. There is no guarantee that any of these are clearly explained. But getting the general gist of the exercises is enough for beginners. (I noticed improvement in creativity without implementing even half of these.)
 
 - Practicing the line of reasoning: if my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
 - Ensuring the proper understanding of: CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
@@ -180,15 +192,3 @@ Logic A > B means that B < A [see: Relational Frame Theory]
 You could visualize this as a two-variable equation
 Even jumping from "front of flashcard" to "back of flashcard" is a logic formula of Item1 + Item2
 ```
-
-### Deliberate practice cycle
-
-> TODO. I use a more sophisticated metaphor -- _Thin Client_ -- to keep track of all this.
-
-- Input >> apply a dense construct to discover one detail
-  - _first principles_
-  - _systems analysis_
-  - _legalistic constructs_
-- Perform ```initial-cue & detail-as-new-cue```
-- sparse output >> input
-  - multi-document cycle: _a content buffer over an extended period of time_
