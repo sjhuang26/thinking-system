@@ -1,14 +1,16 @@
-# Cognitive map aptitude training as a breakthrough in applied psychology
+# Description of breakthrough cognitive map aptitude training
 
 ## Revised Introduction
 
-About **cognitive maps**, one source claims that "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds"*. Can a **training curriculum** be developed to increase **token painting aptitude** -- one's productivity in responding to cues by activating (paying attention to) the right subset of the **cognitive map**?
+About **cognitive maps**, one source claims that "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds"*. Can a **training curriculum** be developed to increase **token painting aptitude** -- one's productivity in responding to cues by activating (paying attention to) the right subset of the **cognitive map** -- and would this increase cognitive intelligence?
 
 *https://www.sciencedirect.com/science/article/pii/S0896627318308560
 
-How does this relate to **cognitive intelligence**? Is the **prior art** of Multiple Exemplar Training as applied in SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"*, fundamentally unworkable compared to our training? How does our training parallel **Relational Frame Theory**? 
+In this light, is the **prior art** of Multiple Exemplar Training as applied in SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"*, fundamentally unworkable?
 
 *https://raiseyouriq.com
+
+How does our training parallel **Relational Frame Theory**? 
 
 How do cognitive maps relate to **psychopathology**? At the very least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map.
 
