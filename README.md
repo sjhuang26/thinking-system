@@ -1,55 +1,51 @@
-# Defending the "Mapper-Packer" Dialectic as a Breakthrough Perspective in Applied Psychology
+# Cognitive map aptitude training as a breakthrough in applied psychology
 
 ## Revised Introduction
 
-Here is the big picture of this essay.
+About **cognitive maps**, one source claims that "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds"*. Can a **training curriculum** be developed to increase **token painting aptitude** -- one's productivity in responding to cues by activating (paying attention to) the right subset of the **cognitive map**?
 
-1. Cognitive maps can be represented with simple paradigms like "navigation, painting, and spotlighting" that seem learnable: at least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map. From here, is it possible to write a cognitive map training curriculum -- with powerful effects on both psychological state and cognitive aptitude?
-2. What do cognitive maps tell us about psychopathology versus psychological thriving?
-3. Is the prior art of Multiple Exemplar Training as applied in https://raiseyouriq.com fundamentally unworkable?
-4. From the cognitive map idea, we can start to talk about "one spatial reference point" versus "many spatial reference points." How can we use this general dichotomy to create a curriculum for education? Could such education change the way people communicate (i.e., rhetoric)?
+*https://www.sciencedirect.com/science/article/pii/S0896627318308560
 
-How can **token painting aptitude** -- productively "painting" **cognitive map** regions with tokens (i.e., **cues**) to reinforce navigation/self-organization of the map -- be trained?
+How does this relate to **cognitive intelligence**? Is the **prior art** of Multiple Exemplar Training as applied in SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"*, fundamentally unworkable compared to our training? How does our training parallel **Relational Frame Theory**? 
 
-The training is based on a simple attention switch between arbitrary cues and details. The training seems really elementary, but I believe that schoolteachers and the whole education system totally fail to teach this stuff in a rigorous way.
+*https://raiseyouriq.com
 
-Our training is related to Relational Frame Theory because it vaguely resembles the three fundamental relational frames.
+How do cognitive maps relate to **psychopathology**? At the very least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map.
 
-1. SAME-DIFF => temporal ping-pong and Correct-Incorrect.
-2. MORE-LESS => snowballing/curiosity.
-3. HIERARCHY => cue/painting.
+From the cognitive map idea, we can start to talk about "one spatial reference point" versus "many spatial reference points" -- how is this related to **rhetoric**?
+
+We outline a major difference between two neural circuits: "CPU"* of Reward and Punishment and a "GPU" of Rational Behavior. Does the human self-regulation capacity rest entirely in the GPU -- if so, what if our training philosophy were to force the CPU to relinquish virtually all of its responsibility?
+
+- First circuit: CPU
+  - Reward and punishment / operant behavior
+    - primary actor in the CPU
+    - also, emotional impulsivity
+- Second circuit: GPU
+  - Rational behavior / cognitive map
+    - primary actor in the GPU
+    - accounts for operant behavior
+  - token painting aptitude
+    - as discussed in the ```Big Picture```
+
+*This is an analogy to two major classes of computer processors.
+
+The GPU would create a CORRECT-INCORRECT binary signal of rationality that could overwrite the CPU when trained. This is treated as a **local maxima** of rationality.
+
+Is the CPU stage necessary at a very young age to crystallize the token painting aptitude in the GPU? I think this is done through nonverbal acquisition of first principles or mental models, not necessarily through the Relational Frame Theory _de facto_ convention of Multiple Exemplar Training.
+
+### Main takeaway
+
+I think that SMART training supports the hypothesis that **GPU stress leads to positive results in cognitive intelligence aptitude increase**.
+
+However, is SMART training _efficient_ at GPU stress? SMART training takes thousands of repetitions.
+
+We claim that not only does our training have fewer repetitions, it has an advantageous _training timeline_. In ```How to avoid training plateaus?``` we discuss how our training unlocks an _efficient_ process at graduating from **dense** to **sparse** cognitive skills, creating a level of _cognitive control and intuition_ that neither SMART training nor the best prior art in pedagogy does.
+
+### Secondary takeaway
+
+I will address the two topics of psychopathology and rhetoric in a future essay. We will address in the future both Cognitive Behavioral Therapy and Acceptance and Commitment Therapy and critique their strengths/weaknesses.
 
 ## Revised Training
-
-### Overview
-
-> TODO? The overview needs some more cleaning up.
-
-The essay addresses two hypothetical neural circuits (computer science analogy). The question is: are these real neural circuits?
-
-- CPU = Reward and Punishment + operant behavior
-- GPU = Rational Behavior + cognitive map (which accounts for operant behavior) + token painting aptitude
-
-It is proposed that the human self-regulation capacity rests entirely in the GPU. If so, how much dominance should the CPU have? What if our training philosophy were to force the CPU to relinquish virtually all of its responsibility?
-
-- The GPU would create a special binary signal of rationality (Correct-Incorrect; a **local maxima** of rationality) that could overwrite Reward and Punishment when trained.
-- Not sure how this fits with mainstream therapies?
-  - Cognitive Behavioral Therapy
-  - Acceptance and Commitment Therapy
-
-It is proposed that cognitive maps are a primary actor in the GPU.
-
-- QUOTE ABSTRACT "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds" [https://www.sciencedirect.com/science/article/pii/S0896627318308560]
-
-Of course, the CPU stage may be necessary at a very young age to crystallize the token painting aptitude in the GPU.
-- nonverbal acquisition of first principles or mental models
-- a mesh of first principles
-
-#### Prior art
-
-Is SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ", fundamentally unworkable compared to our training? 
-
-I believe the key principle that SMART training shows us is that **GPU stress leads to positive results**, but also, I believe that SMART training is _inefficient_ at GPU stress. SMART training takes thousands of repetitions and we claim that our training has an advantageous training timeline towards **skill generalization**.
 
 ### Terminology
 
@@ -62,12 +58,14 @@ I believe the key principle that SMART training shows us is that **GPU stress le
 - The **Ebbinghaus asymptote** is a common-sense assumption from the Ebbinghaus forgetting curve.
   - The present sensory stream-of-consciousness is essentially equivalent to an **asymptotic** (virtually infinite detail level) episodic memory.
   - To be clear, seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
+- There is a terminology parallel with Relational Frame Theory.
+  - TODO? SAME-DIFF => "portaling"; MORE-LESS => "snowballing"; HIERARCHY => "painting"
 
-### Portals (a general skill of cue labelling): context
+### Setup of training exercise
+
+Time to sit in a room and set up the exercise of attention switching between cues and details.
 
 The **portal** procedure will be defined as operating over any two cues (notation: ```&```).
-
-Sit in a typical room to set up the exercise. Arbitrarily select:
 
 - Cue A.
 - Cue B.
@@ -76,14 +74,14 @@ Sit in a typical room to set up the exercise. Arbitrarily select:
 - Also consider cue X.
   - (anything in the room that isn't A or B)
 
-Practice the following portals.
+Eventually, you should practice the following portals.
 
 - ```A&B```
 - ```X&AB```
 - ```AB&A```
 - ```AB&B```
 
-### Portals (a general skill of cue labelling): procedure
+### Procedure of training exercise
 
 The portal procedure is defined as a cycle (repeated several times) in a steady **"temporal ping-pong"** rhythm.
 
@@ -96,44 +94,35 @@ The portal procedure is defined as a cycle (repeated several times) in a steady 
 
 There are two **detail hierarchies** being proliferated at once. This is **dual pressure**.
 
-### Attention-related interferences
-
-The following interferences are stressed.
+### Advantage 1: Attention-related interferences are stressed
 
 - paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
 - correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
 - not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react
 - Cue#1 vs. Cue#2
 
-### How does this tie into cognitive maps?
+### Advantage 2: Cognitive maps are stressed
 
 - A, B, and X are all episodic memories and also members of the **cognitive map**.
 - Crowd A of neurons continues to talk to Crowd B and Crowd X resulting in very strong combinatorial interactions.
   - Details are pulled in pairs (jump to Cue#1, pull a detail, jump to Cue#2, pull another detail).
   - Does this make the training more robust? I don't know.
 
-### What makes this more than reward-and-punishment?
+### Advantage 3: The exercise is far more than a "detail mindfulness habit"
 
-Why does the narrow focus of the exercise (only two cues and the details within them) give us a major advantage?
+Does our exercise go beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention? Yes; The exercise as a whole is a massive **signal booster** of attention/reward/punishment.
 
-- The INCORRECT case is very specific.
-- Two points makes a straight line; navigation is definetly based on straight lines.
-  - However, this suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
-
-Does our exercise go beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention? Yes; it is far beyond a "detail mindfulness habit."
-
-- The exercise as a whole is a massive _signal booster_ of attention/reward/punishment.
+- The narrow focus (only two cues and the details within them) make the INCORRECT case very specific. This trains a migration of attention between two points (which make a straight line!)
+  - This suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
 - There is a strong visualization aspect; I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
   - An alternate explanation is that the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
   - To be clear, I think the GPU is capable of the sensory process of visualization -- simulating the future from the episodic past/present.
-- There is an incredibly fast density shift from Cue A to Cue B and back.
-  - You should have a clear conceptualization that many details are being dropped from the brain during the shifts.
-  - I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
-  - The line-diagram notation (annotating boundaries and curves with lines -- like an artist!) tries to amplify this effect. We are trying to preserve as much detail as possible when the objects are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
+- There is an incredibly fast density shift from Cue A to Cue B and back. I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
+  - Clearly feel that each cue attention shift drops details from the brain. For amplifying this effect, apply **line-diagram notation**.
+    - Visually annotate the room with boundaries and curves with lines (like an artist would!).
+    - The goal is to preserve as much detail as possible when cues are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
 
-### How to avoid training plateaus?
-
-Have a clear plan to graduate from dense to sparse training by using deliberate practice.
+### How to avoid training plateaus? Deliberate practice from dense to sparse training
 
 > TODO. Anything in italics is a sophisticated metaphor/construct that requires further explanation.
 
@@ -153,7 +142,7 @@ Follow a _Thin Client_ cycle.
 
 - Practice the **CORRECT-INCORRECT binary swap**.
   - if my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
-- Build the **cue equivalences understanding** of how CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
+- Build the **cue/stimulus equivalence understanding** of how CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
   - Creating metaphors for reward, punishment, and the cue-detail relationship, clearly understood to be a hierarchy.
     - one cue, many details
     - details can be associated with other details
@@ -181,9 +170,7 @@ Follow a _Thin Client_ cycle.
   - Is mastering the logic of variables equal to mastering logical comparisons between specific objects? Is creativity the metaphorical combinatorial collision of thousands of spheres? Is there a general aptitude of jumping from one sphere to another sphere independent from the first one? The point is to build confidence in the skill generalization.
   - **TODO: This is when we come full circle to the prior art -- the ideas of SMART training -- useful although incomplete.**
 
-## Technical Aspects
-
-### A list of more formulas for "snowballs"
+### TODO: a list of more formulas for snowballing
 
 > TODO? Practice random-access jumping between a cumulating list of items in a memory palace journey. But also a _Random-Access Stress_ in general.
 
