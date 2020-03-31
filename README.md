@@ -1,11 +1,5 @@
 # Defending the "Mapper-Packer" Dialectic as a Breakthrough Perspective in Applied Psychology
 
-## Format notes
-
-> Blockquotes are oftentimes "side thoughts" to be managed later {e.g., create separate document; rewrite into main document; restructure document for clarity and naturalness}.
-
-> A subtle recursive phenomenon to note is that the essay uses the same specialized rhetorical notations that it advocates.
-
 ## Revised Introduction
 
 Here is the big picture of this essay.
