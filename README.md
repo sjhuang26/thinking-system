@@ -57,21 +57,32 @@ Our training is related to Relational Frame Theory because it vaguely resembles 
 - The **Ebbinghaus asymptote** is a common-sense assumption from the Ebbinghaus forgetting curve.
   - The present sensory stream-of-consciousness is essentially equivalent to an **asymptotic** (virtually infinite detail level) episodic memory.
   - To be clear, seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
-- The process of **snowballing** is cumulatively moving from less detail to more detail.
-  - Later, this is connected to curiosity.
 
 ### Details
 
-The formula is:
-
-```
-(cue A, detail A) => (cue B, detail B) => (cue A, detail C) => (cue B, detail D) => A => B => A ...
-
-Between A and B, there is a "PORTAL" written as A&B.
-
-Label the cue or detail you should pay attention to as CORRECT.
-Label anything else as INCORRECT. Notice how the INCORRECT case is specific (it unambiguously points to a single item).
-```
+- Sit in a typical room. Select two arbitrary cues (A and B).
+- From here, generate two more cues: AB (a visual "merging together" or "melting together" of A/B) and X (anything in the room that isn't A or B).
+- Define the **portal** procedure operating over two cues (notation: ```&```).
+  - Cues have details, right?
+  - Label the cue you should pay attention to as CORRECT.
+  - Label the other cue as INCORRECT.
+  - Notice the binary nature of the CORRECT-INCORRECT.
+  - Follow a cycle.
+    - Grab a random detail from the CORRECT cue.
+    - Switch the CORRECT and INCORRECT cue around.
+- Practice the following portals.
+  - ```A&B```
+  - ```X&AB```
+  - ```AB&A```
+  - ```AB&B```
+- The following attention-related interferences are stressed.
+  - paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
+  - correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
+  - not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react
+  - Cue#1 vs. Cue#2
+- Within a portal, there is a **dual pressure** (two cues at once) and a rhythmic shift from one to the other. Each cue is **"snowballing"** from less detail to more cumulative detail
+  - an expanding out of the hierarchy of details under each cue
+  - There is an associative aspect (what particular memories the cue is closely associated with?)
 
 ### Vital tips
 
@@ -79,6 +90,7 @@ Label anything else as INCORRECT. Notice how the INCORRECT case is specific (it 
   - The portal symbolizes the skill that is generalized.
   - Episodic memory of Cue A, Episodic memory of Cue B, and Contextual Cue X (episodic memory of non-AB details such as the room, time of day, etc.) are members of the cognitive map.
   - Crowd A of neurons continues to talk to Crowd B and Crowd X resulting in very strong combinatorial interactions.
+    - Notice how details are pulled in pairs (one detail from one cue + one detail from another)
     - Does this make the training more robust? I don't know.
 - You must set up a temporal rhythm, which is what I call temporal ping-pong.
 - Why does the narrow focus of the exercise (only two cues and the details within them) give us a major advantage?
@@ -91,10 +103,6 @@ Label anything else as INCORRECT. Notice how the INCORRECT case is specific (it 
   - There is a strong visualization aspect; I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
     - An alternate explanation is that the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
     - To be clear, I think the GPU is capable of the sensory process of visualization -- simulating the future from the episodic past/present.
-  - Attention-related interference effects are reduced.
-    - Interference: paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue.
-    - Interference: Correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
-    - Interference: not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react.
   - There is an incredibly fast density shift from Cue A to Cue B and back.
     - You should have a clear conceptualization that many details are being dropped from the brain during the shifts.
     - I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
@@ -164,3 +172,9 @@ Logic A > B means that B < A [see: Relational Frame Theory]
 You could visualize this as a two-variable equation
 Even jumping from "front of flashcard" to "back of flashcard" is a logic formula of Item1 + Item2
 ```
+
+## TODO Analysis of Deliberate Practice
+
+Creativity training: ```Cue >> wait for detail expansion >> detail-as-new-cue1 & detail-as-new-cue2 >> hard output; also, repeat on multiple days to store into short-term memory```
+
+Speed training: ```Cue/detail-as-new-cue OR two unrelated cues >> cue1 & cue2; ```
