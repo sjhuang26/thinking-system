@@ -23,22 +23,33 @@ Our training is related to Relational Frame Theory because it vaguely resembles 
 
 ### Overview
 
-- Science suggests the existence of cognitive maps.
-  - QUOTE ABSTRACT "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds" [https://www.sciencedirect.com/science/article/pii/S0896627318308560]
-- The two hypothetical neural circuit constructs are proposed.
-  - CPU = Reward and Punishment + operant behavior
-  - GPU = Rational Behavior + cognitive map (which accounts for operant behavior) + token painting aptitude
-  - It is proposed that the CPU has no real self-regulation capacity: the GPU is what makes us mature humans.
-    - The GPU would create a special binary signal of rationality (Correct-Incorrect; a **local maxima** of rationality) that could overwrite Reward and Punishment when trained.
-- Somewhere along the line, we become contrarians of mainstream therapies like Cognitive Behavioral Therapy and Acceptance and Commitment Therapy.
-- Are these real neural circuits, and if so, how much dominance should the CPU have?
-  - What if our training philosophy were to force the CPU to relinquish virtually all of its responsibility?
-  - How could this be done?
-- The CPU stage may be necessary at a very young age to crystallize the token painting aptitude in the GPU.
-  - nonverbal acquisition of first principles or mental models
-  - a mesh of first principles subconsciously acquired in a particular sequence
-- SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ", is fundamentally unworkable compared to our training.
-  - It cognitively stresses the GPU only by repeating the drills hundreds to thousands of times; our training is far more direct.
+> TODO? The overview needs some more cleaning up.
+
+The essay addresses two hypothetical neural circuits (computer science analogy). The question is: are these real neural circuits?
+
+- CPU = Reward and Punishment + operant behavior
+- GPU = Rational Behavior + cognitive map (which accounts for operant behavior) + token painting aptitude
+
+It is proposed that the human self-regulation capacity rests entirely in the GPU. If so, how much dominance should the CPU have? What if our training philosophy were to force the CPU to relinquish virtually all of its responsibility?
+
+- The GPU would create a special binary signal of rationality (Correct-Incorrect; a **local maxima** of rationality) that could overwrite Reward and Punishment when trained.
+- Not sure how this fits with mainstream therapies?
+  - Cognitive Behavioral Therapy
+  - Acceptance and Commitment Therapy
+
+It is proposed that cognitive maps are a primary actor in the GPU.
+
+- QUOTE ABSTRACT "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds" [https://www.sciencedirect.com/science/article/pii/S0896627318308560]
+
+Of course, the CPU stage may be necessary at a very young age to crystallize the token painting aptitude in the GPU.
+- nonverbal acquisition of first principles or mental models
+- a mesh of first principles
+
+#### Prior art
+
+Is SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ", fundamentally unworkable compared to our training? 
+
+I believe the key principle that SMART training shows us is that **GPU stress leads to positive results**, but also, I believe that SMART training is _inefficient_ at GPU stress. SMART training takes thousands of repetitions and we claim that our training has an advantageous training timeline towards **skill generalization**.
 
 ### Terminology
 
@@ -52,7 +63,7 @@ Our training is related to Relational Frame Theory because it vaguely resembles 
   - The present sensory stream-of-consciousness is essentially equivalent to an **asymptotic** (virtually infinite detail level) episodic memory.
   - To be clear, seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
 
-### Portals: context
+### Portals (a general skill of cue labelling): context
 
 The **portal** procedure will be defined as operating over any two cues (notation: ```&```).
 
@@ -72,7 +83,7 @@ Practice the following portals.
 - ```AB&A```
 - ```AB&B```
 
-### Portals: procedure (a general skill of cue labelling)
+### Portals (a general skill of cue labelling): procedure
 
 The portal procedure is defined as a cycle (repeated several times) in a steady **"temporal ping-pong"** rhythm.
 
@@ -150,7 +161,7 @@ Follow a _Thin Client_ cycle.
     - details can turn into new cues
     - details can be shared between multiple cues
     - etc.
-- Start judging correctness on how **surprising** the difference between the actual case and the anticipated case is.
+- Practice judging correctness based on how **surprising** the difference between the actual case and the anticipated case is.
 - Accept that you will have to relearn the **educational constructs** that you learned through rote.
   - You should start thinking in terms of "KWL charts," "hamburger models of essays," and so on.
   - Create metaphors for logical relations and inductions.
@@ -168,6 +179,7 @@ Follow a _Thin Client_ cycle.
 - Visualize a **zero cue** which is a small gray-colored sphere that can be colored depending on the position in the formula. Treat it as the top of the **cue hierarchy** -- the Platonic Ideal that all **one cues** (specific cues) descend from.
   - To be clear, the portal formula is: ```0&1```
   - Is mastering the logic of variables equal to mastering logical comparisons between specific objects? Is creativity the metaphorical combinatorial collision of thousands of spheres? Is there a general aptitude of jumping from one sphere to another sphere independent from the first one? The point is to build confidence in the skill generalization.
+  - **TODO: This is when we come full circle to the prior art -- the ideas of SMART training -- useful although incomplete.**
 
 ## Technical Aspects
 
