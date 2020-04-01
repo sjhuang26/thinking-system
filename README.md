@@ -33,15 +33,13 @@ Using an analogy to two major classes of computer processors, we call the former
     - comparison to Cognitive Behavioral Therapy
     - comparison to Acceptance and Commitment Therapy
 
-### Main takeaway
+### With regard to SMART training
 
 I think that SMART training supports the hypothesis that **GPU stress leads to positive results in cognitive intelligence aptitude increase**.
 
 However, is SMART training _efficient_ at GPU stress? SMART training takes thousands of repetitions.
 
 We claim that not only does our training have fewer repetitions, it has an advantageous _training timeline_. In ```How to avoid training plateaus?``` we discuss how our training unlocks an _efficient_ process at graduating from **dense** to **sparse** cognitive skills, creating a level of _cognitive control and intuition_ that neither SMART training nor the best prior art in pedagogy does.
-
-> TODO? Discuss the deliberate practice graduation from basic (sparse cues that aren't very sparse) to advanced (very sparse cues) in light of the portal/snowballing/hierarchy terminology as well as the latest notation, Hdense-Hsparse.
 
 ## Revised Training
 
