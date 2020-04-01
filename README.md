@@ -1,4 +1,4 @@
-# Description of breakthrough cognitive map aptitude training
+# New ways to train cognitive map aptitudes, increase cognitive intelligence, and cope with psychopathologies
 
 ## Revised Introduction
 
