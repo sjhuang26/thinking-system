@@ -151,3 +151,5 @@ Is this terminology useful?
 "What really is the difference between training fluid intelligence and training foreign languages?"
 
 Rhetoric as deliberate practice?
+
+The portal tricks are similar to some "magical wand" that "channels" the power of the dense-sparse setup.
