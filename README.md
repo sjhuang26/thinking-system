@@ -2,19 +2,17 @@
 
 ## Revised Introduction
 
-About **cognitive maps**, one source claims that "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds"*. Can a **training curriculum** be developed to increase **token painting aptitude** -- one's productivity in responding to cues by activating (paying attention to) the right subset of the **cognitive map** -- and would this increase cognitive intelligence?
+This essay establishes a terminology of **cognitive maps**.
 
-*https://www.sciencedirect.com/science/article/pii/S0896627318308560
+- One source claims that "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds."
+- https://www.sciencedirect.com/science/article/pii/S0896627318308560
+- Relational Frame Theory is framed in terms of the cognitive map.
+  - At a young age, the cognitive map self-organizes through nonverbal acquisition of first principles and mental models.
+    - Is the approach of Multiple Exemplar Training in Relational Frame Theory the most efficient? In this light, what do we say about the **prior art** of Multiple Exemplar Training as applied in SMART training, currently the "only brain training system scientifically proven to raise IQ"? [Strengthening Mental Abilities with Relational Training; https://raiseyouriq.com]
 
-In this light, is the **prior art** of Multiple Exemplar Training as applied in SMART [Strengthening Mental Abilities with Relational Training] training, currently the "only brain training system scientifically proven to raise IQ"*, fundamentally unworkable?
+Can a **training curriculum** be developed to increase **token painting aptitude** -- one's productivity in responding to cues by activating (paying attention to) the right subset of the cognitive map -- and would this increase cognitive intelligence?
 
-*https://raiseyouriq.com
-
-How does our training parallel **Relational Frame Theory**? 
-
-How do cognitive maps relate to **psychopathology**? At the very least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map.
-
-From the cognitive map idea, we can start to talk about "one spatial reference point" versus "many spatial reference points" -- how is this related to **rhetoric**?
+Do cognitive maps reflect something fundamental in **psychopathology**? At the very least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map.
 
 We outline a major difference between two neural circuits: "CPU"* of Reward and Punishment and a "GPU" of Rational Behavior. Does the human self-regulation capacity rest entirely in the GPU -- if so, what if our training philosophy were to force the CPU to relinquish virtually all of its responsibility?
 
@@ -33,8 +31,6 @@ We outline a major difference between two neural circuits: "CPU"* of Reward and 
 
 The GPU would create a CORRECT-INCORRECT binary signal of rationality that could overwrite the CPU when trained. This is treated as a **local maxima** of rationality.
 
-Is the CPU stage necessary at a very young age to crystallize the token painting aptitude in the GPU? I think this is done through nonverbal acquisition of first principles or mental models, not necessarily through the Relational Frame Theory _de facto_ convention of Multiple Exemplar Training.
-
 ### Main takeaway
 
 I think that SMART training supports the hypothesis that **GPU stress leads to positive results in cognitive intelligence aptitude increase**.
@@ -45,7 +41,7 @@ We claim that not only does our training have fewer repetitions, it has an advan
 
 ### Secondary takeaway
 
-I will address the two topics of psychopathology and rhetoric in a future essay. We will address in the future both Cognitive Behavioral Therapy and Acceptance and Commitment Therapy and critique their strengths/weaknesses.
+I will address the topic of psychopathology in a future essay. We will address in the future both Cognitive Behavioral Therapy and Acceptance and Commitment Therapy and critique their strengths/weaknesses.
 
 ## Revised Training
 
@@ -53,8 +49,8 @@ I will address the two topics of psychopathology and rhetoric in a future essay.
 
 - Different appearances encode different levels of **detail** when visualized.
   - ```cartoony appearance < realistic appearance```
-- A **dense** (opposite of **sparse**) training uses cues that the brain absorbs easily (i.e., many details are easily encoded under a single cue).
-  - This frequently occurs in the spatial-visual training context. The speed that the individual hierarchically unpacks big details into little details (many of which are memorized and retained) is astoundingly fast.
+- A training is **dense** (opposite of **sparse**) when details of the cues are easily absorbed. 
+  - This frequently occurs in the spatial-visual training context, considering the fast speed that the individual hierarchically unpacks big details into little details (many of which are memorized and retained).
   - Episodic memory is pretty dense.
   - Declarative memory is notoriously sparse.
 - The **Ebbinghaus asymptote** is a common-sense assumption from the Ebbinghaus forgetting curve.
@@ -85,7 +81,7 @@ Eventually, you should practice the following portals.
 
 ### Procedure of training exercise
 
-The portal procedure is defined as a cycle (repeated several times) in a steady **"temporal ping-pong"** rhythm.
+The portal procedure is defined as a cycle (repeated several times) in a steady **"temporal ping-pong"** rhythm. There is **dual pressure** -- two **detail hierarchies** being proliferated at once.
 
 - **CORRECT-INCORRECT** binary of attention.
   - Label the cue you should pay **attention** to as CORRECT. Label the other cue as INCORRECT.
@@ -93,8 +89,6 @@ The portal procedure is defined as a cycle (repeated several times) in a steady 
 - From the CORRECT cue, find another random associated detail to point out: this is **"snowballing"** from less detail to more cumulative detail.
   - (detail possibilities: locations of particular lines, shades of color, any associated memory, style of the room, time of day, etc.)
 - Switch the CORRECT and INCORRECT cue around.
-
-There are two **detail hierarchies** being proliferated at once. This is **dual pressure**.
 
 ### Advantage 1: Attention-related interferences are stressed
 
@@ -124,23 +118,26 @@ Does our exercise go beyond merely creating a marginal chance of a "random quiz"
     - Visually annotate the room with boundaries and curves with lines (like an artist would!).
     - The goal is to preserve as much detail as possible when cues are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
 
-### How to avoid training plateaus? Deliberate practice from dense to sparse training
+### How to avoid training plateaus? Cycle of deliberate practice, from dense to sparse training
 
-> TODO. Anything in italics is a sophisticated metaphor/construct that requires further explanation.
+> TODO! Anything in italics is a sophisticated metaphor/construct that requires further explanation.
 
-Follow a _Thin Client_ cycle.
+Modify the input initial cue with DENSE constructs, find two details, and apply the SPARSE portal ```(detail 1 as new cue) & (detail 2 as new cue)```, which the _multiple-document cycle_ tries to resolve.
 
-- Input >> apply a dense construct to discover one detail
+- _dense constructs_ include:
   - _first principles_
   - _systems analysis_
   - _legalistic constructs_
-- Perform ```(initial cue) & (detail as new cue)```
-- sparse output >> input
-  - multi-document cycle: _a content buffer over an extended period of time_
+  - _semi-mnemonics_
+- _Thin Client Principle_: the details of dense cues might be a sparse cue
+- a _content buffer_ over an extended period of time
+- critique of _Krashen Input Hypothesis_
 
 ### How to avoid training plateaus? TODO: unorganized tips
 
-> TODO. There is no guarantee that any of these are clearly explained. But getting the general gist of the exercises is enough for beginners. (I noticed improvement in creativity without implementing even half of these.)
+> TODO! No guarantee of clear explanation.
+
+I noticed improvement in creativity without implementing even half of these, so a vague understanding of these tips should suffice for the beginner.
 
 - Practice the **CORRECT-INCORRECT binary swap**.
   - if my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
@@ -174,7 +171,7 @@ Follow a _Thin Client_ cycle.
 
 ### TODO: a list of more formulas for snowballing
 
-> TODO? Practice random-access jumping between a cumulating list of items in a memory palace journey. But also a _Random-Access Stress_ in general.
+> TODO? Practice random-access jumping between a cumulating list of items in a memory palace journey. But also a _Random-Access Stress_ in general. This is the best dense construct available ... TODO?
 
 ```
 A&AB

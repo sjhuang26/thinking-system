@@ -120,6 +120,10 @@ The idea that violations of the languages can lead to (serious?) psychological s
 
 TODO? Look into garbage collection / stream-of-consciousness.
 
+TODO? Look into forced image consolidation in second language acquisition context
+
+TODO? look into "quantum" variations of Correct/Incorrect.
+
 ```
 
 ## TODO: Our speculative neural circuits
@@ -145,3 +149,5 @@ Is this terminology useful?
 ## Analytical Deliberate Practice
 
 "What really is the difference between training fluid intelligence and training foreign languages?"
+
+Rhetoric as deliberate practice?
