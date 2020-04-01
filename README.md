@@ -56,92 +56,86 @@ We claim that not only does our training have fewer repetitions, it has an advan
   - The **Ebbinghaus asymptote of density** is a common-sense assumption from the Ebbinghaus forgetting curve: the present sensory stream-of-consciousness is essentially equivalent to an episodic memory of **asymptotic (virtually infinite) density**. EXAMPLE: seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
 - The **portal** procedure is a cycle repeated several times to exercise an attention binary, in the end **snowballing** two cues at once.
   - notation: ```Cue#1 & Cue#2```
-- The **deliberate practice** procedure will be defined as: treat the situation as one big **dense cue** to **snowball** over (i.e., **dense coping**) in order to obtain two details that are both equivalent to **sparse cues**, which we **portal** between (i.e., **sparse coping**).
-  - This should be conceptualized as a **signal booster** -- far more than a "detail mindfulness habit" or a "randomized quiz." -- like a "magical wand from _Harry Potter_" that requires deliberate practice to make the most of it. If the first step involves slightly sparse cues, the next step, for the signal booster to be useful, and to avoid severe training plateaus, will be deliberate practice with even sparser cues.
+
+The **deliberate practice** procedure:
+
+1. treat the situation as one big **dense cue**...
+2. ...to **snowball** over (i.e., **dense coping**)...
+3. ...in order to obtain two details that are both equivalent to **sparse cues**...
+4. ...which we **portal** between (i.e., **sparse coping**).
+
+This should be conceptualized as a **signal booster** -- far more than a "detail mindfulness habit" or a "randomized quiz." -- like a "magical wand from _Harry Potter_" that requires deliberate practice to make the most of it. If the first step involves slightly sparse cues, the next step, for the signal booster to be useful, and to avoid severe training plateaus, will be deliberate practice with even sparser cues.
 
 ### Setup of training exercise
 
-**From your physical surroundings, pick two cues (i.e., objects).**
+Basic dense coping. Look at your physical environment and pick two cues (i.e., objects).
 
 - Cue A.
 - Cue B.
 - Also consider cue AB.
-  - (a visual "merging together" or "melting together" of A/B)
+ - (a visual "merging together" or "melting together" of A/B)
 - Also consider cue X.
-  - (anything in the room that isn't A or B)
+ - (anything in the room that isn't A or B)
+- Portal ```A&B```
+- Portal ```X&AB```
+- Portal ```AB&A```
+- Portal ```AB&B```
 
-**Notice how the physical surroundings are denser than the cues.**
+Basic sparse coping. Portal steps.
 
-> TODO: address this later. This is the basic step of the training, as part of a curriculum to move you to sparser and sparser cues. This point is addressed further in ```How to avoid training plateaus? Considerations of deliberate practice.```.
-
-**You will be practicing the following portals.**
-
-- ```A&B```
-- ```X&AB```
-- ```AB&A```
-- ```AB&B```
-
-### Portal procedure
-
-Steps:
-
-1. Set up the **Attention binary**.
+- Set up the **Attention binary**.
   - Label the cue you want to pay attention to as CORRECT. Label the other cue as INCORRECT.
   - In a way, the INCORRECT cue is felt as very specifically and unambiguously **anti-attention**.
-2. **Snowball** from the CORRECT cue; details might be:
+- **Snowball** from the CORRECT cue; details might be:
   - locations of particular lines
   - shades of color
   - any associated memory
   - style of the room
   - time of day
-3. Switch the CORRECT and INCORRECT labels. At this time, it is useful to practice the following:
+- Switch the CORRECT and INCORRECT labels. At this time, it is useful to practice the following:
   - _If my goal were to label everything incorrectly,_ and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
   - _Based on the surprisingness of the difference between actual/anticipated cases_, you should judge CORRECT versus INCORRECT.
   - _The INCORRECT cue is a source of anti-attention_ which helps cope with the interferences and makes the rhythm stronger.
-4. Repeat. Make sure to:
+- Repeat. Make sure to:
   - switch at a fast pace, faster than you can snowball the first detail
   - use a **"temporal ping-pong"** rhythm at a steady pace
 
-### Signal boost 1: Attention-related interferences are stressed
-
-- paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
-- correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
-- not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react
-- Cue#1 vs. Cue#2
-
-### Signal boost 2: Cognitive maps are stressed
-
-- A, B, and X are all episodic memories and also members of the **cognitive map**. They can be thought of as crowds of neurons that talk to each other, resulting in very strong combinatorial interactions.
-  - Details are pulled in pairs (jump to Cue#1, pull a detail, jump to Cue#2, pull another detail).
-  - Does this make the training more robust? I don't know.
-- Attention is moved between two points (which make a straight line!).
-
-### Signal boost 3: mechanistic manipulation of "back-and-forth brain wave" rhythm
-
-- THINK: is there a density shift as attention is shifted, and how much?
-- I believe that the rhythm reflects how visualization works.
-  - The **"mind's eye"** rapidly moves from past (the visualization of synthesizing the necessary episodic memories and simulating hypotheticals when necessary) to present (visual appearance of the present).
-
-### How to avoid training plateaus? Considerations of deliberate practice.
-
 > TODO! Anything in italics is a sophisticated metaphor/construct that requires further explanation.
 
-- _sparse coping_
-  - _rhythm system_
-  - _multiple-document cycle_
-- _dense coping_
-  - _first principles_
-  - _systems analysis_
-  - _legalistic constructs_
-  - _semi-mnemonics_: applying sparse mnemonics to a dense word-stream
+Advanced sparse coping
+
 - _multiple-document cycle_
-  - _stream-of-consciousness_
-  - _garbage collection_: brief periods of waiting
-  - _forced image consolidation_ (especially in second language acquisition context)
-  - _group branching_: Correct Group vs. Incorrect Group
-- _Thin Client Principle_: the details of dense cues might be a sparse cue
-- a _content buffer_ over an extended period of time
-- critique of _Krashen Input Hypothesis_
+- _stream-of-consciousness_
+- _garbage collection_: brief periods of waiting
+- _forced image consolidation_ (especially in second language acquisition context)
+- _group branching_: Correct Group vs. Incorrect Group
+- _Thin Client Principle_: virtually anything can be a sparse cue
+- _content buffer_: over an extended period of time
+- _Krashen Input Hypothesis_: critique
+
+Advanced dense coping
+
+- _first principles_
+- _systems analysis_
+- _legalistic constructs_
+- _semi-mnemonics_: applying sparse mnemonics to a dense word-stream
+
+### Why a signal boost?
+
+- Attention-related interferences are stressed
+  - paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
+  - correct vs. incorrect (in particular, better managing any symbolic reasoning involved).
+  - not directly specifying which object is Correct versus Incorrect until the last milliseconds and seeing how fast your brain can pay attention / react
+  - Cue#1 vs. Cue#2
+- Cognitive maps are stressed
+  - A, B, and X are all episodic memories and also members of the **cognitive map**. They can be thought of as crowds of neurons that talk to each other, resulting in very strong combinatorial interactions.
+    - Details are pulled in pairs (jump to Cue#1, pull a detail, jump to Cue#2, pull another detail).
+    - Does this make the training more robust? I don't know.
+  - Attention is moved between two points (which make a straight line!).
+- mechanistic manipulation of "back-and-forth brain wave" rhythm
+  - THINK: is there a density shift as attention is shifted, and how much?
+  - I believe that the rhythm reflects how visualization works.
+    - The **"mind's eye"** rapidly moves from past (the visualization of synthesizing the necessary episodic memories and simulating hypotheticals when necessary) to present (visual appearance of the present).
 
 ### How to avoid training plateaus? Misc tips.
 
@@ -166,13 +160,13 @@ Steps:
     - "LESS THAN" and "MORE THAN" metaphors
     - bubble metaphors, where "NOT (A not-equals B)" sprouts from "A equals B".
   - TODO! Figure out how such ideas can be generalized into a productive standardized format of data exchange.
-- Practicing constructing a **cue hierarchy**. Such hierarchies have **zero cues** near the top and **one cues** descending from them. Zero cues are various Platonic Ideals of wide classes of cues (e.g., numbers, letters, words, variables of a logical formula), which should be visualized as small gray-colored spheres as multi-colored parameters of a logical formula, which are eventually substituted for specific objects.
+- Construct a **cue hierarchy**. Such hierarchies have **zero cues** near the top and **one cues** descending from them. Zero cues are various Platonic Ideals of wide classes of cues (e.g., numbers, letters, words, variables of a logical formula), which should be visualized as small gray-colored spheres as multi-colored parameters of a logical formula, which are eventually substituted for specific objects.
   - Creativity is in part the metaphorical combinatorial collision of thousands of spheres.
   - There frequently exists a need to jump from one sphere to another sphere wholly independent from the first one.
   - The relevant portal formula is: ```0&1```
   - **TODO: This is when we come full circle to the prior art -- the ideas of SMART training.**
 
-### TODO: a list of more formulas for snowballing
+### TODO: a list of more advanced portal formulas
 
 > TODO? Practice random-access jumping between a cumulating list of items in a memory palace journey. But also a _Random-Access Stress_ in general. This is the best dense construct available ... TODO? This suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
 
