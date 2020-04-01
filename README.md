@@ -41,29 +41,27 @@ However, is SMART training _efficient_ at GPU stress? SMART training takes thous
 
 We claim that not only does our training have fewer repetitions, it has an advantageous _training timeline_. In ```How to avoid training plateaus?``` we discuss how our training unlocks an _efficient_ process at graduating from **dense** to **sparse** cognitive skills, creating a level of _cognitive control and intuition_ that neither SMART training nor the best prior art in pedagogy does.
 
+> TODO? Discuss the deliberate practice graduation from basic (sparse cues that aren't very sparse) to advanced (very sparse cues) in light of the portal/snowballing/hierarchy terminology as well as the latest notation, Hdense-Hsparse.
+
 ## Revised Training
 
 ### Terminology
 
-- Different appearances encode different levels of **detail** when visualized.
-  - ```cartoony appearance < realistic appearance```
-- A cue is **dense** (opposite of **sparse**) when it is trivial to find details within it -- a **"snowballing"** of cumulatively finding details within a cue, from very little detail to lots of detail.
+- Different appearances encode different levels of **detail** when visualized. ```cartoony appearance < realistic appearance``` Density reflects how trivial it is to find the details. Within a **dense cue** (opposite of **sparse**), it is trivial to find details, reflecting a **"snowballing"** process of cumulatively finding details within a cue, from very little detail to lots of detail.
   - In terms of deliberate practice, dense cues would be within the "comfort zone."
-  - The deliberate practice cycle combines dense and sparse cues.
+    - Innate abilities with slightly sparse cues are virtually universal, but virtually everyone fails to do the deliberate practice to transfer the innate abilities to more sparse cues.
   - This frequently occurs in the spatial-visual training context, considering the fast speed that the individual hierarchically unpacks big details into little details (many of which are memorized and retained).
   - Episodic memory is pretty dense.
   - Declarative memory is notoriously sparse.
-- The **Ebbinghaus asymptote** is a common-sense assumption from the Ebbinghaus forgetting curve.
-  - The present sensory stream-of-consciousness is essentially equivalent to an **asymptotic** (virtually infinite detail level) episodic memory.
+- The **Ebbinghaus asymptote of density** is a common-sense assumption from the Ebbinghaus forgetting curve: the present sensory stream-of-consciousness is essentially equivalent to an episodic memory of **asymptotic (virtually infinite) density**.
   - To be clear, seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
-- There is a terminology parallel with Relational Frame Theory.
-  - TODO? SAME-DIFF => "portaling"; MORE-LESS => "snowballing"; HIERARCHY => "painting"
+- TODO? Later, you will see that the terminologies have parallels to Relational Frame Theory. (SAME-DIFF => "portaling"; MORE-LESS => "snowballing"; HIERARCHY => "painting")
 
-### Formulating the training exercise
+### Setup of training exercise
 
-**Pick two cues to switch attention between (e.g., two objects in your physical surroundings).**
+The **portal** procedure will be defined as operating over any two cues (notation: ```&```) to apply **"dual pressure"** because both cues' **detail hierarchies** will be proliferated at once.
 
-The **portal** procedure will be defined as operating over any two cues (notation: ```&```).
+**From your physical surroundings, pick two cues (i.e., objects).**
 
 - Cue A.
 - Cue B.
@@ -72,28 +70,33 @@ The **portal** procedure will be defined as operating over any two cues (notatio
 - Also consider cue X.
   - (anything in the room that isn't A or B)
 
-**Eventually, you should practice the following portals.**
+**Notice how the physical surroundings are denser than the cues.**
+
+> TODO: address this later. This is the basic step of the training, as part of a curriculum to move you to sparser and sparser cues. This point is addressed further in ```How to avoid training plateaus? Considerations of deliberate practice.```.
+
+**You will be practicing the following portals.**
 
 - ```A&B```
 - ```X&AB```
 - ```AB&A```
 - ```AB&B```
 
-**You might see how this training is meant as the first step in an extensive curriculum of moving to sparser and sparser cues?**
+### Portal procedure (a cycle repeated several times in a steady rhythm to exercise an attention binary)
 
-This point is addressed further in ```How to avoid training plateaus? Considerations of deliberate practice.```.
-
-### Procedure of training exercise (how to exercise the CORRECT-INCORRECT binary of attention)
-
-The portal procedure is defined as a cycle (repeated several times) in a steady **"temporal ping-pong"** rhythm. There is **dual pressure** -- two **detail hierarchies** being proliferated at once.
-
-- Label the cue you want to pay attention to as CORRECT. Label the other cue as INCORRECT.
-  - Notice how the INCORRECT cue is unambiguously **anti-attention**.
-- **Snowball** from the CORRECT cue.
-  - (detail possibilities: locations of particular lines, shades of color, any associated memory, style of the room, time of day, etc.)
-- Switch the CORRECT and INCORRECT cue around.
-  - At this time, it is useful to practice the **CORRECT-INCORRECT binary swap**. If my goal were to label everything incorrectly, and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
-  - At this time, you should also practice judging CORRECT versus INCORRECT based on how **surprising** the difference between the actual case and the anticipated case is.
+1. Set up the **Attention binary**.
+  - Label the cue you want to pay attention to as CORRECT. Label the other cue as INCORRECT.
+  - In a way, the INCORRECT cue is felt as very specifically and unambiguously **anti-attention**.
+2. **Snowball** from the CORRECT cue; details might be:
+  - locations of particular lines
+  - shades of color
+  - any associated memory
+  - style of the room
+  - time of day
+3. Switch the CORRECT and INCORRECT labels. At this time, it is useful to practice the following:
+  - _If my goal were to label everything incorrectly,_ and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
+  - _Based on the surprisingness of the difference between actual/anticipated cases_, you should judge CORRECT versus INCORRECT.
+4. Repeat. Switch at a fast pace, faster than you can snowball the first detail.
+  - Make sure to use a **"temporal ping-pong"** rhythm.
 
 ### Advantage 1: Attention-related interferences are stressed
 
@@ -113,23 +116,25 @@ The portal procedure is defined as a cycle (repeated several times) in a steady 
 
 Does our exercise go beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention? Yes; The exercise as a whole is a massive **signal booster** of attention/reward/punishment.
 
-- The narrow focus (only two cues and the details within them) make the INCORRECT case very specific. This trains a migration of attention between two points (which make a straight line!)
+- As discussed earlier, the INCORRECT cue is like **anti-attention**.
+  - Attention is moved between two points (which make a straight line!).
   - This suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
-- There is a strong visualization aspect; I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
+- I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
   - An alternate explanation is that the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
   - To be clear, I think the GPU is capable of the sensory process of visualization -- simulating the future from the episodic past/present.
 - There is an incredibly fast density shift from Cue A to Cue B and back. I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
-  - Clearly feel that each cue attention shift drops details from the brain. For amplifying this effect, apply **line-diagram notation**.
-    - Visually annotate the room with boundaries and curves with lines (like an artist would!).
-    - The goal is to preserve as much detail as possible when cues are "copied" into some working memory buffer (e.g., I force myself to color the objects RED and GREEN).
+  - **Preserve as much detail as possible** when attention shifts between CORRECT and INCORRECT cues.
+    - Force yourself to "copy" cues into working memory buffers (e.g., I force myself to color the objects RED and GREEN).
+    - Visually annotate the room with boundaries and curves with lines (like an artist would!) -- **line-diagram notation**
+    - Clearly feel that each cue attention shift drops details from the brain.
 
 ### How to avoid training plateaus? Considerations of deliberate practice.
 
 > TODO! Anything in italics is a sophisticated metaphor/construct that requires further explanation.
 
 1. Use _dense constructs_ so that the situation as a whole is a dense cue.
-2. Trivially move to a _dual pressure situation_ by finding two details that are both equivalent to sparse cues.
-3. Portal between them with the help of the _rhythm system_ or _multiple-document cycle_.
+2. Trivially move to a _dual pressure situation_ by finding two details that are both equivalent to sparse cues. (_Hdense_)
+3. Portal between them with the help of the _rhythm system_ or _multiple-document cycle_. (_Hsparse_)
 
 **Some more details.**
 
@@ -142,11 +147,7 @@ Does our exercise go beyond merely creating a marginal chance of a "random quiz"
 - a _content buffer_ over an extended period of time
 - critique of _Krashen Input Hypothesis_
 
-### How to avoid training plateaus? TODO: unorganized tips
-
-> TODO! No guarantee of clear explanation.
-
-I noticed improvement in creativity without implementing even half of these, so a vague understanding of these tips should suffice for the beginner.
+### How to avoid training plateaus? Misc tips.
 
 - Build the **cue/stimulus equivalence understanding** of how CUE equals REWARD AND PUNISH equals PHYSICAL OBJECT equals WRAPPER (for hundreds of details).
   - Creating metaphors for reward, punishment, and the cue-detail relationship, clearly understood to be a hierarchy.
@@ -156,18 +157,19 @@ I noticed improvement in creativity without implementing even half of these, so 
     - details can turn into new cues
     - details can be shared between multiple cues
     - etc.
-- Accept that you will have to relearn the **educational constructs** that you learned through rote.
-  - You should start thinking in terms of "KWL charts," "hamburger models of essays," and so on.
-  - Create metaphors for logical relations and inductions.
-    - "NOT" signs
-    - "LESS THAN" and "MORE THAN" signs
-    - Imagine a bubble that says "NOT (A =/= B)" sprouting from the bubble of "A == B".
-  - Create a productive standardized format of data exchange.
-    - This is discussed at length in the more advanced or TODO sections?
-- Practicing visualizing the variables of a logical formula as a series of **zero cues** which are small gray-colored spheres that can be colored depending on the formula position. Such cues would be at the top of the **cue hierarchy** -- the Platonic Ideal that all **one cues** (specific cues) descend from.
+- At some point you should review basic **educational constructs** that you had learned in the past through rote.
+  - "KWL charts"
+  - "hamburger models of essays"
+  - logical relations and deductions
+    - "NOT" metaphor
+    - "LESS THAN" and "MORE THAN" metaphors
+    - bubble metaphors, where "NOT (A not-equals B)" sprouts from "A equals B".
+  - TODO! Figure out how such ideas can be generalized into a productive standardized format of data exchange.
+- Practicing constructing a **cue hierarchy**. Such hierarchies have **zero cues** near the top and **one cues** descending from them. Zero cues are various Platonic Ideals of wide classes of cues (e.g., numbers, letters, words, variables of a logical formula), which should be visualized as small gray-colored spheres as multi-colored parameters of a logical formula, which are eventually substituted for specific objects.
+  - Creativity is in part the metaphorical combinatorial collision of thousands of spheres.
+  - There frequently exists a need to jump from one sphere to another sphere wholly independent from the first one.
   - The relevant portal formula is: ```0&1```
-  - The point is to build confidence in the skill generalization: is mastering the logic of variables equal to mastering logical comparisons between specific objects? is creativity the metaphorical combinatorial collision of thousands of spheres? is there a general aptitude of jumping from one sphere to another sphere independent from the first one?
-  - **TODO: This is when we come full circle to the prior art -- the ideas of SMART training -- useful although incomplete.**
+  - **TODO: This is when we come full circle to the prior art -- the ideas of SMART training.**
 
 ### TODO: a list of more formulas for snowballing
 
@@ -197,9 +199,6 @@ Even jumping from "front of flashcard" to "back of flashcard" is a logic formula
 
 ## TODO: The hand-motion game ("Snaps") of self-regulation
 
-How can a _hand-motion game_ -- say, waving your hand one way for "yes" and the other way for "no" -- exercise rational behavior and self-regulation? In the case of having the hand stuck in the middle, as you are stuck in what appears to be an infinitely unchanging apathetic state, emphasize how you **don't know when** you'll finally break out.
+How can a _hand-motion game_ -- say, waving your hand one way for "yes" and the other way for "no" -- make rational behavior and self-regulation easier? I think the game creates a psychological buffer of rational behavior based on activation/sensitization to a **childlike curiosity of playing games**. Such "behavior games" are dense (trivial); most other behaviors are sparse (nontrivial), but deliberate practice can bridge the gap.
 
-- No reliable signal exists to differentiate the state of apathy and the state of being _about to act_ within a reasonable amount of reaction time.
-- What develops is a **childlike curiosity of playing games** that acts as a psychological sensitivity towards rational behavior -- a feeling that self-regulation is as easy as "downhill sledding."
-- We need to investigate self-regulation denseness vs. sparseness. Hand-motion games are dense cases that you need to then use deliberate practice and imagination to expand out to sparse cases. (It is trivial to control the details of your hand-motion action but less so for the sparser things.)
-- The hand-motion game applies the rationality network, which is extremely resilient to stress, as a universal psychological buffer. Even when you feel out of shape, the psychological fundamentals of rationality (the first principles of other first principles) creates a sense of common human identity.
+In the case of having the hand stuck in the middle, as you are stuck in what appears to be an infinitely unchanging apathetic state, emphasize how you **don't know when** you'll finally break out. It is impossible to find a signal to differentiate the state of apathy and the state of being _about to act_ within a reasonable amount of reaction time.
