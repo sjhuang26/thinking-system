@@ -122,7 +122,7 @@ Does our exercise go beyond merely creating a marginal chance of a "random quiz"
 
 > TODO! Anything in italics is a sophisticated metaphor/construct that requires further explanation.
 
-Modify the input initial cue with DENSE constructs, find two details, and apply the SPARSE portal ```(detail 1 as new cue) & (detail 2 as new cue)```, which the _multiple-document cycle_ tries to resolve.
+Find two details by modifying the input initial cue with DENSE constructs, apply the SPARSE portal ```(detail 1 as new cue) & (detail 2 as new cue)```, and then resolve the stress with the _multiple-document cycle_.
 
 - _dense constructs_ include:
   - _first principles_
