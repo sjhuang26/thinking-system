@@ -29,7 +29,7 @@ Using an analogy to two major classes of computer processors, we call the former
     - Can a **training curriculum** be developed to increase **token painting aptitude** -- one's productivity in responding to cues by activating (paying attention to) the right subset of the cognitive map -- and would this increase cognitive intelligence?
   - self-regulation
     - Do cognitive maps reflect something fundamental in **psychopathology**? At the very least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map.
-    - see the section referring to ```Snaps```
+    - see the section referring to ```"Snaps": a hand-motion game of self-regulation```
     - comparison to Cognitive Behavioral Therapy
     - comparison to Acceptance and Commitment Therapy
 
@@ -123,14 +123,14 @@ Does our exercise go beyond merely creating a marginal chance of a "random quiz"
 - As discussed earlier, the INCORRECT cue is like **anti-attention**.
   - Attention is moved between two points (which make a straight line!).
   - This suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
-- I believe the "mind's eye" works by storing the delta between the present and the desired visualization.
-  - An alternate explanation is that the "mind's eye" works by fluctuating from past (synthesizing the necessary episodic memories) to present.
-  - To be clear, I think the GPU is capable of the sensory process of visualization -- simulating the future from the episodic past/present.
-- There is an incredibly fast density shift from Cue A to Cue B and back. I strongly suspect the mechanistic manipulation of a "a back-and-forth brain wave rhythm" like "sitting on a rocking chair."
-  - **Preserve as much detail as possible** when attention shifts between CORRECT and INCORRECT cues.
+- I believe visualization works because the "mind's eye" rapidly moves between the visual appearance of the present and the desired visualization.
+  - In other words: from past (synthesizing the necessary episodic memories and simulating hypotheticals when necessary) to present.
+- The density shift from Cue A to Cue B and back is exceptionally fast, suggesting a mechanistic manipulation of, say, a back-and-forth brain wave rhythm.
+  - Always take careful measures to **preserve as much detail as possible** as attention shifts around.
     - Force yourself to "copy" cues into working memory buffers (e.g., I force myself to color the objects RED and GREEN).
     - Visually annotate the room with boundaries and curves with lines (like an artist would!) -- **line-diagram notation**
     - Clearly feel that each cue attention shift drops details from the brain.
+    - Repeat things (e.g., visuals, ideas, names, positions) to yourself.
 
 ### How to avoid training plateaus? Considerations of deliberate practice.
 
@@ -146,7 +146,7 @@ Does our exercise go beyond merely creating a marginal chance of a "random quiz"
   - _first principles_
   - _systems analysis_
   - _legalistic constructs_
-  - _semi-mnemonics_
+  - _semi-mnemonics_: applying sparse mnemonics to a dense word-stream
 - _multiple-document cycle_
   - _stream-of-consciousness_
   - _garbage collection_: brief periods of waiting
@@ -206,7 +206,7 @@ You could visualize this as a two-variable equation
 Even jumping from "front of flashcard" to "back of flashcard" is a logic formula of Item1 + Item2
 ```
 
-## TODO: The hand-motion game ("Snaps") of self-regulation
+## "Snaps": a hand-motion game of self-regulation
 
 How can a _hand-motion game_ -- say, waving your hand one way for "yes" and the other way for "no" -- make rational behavior and self-regulation easier? I think the game creates a psychological buffer of rational behavior based on activation/sensitization to a **childlike curiosity of playing games**. Such "behavior games" are dense (trivial); most other behaviors are sparse (nontrivial), but deliberate practice can bridge the gap.
 

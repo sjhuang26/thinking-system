@@ -1,6 +1,8 @@
-# MPSOC risk prevention
+# Risk factors and risk prevention
 
-As a practical matter, I will publish the following on how you can avoid the massive ADHD-like / psychological grief / identity disorder risk factor of the Thinking System.
+There is a large ADHD-like / psychological grief / identity issues risk factor.
+
+> TODO: integration into MPSOC?
 
 Realize that there is a sharp divide between the identity of the Prior You and the New You. This can be extremely traumatic. You've lost that "rote CPU knowledge" of the prior self so you need to actively recall the episodic memories of your prior self to rebuild it. It will take weeks to rebuild the new identity but you can optimize the key portions. All re-learning is very quick if you do it properly and have no severe underlying psychological issues. If you don't know what you're doing, it will take far longer.
 
