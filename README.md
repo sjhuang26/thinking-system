@@ -98,6 +98,12 @@ The **portal** procedure will be defined as operating over any two cues (notatio
 4. Repeat. Switch at a fast pace, faster than you can snowball the first detail.
   - Make sure to use a **"temporal ping-pong"** rhythm.
 
+Does our exercise go beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention? I believe that the exercise acts as an extremely strong **signal booster** of attention/reward/punishment. However, directly trying to use a signal booster without also doing the next steps of deliberate practice will lead to severe training plateaus.
+
+> TODO? fit in an analogy to the magical wands from _Harry Potter_, which also reflects deliberate practice + signal boosters
+
+> TODO? What really is the difference between training fluid intelligence and training foreign languages?
+
 ### Advantage 1: Attention-related interferences are stressed
 
 - paying attention to a cue vs. paying attention to the details hierarchically encoded within the cue
@@ -113,8 +119,6 @@ The **portal** procedure will be defined as operating over any two cues (notatio
   - Does this make the training more robust? I don't know.
 
 ### Advantage 3: The exercise is far more than a "detail mindfulness habit"
-
-Does our exercise go beyond merely creating a marginal chance of a "random quiz" to get the brain to pay attention? Yes; The exercise as a whole is a massive **signal booster** of attention/reward/punishment.
 
 - As discussed earlier, the INCORRECT cue is like **anti-attention**.
   - Attention is moved between two points (which make a straight line!).
@@ -143,6 +147,11 @@ Does our exercise go beyond merely creating a marginal chance of a "random quiz"
   - _systems analysis_
   - _legalistic constructs_
   - _semi-mnemonics_
+- _multiple-document cycle_
+  - _stream-of-consciousness_
+  - _garbage collection_: brief periods of waiting
+  - _forced image consolidation_ (especially in second language acquisition context)
+  - _group branching_: Correct Group vs. Incorrect Group
 - _Thin Client Principle_: the details of dense cues might be a sparse cue
 - a _content buffer_ over an extended period of time
 - critique of _Krashen Input Hypothesis_
