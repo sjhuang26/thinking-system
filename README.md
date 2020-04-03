@@ -54,9 +54,13 @@ Implementation notes.
 
 ## State changes, attention
 
-We analyze a cognitive intelligence deliberate practice of quickly cycling attention between two loci. The first and most urgent thing to address is the construct of attention. I reasonably imagine the cognitive map as a navegable high-dimensional space, so when the student moves attention from Locus A to Locus B, this is a **state change** that clearly reflects a point-to-point cognitive map navigation. Now suppose that the movement of attention reflects the movement of ten thousand **"attention soldiers"** wandering around: do all ten thousand make it to Locus B at once, or is it gradual: tens, hundreds, thousands? As more soldiers accumulate around Locus B, more details of Locus B start to become accessible.
+Imagine someone attempts a deliberate practice system to improve cognitive intelligence, and their main strategy is quickly cycling attention between two loci. I reasonably imagine the cognitive map as a navegable high-dimensional space, so when the student moves attention from Locus A to Locus B, this is a **state change** that clearly reflects a point-to-point cognitive map navigation. Now suppose that the movement of attention reflects the migration of ten thousand **"attention soldiers"** towards Locus B (more soldiers means that nontrivial/subtle/unstable details and memory associations become activated); do all ten thousand move at once, or is it gradual: tens, hundreds, thousands?
 
-So perhaps a deliberate practice system will train the general skill of making attention soldiers move faster.
+You may see attention as binary, when in reality, I see it a subconscious snowballing of soldiers -- attention speed thus directly influences the speed to spot a nontrivial/subtle/unstable detail.
+
+I believe attention training thus makes sense. What I have seen in the past is a lot of two-out-of-the-three implementations of the rules. What needs to happen, is the student needs to move back to household objects, not abstract ideas. From there, they need to commit to this construct of attention soldiers that are sprinting from Locus A to Locus B and back, developing the generalizable skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details, thus boosting cognitive intelligence by a signficant amount.
+
+If there are attention soldiers for memory palaces and other attention soldiers for word processing (perhaps the cognitive map contains a map of all words in the memory that the attention soldiers patrol, and seeing a word makes the attention soldiers rush to that spot), maybe the two teams will "blend together" into a big team in the subconscious of the cognitive map.
 
 Terminology note: **stable** and **unstable** refer to how easily details can be activated. Spatial-visual memory is notoriously stable, considering the fast speed that the individual hierarchically unpacks big details into little details, many of which are memorized and retained. Episodic memory is pretty stable. Declarative memory is notoriously unstable. I believe, from extrapolation from the Ebbinghaus forgetting curve, that the present sensory stream-of-consciousness is equivalent to an episodic memory with virtually infinite stability.
 
@@ -104,8 +108,6 @@ The fact that there are only two items seems advantageous. Maybe there is the me
 ## Conclusion
 
 We establish a three-rule framework for productive deliberate practice of self-regulation and cognitive intelligence.
-
-What I have seen in the past is a lot of two-out-of-the-three implementations. What needs to happen, is the student needs to move back to household objects, not abstract ideas. From there, they need to commit to this construct of attention soldiers that are sprinting from Locus A to Locus B and back, developing the generalizable skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details, thus boosting cognitive intelligence by a signficant amount.
 
 ## TODO: more advanced stuff
 
