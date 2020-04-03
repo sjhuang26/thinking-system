@@ -54,19 +54,17 @@ Implementation notes.
 
 ## State changes, attention
 
-Imagine someone attempts a deliberate practice system to improve cognitive intelligence, and their main strategy is quickly cycling attention between two loci. I reasonably imagine the cognitive map as a navegable high-dimensional space, so when the student moves attention from Locus A to Locus B, this is a **state change** that clearly reflects a point-to-point cognitive map navigation.
+Imagine someone attempts a deliberate practice system to improve cognitive intelligence, and their main strategy is quickly cycling attention between two loci, such that when the student moves attention from Locus A to Locus B, this is a **state change** (i.e., a point-to-point cognitive map navigation).
 
-Now suppose that the movement of attention reflects the migration of ten thousand **"attention soldiers"** towards Locus B (more soldiers means that nontrivial/subtle/unstable details and memory associations become activated); do all ten thousand move at once, or is it gradual: tens, hundreds, thousands? Attention is not as simple as flicking a light switch -- it is an invisible snowballing of soldiers one by one.
+The key innovation is to frame the deliberate practice as ten thousand **"attention soldiers"** sprinting from Locus A to Locus B and back. When a locus has more soldiers, that means that nontrivial/subtle/unstable details and memory associations become activated, so what the student tries to build is the skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details.
 
-From here, what I see is attention speed directly influencing the speed to spot a nontrivial/subtle/unstable detail.
-
-We are forcing the student to commit to this construct of attention soldiers that are sprinting from Locus A to Locus B and back, developing the generalizable skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details. The student needs to practice these rules on household objects before moving to abstract ideas. We are hypothesizing that this will increase cognitive intelligence by a lot.
+I think that after the sensation of attention being like flicking a light switch, the invisible and gradual snowballing of soldiers has just begun: ones, tens, hundreds, thousands. What this suggests is that attention speed directly influences the speed to spot a nontrivial/subtle/unstable detail.
 
 If there are attention soldiers for memory palaces and other attention soldiers for word processing (perhaps the cognitive map contains a map of all words in the memory that the attention soldiers patrol, and seeing a word makes the attention soldiers rush to that spot), maybe the two teams will "blend together" into a big team in the subconscious of the cognitive map.
 
 Terminology note: **stable** and **unstable** refer to how easily details can be activated. Spatial-visual memory is notoriously stable, considering the fast speed that the individual hierarchically unpacks big details into little details, many of which are memorized and retained. Episodic memory is pretty stable. Declarative memory is notoriously unstable. I believe, from extrapolation from the Ebbinghaus forgetting curve, that the present sensory stream-of-consciousness is equivalent to an episodic memory with virtually infinite stability.
 
-I think I have created a worthwhile attention training. I have made three rules to parallel the principles of state changing. Here they are:
+I think I have created a worthwhile attention training. I have made three rules to parallel the principles of state changing. The student needs to practice these rules on household objects before moving to abstract ideas. We are hypothesizing that this will increase cognitive intelligence by a lot.
 
 1. mindfully compare the **stable detail** before-and-after, noting that state change can occur without any meaningful detail changes
 2. intrinsic reward for naming any **unstable detail** of a CORRECT locus
