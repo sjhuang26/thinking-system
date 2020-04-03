@@ -16,7 +16,7 @@ This essay establishes a terminology of **cognitive maps**.
   - comparison to Cognitive Behavioral Therapy
   - comparison to Acceptance and Commitment Therapy
 
-## Part 1
+## State changes, rational behavior
 
 A lot of psychology is simply to get people to adopt the rational behavior.
 
@@ -46,13 +46,13 @@ Implementation notes.
 - Third rule
   - TODO
 
-## Part 2
+## State changes, attention
 
 We analyze a cognitive intelligence deliberate practice of quickly cycling attention between two loci. The first and most urgent thing to address is the construct of attention. I reasonably imagine the cognitive map as a navegable high-dimensional space, so when the student moves attention from Locus A to Locus B, this is a **state change** that clearly reflects a point-to-point cognitive map navigation. Now suppose that the movement of attention reflects the movement of ten thousand "attention soldiers." What is the timeline as the attention soldiers wander across? Do all ten thousand make it to Locus B at once, or is it gradual: tens, hundreds, thousands? The more soldiers, the more **unstable detail** is accessible.
 
 The question is now whether the attention-soldiers analogy is valid, because it doesn't take a genius to see the implications for cognitive intelligence training. For instance, reading could be trained by cycling attention between two phrases, with **stable detail** = the words of the phrases; **unstable detail** = one visual image per phrase.
 
-I support this analogy's validity and propose three requirements.
+I support this analogy's validity and propose slightly modified versions of state changes.
 
 1. mindfully compare the **stable detail** before-and-after, noting that state change can occur without any meaningful detail changes
 2. intrinsic reward for naming any **unstable detail** of a CORRECT locus
@@ -66,37 +66,30 @@ I support this analogy's validity and propose three requirements.
 
 This should be conceptualized as a **signal booster** -- far more than a "detail mindfulness habit" or a "randomized quiz." -- like a "magical wand from _Harry Potter_" that requires deliberate practice to make the most of it. If the first step involves slightly sparse cues, the next step, for the signal booster to be useful, and to avoid severe training plateaus, will be deliberate practice with even sparser cues.
 
-Stable details. Look at your physical environment and pick two cues (i.e., objects).
+Implementation notes, rule 1.
 
-- Cue A.
-- Cue B.
-- Also consider cue AB.
- - (a visual "merging together" or "melting together" of A/B)
-- Also consider cue X.
- - (anything in the room that isn't A or B)
-- Combo ```A&B```
-- Combo ```X&AB```
-- Combo ```AB&A```
-- Combo ```AB&B```
+- Look at your physical environment and pick two loci.
+  - A.
+  - B.
+  - Also consider AB; a visual "merging together" or "melting together" of A/B.
+  - Also consider X; anything in the room that isn't A or B.
+  - Now, select EITHER A & B, or X & AB, or AB & A.
+- Remember to constantly quiz yourself to compare the before-and-after of stable details as attention is shifted.
+  - Force yourself to "copy" cues into working memory buffers (e.g., I force myself to color the objects RED and GREEN).
+  - Visually annotate the room with boundaries and curves with lines (like an artist would!) -- **line-diagram notation**
+  - Repeat things (e.g., visuals, ideas, names, positions) to yourself.
+  - TODO? Surprisingness training? Deltas should be judged based on how surprising the episodic memory differs from the real memory.
 
 Unstable details.
 
-- Set up the **Attention binary**.
-  - Label the cue you want to pay attention to as CORRECT. Label the other cue as INCORRECT.
-  - In a way, the INCORRECT cue is felt as very specifically and unambiguously **anti-attention**.
-- **Snowball** from the CORRECT cue; details might be:
-  - locations of particular lines
-  - shades of color
-  - any associated memory
-  - style of the room
-  - time of day
+- Enforce an **attention binary**.
 - Switch the CORRECT and INCORRECT labels. At this time, it is useful to practice the following:
   - _If my goal were to label everything incorrectly,_ and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
-  - _Based on the surprisingness of the difference between actual/anticipated cases_, you should judge CORRECT versus INCORRECT.
-  - _The INCORRECT cue is a source of anti-attention_ which helps cope with the interferences and makes the rhythm stronger.
-- Repeat. Make sure to:
-  - switch at a fast pace, faster than you can snowball the first detail
-  - use a **"temporal ping-pong"** rhythm at a steady pace
+- Repeatedly switch at a fast pace, faster than you can find the first unstable detail.
+  - locations of particular lines + creative technical description
+  - shades of color + creative comparison to some other shade
+  - a creative associated memory
+- Use a **"temporal ping-pong"** rhythm at a steady pace.
 
 > TODO! Anything in italics is a sophisticated metaphor/construct that requires further explanation.
 
@@ -120,7 +113,9 @@ Advanced stable details
 
 Training advantages.
 
-- mechanistic manipulation of "back-and-forth brain wave" rhythm. Notice how shifting attention slightly shifts the stability of the details.
+The fact that there are only two items seems advantageous. Maybe there is the mechanistic manipulation of "back-and-forth brain wave" rhythm. However, a more practical idea is that when there are only two items, there is only one INCORRECT item, such that **label swapping** the meaning of CORRECT and INCORRECT is equivalent to moving to the other locus of attention. In a way, the INCORRECT cue is felt as very specifically and unambiguously **anti-attention** that helps cope with the interferences and makes the rhythm stronger.
+
+- Notice how shifting attention slightly shifts the stability of the details.
   - I believe that the rhythm reflects how visualization works.
     - The **"mind's eye"** rapidly moves from past (the visualization of synthesizing the necessary episodic memories and simulating hypotheticals when necessary) to present (visual appearance of the present).
 - Attention-related interferences are stressed
@@ -131,25 +126,9 @@ Training advantages.
 - Cognitive maps are stressed
   - A, B, and X are all episodic memories. They can be thought of as crowds of neurons that talk to each other, resulting in very strong combinatorial interactions -- details are pulled in pairs (jump to Cue#1, pull a detail, jump to Cue#2, pull another detail). Especially with respect to cognitive maps. Does this make the training more robust? I don't know.
 
-More advanced ideas.
+## Conclusion
 
-- Always take careful measures to **preserve as much detail as possible (delta)** as attention shifts around.
-  - Force yourself to "copy" cues into working memory buffers (e.g., I force myself to color the objects RED and GREEN).
-  - Visually annotate the room with boundaries and curves with lines (like an artist would!) -- **line-diagram notation**
-  - Clearly feel that each cue attention shift drops details from the brain.
-  - Repeat things (e.g., visuals, ideas, names, positions) to yourself.
-- At some point you should review basic **educational constructs** that you had learned in the past through rote.
-  - "KWL charts"
-  - "hamburger models of essays"
-  - logical relations and deductions
-    - "NOT" metaphor
-    - "LESS THAN" and "MORE THAN" metaphors
-    - bubble metaphors, where "NOT (A not-equals B)" sprouts from "A equals B".
-  - **TODO! Figure out how such ideas can be generalized into a productive standardized format of data exchange. Such standardized formats are key to controlling attention.**
-- Construct a **cue hierarchy**. Such hierarchies have **zero cues** near the top and **one cues** descending from them. Zero cues are various Platonic Ideals of wide classes of cues (e.g., numbers, letters, words, variables of a logical formula), which should be visualized as small gray-colored spheres as multi-colored parameters of a logical formula, which are eventually substituted for specific objects.
-  - Creativity is in part the metaphorical combinatorial collision of thousands of spheres.
-  - There frequently exists a need to jump from one sphere to another sphere wholly independent from the first one.
-  - The relevant portal formula is: ```0&1```
+We created a general framework of state changes and provided three rules for their deliberate practice. Part 1 applies to self-regulation, and Part 2 applies to cognitive intelligence.
 
 ## TODO: more advanced stuff
 
@@ -176,3 +155,16 @@ Logic A > B means that B < A [see: Relational Frame Theory]
 You could visualize this as a two-variable equation
 Even jumping from "front of flashcard" to "back of flashcard" is a logic formula of Item1 + Item2
 ```
+
+- At some point you should review basic **educational constructs** that you had learned in the past through rote.
+  - "KWL charts"
+  - "hamburger models of essays"
+  - logical relations and deductions
+    - "NOT" metaphor
+    - "LESS THAN" and "MORE THAN" metaphors
+    - bubble metaphors, where "NOT (A not-equals B)" sprouts from "A equals B".
+  - **TODO! Figure out how such ideas can be generalized into a productive standardized format of data exchange. Such standardized formats are key to controlling attention.**
+- Construct a **cue hierarchy**. Such hierarchies have **zero cues** near the top and **one cues** descending from them. Zero cues are various Platonic Ideals of wide classes of cues (e.g., numbers, letters, words, variables of a logical formula), which should be visualized as small gray-colored spheres as multi-colored parameters of a logical formula, which are eventually substituted for specific objects.
+  - Creativity is in part the metaphorical combinatorial collision of thousands of spheres.
+  - There frequently exists a need to jump from one sphere to another sphere wholly independent from the first one.
+  - The relevant portal formula is: ```0&1```
