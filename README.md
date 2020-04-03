@@ -56,11 +56,9 @@ Implementation notes.
 
 Imagine someone attempts a deliberate practice system to improve cognitive intelligence, and their main strategy is quickly cycling attention between two loci, such that when the student moves attention from Locus A to Locus B, this is a **state change** (i.e., a point-to-point cognitive map navigation).
 
-The key innovation is to frame the deliberate practice as ten thousand **"attention soldiers"** sprinting from Locus A to Locus B and back. When a locus has more soldiers, that means that nontrivial/subtle/unstable details and memory associations become activated, so what the student tries to build is the skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details.
+The paradigm is to frame the deliberate practice as ten thousand **"attention soldiers"** sprinting from Locus A to Locus B and back. When a locus has more soldiers, that means that nontrivial/subtle/unstable details and memory associations become activated, so what the student tries to build is the skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details. I think that after the sensation of attention being like flicking a light switch, the invisible and gradual snowballing of soldiers has just begun: ones, tens, hundreds, thousands. What this suggests is that attention speed directly influences the speed to spot a nontrivial/subtle/unstable detail.
 
-I think that after the sensation of attention being like flicking a light switch, the invisible and gradual snowballing of soldiers has just begun: ones, tens, hundreds, thousands. What this suggests is that attention speed directly influences the speed to spot a nontrivial/subtle/unstable detail.
-
-If there are attention soldiers for memory palaces and other attention soldiers for word processing (perhaps the cognitive map contains a map of all words in the memory that the attention soldiers patrol, and seeing a word makes the attention soldiers rush to that spot), maybe the two teams will "blend together" into a big team in the subconscious of the cognitive map.
+Example: reading could be trained by cycling attention between two phrases, with **stable** = the words of the phrases; **unstable** = one visual image per phrase? If there are attention soldiers for memory palaces and other attention soldiers for word processing (perhaps the cognitive map contains a map of all words in the memory that the attention soldiers patrol, and seeing a word makes the attention soldiers rush to that spot), maybe the two teams will "blend together" into a big team in the subconscious of the cognitive map.
 
 Terminology note: **stable** and **unstable** refer to how easily details can be activated. Spatial-visual memory is notoriously stable, considering the fast speed that the individual hierarchically unpacks big details into little details, many of which are memorized and retained. Episodic memory is pretty stable. Declarative memory is notoriously unstable. I believe, from extrapolation from the Ebbinghaus forgetting curve, that the present sensory stream-of-consciousness is equivalent to an episodic memory with virtually infinite stability.
 
@@ -69,8 +67,6 @@ I think I have created a worthwhile attention training. I have made three rules 
 1. mindfully compare the **stable detail** before-and-after, noting that state change can occur without any meaningful detail changes
 2. intrinsic reward for naming any **unstable detail** of a CORRECT locus
 3. label swap cycle of CORRECT and INCORRECT
-
-Example: reading could be trained by cycling attention between two phrases, with **stable** = the words of the phrases; **unstable** = one visual image per phrase? I support this analogy's validity and propose slightly modified versions of the three rules.
 
 Implementation notes.
 
