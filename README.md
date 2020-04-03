@@ -27,8 +27,12 @@ If the cognitive map is the heart of a neural circuit that competes against the 
 I think I have created a worthwhile behavioral intervention with three rules.
 
 1. mindfully compare the **detail** before-and-after, noting that state change can occur without any meaningful detail changes
-2. intrinsic reward for making the CORRECT behavior
-3. label swap cycle (binary rhythm) of CORRECT and INCORRECT
+2. making the CORRECT behavior needs to be intrinsically rewarding
+3. swap labels between CORRECT and INCORRECT in a cycle
+
+Is this merely a "detail mindfulness habit," or is it a **signal booster** (e.g., like a _Harry Potter_ magic wand)?
+
+Signal boosters require deliberate practice to make the most of them. To avoid severe training plateaus, step 2 needs to be super easy at first and increasingly hard.
 
 Implementation notes.
 
@@ -42,74 +46,45 @@ Implementation notes.
     - Self-Other relationship?
       - Contentment -- "Aesthestic sense that makes the cognitive map an alive imagination"?
       - Curiosity -- "Intellectual curiosity more than a Self-based choice"?
-  - parallels to a childlike curiosity feeling of playing a game
+  - There is a reason why we start with silly games like this.
+    - parallels to a childlike curiosity/intrinsic-reward feeling of playing a game
 - Third rule
-  - TODO
+  - Practice swapping labels (i.e., the INCORRECT hand flex is changed to be CORRECT and vice versa).
+  - Repeat this swap for several times.
 
 ## State changes, attention
 
-We analyze a cognitive intelligence deliberate practice of quickly cycling attention between two loci. The first and most urgent thing to address is the construct of attention. I reasonably imagine the cognitive map as a navegable high-dimensional space, so when the student moves attention from Locus A to Locus B, this is a **state change** that clearly reflects a point-to-point cognitive map navigation. Now suppose that the movement of attention reflects the movement of ten thousand "attention soldiers." What is the timeline as the attention soldiers wander across? Do all ten thousand make it to Locus B at once, or is it gradual: tens, hundreds, thousands? The more soldiers, the more **unstable detail** is accessible.
+We analyze a cognitive intelligence deliberate practice of quickly cycling attention between two loci. The first and most urgent thing to address is the construct of attention. I reasonably imagine the cognitive map as a navegable high-dimensional space, so when the student moves attention from Locus A to Locus B, this is a **state change** that clearly reflects a point-to-point cognitive map navigation. Now suppose that the movement of attention reflects the movement of ten thousand **"attention soldiers"** wandering around: do all ten thousand make it to Locus B at once, or is it gradual: tens, hundreds, thousands? As more soldiers accumulate around Locus B, more details of Locus B start to become accessible.
 
-The question is now whether the attention-soldiers analogy is valid, because it doesn't take a genius to see the implications for cognitive intelligence training. For instance, reading could be trained by cycling attention between two phrases, with **stable detail** = the words of the phrases; **unstable detail** = one visual image per phrase.
+So perhaps a deliberate practice system will train the general skill of making attention soldiers move faster.
 
-I support this analogy's validity and propose slightly modified versions of state changes.
+Terminology note: **stable** and **unstable** refer to how easily details can be activated. Spatial-visual memory is notoriously stable, considering the fast speed that the individual hierarchically unpacks big details into little details, many of which are memorized and retained. Episodic memory is pretty stable. Declarative memory is notoriously unstable. I believe, from extrapolation from the Ebbinghaus forgetting curve, that the present sensory stream-of-consciousness is equivalent to an episodic memory with virtually infinite stability.
 
 1. mindfully compare the **stable detail** before-and-after, noting that state change can occur without any meaningful detail changes
 2. intrinsic reward for naming any **unstable detail** of a CORRECT locus
-3. label swap cycle (binary rhythm) of CORRECT and INCORRECT
+3. label swap cycle of CORRECT and INCORRECT
 
-- **Stable** and **unstable** refer to how easily details can be activated.
-  - Spatial-visual memory is notoriously stable, considering the fast speed that the individual hierarchically unpacks big details into little details, many of which are memorized and retained.
-  - Episodic memory is pretty stable.
-  - Declarative memory is notoriously unstable.
-  - The **Ebbinghaus asymptote of density** is a common-sense assumption from the Ebbinghaus forgetting curve: the present sensory stream-of-consciousness is essentially equivalent to an episodic memory of **asymptotic (virtually infinite) stability**.
+Example: reading could be trained by cycling attention between two phrases, with **stable** = the words of the phrases; **unstable** = one visual image per phrase? I support this analogy's validity and propose slightly modified versions of the three rules.
 
-This should be conceptualized as a **signal booster** -- far more than a "detail mindfulness habit" or a "randomized quiz." -- like a "magical wand from _Harry Potter_" that requires deliberate practice to make the most of it. If the first step involves slightly sparse cues, the next step, for the signal booster to be useful, and to avoid severe training plateaus, will be deliberate practice with even sparser cues.
+Implementation notes.
 
-Implementation notes, rule 1.
-
-- Look at your physical environment and pick two loci.
+- Look at your physical environment and pick two loci. The choice of loci should be a stable detail.
   - A.
   - B.
   - Also consider AB; a visual "merging together" or "melting together" of A/B.
   - Also consider X; anything in the room that isn't A or B.
   - Now, select EITHER A & B, or X & AB, or AB & A.
-- Remember to constantly quiz yourself to compare the before-and-after of stable details as attention is shifted.
-  - Force yourself to "copy" cues into working memory buffers (e.g., I force myself to color the objects RED and GREEN).
-  - Visually annotate the room with boundaries and curves with lines (like an artist would!) -- **line-diagram notation**
+- For all stable details, you need to mindfully/constantly quiz yourself to compare the fact that their presence in the brain doesn't change as attention is shifted. The details will still be present in the field of vision.
   - Repeat things (e.g., visuals, ideas, names, positions) to yourself.
+  - Force yourself to "copy" cues into working memory buffers (e.g., I force myself to color the objects RED and GREEN) and imagine that the colors/objects are staying the same.
+  - Visually annotate the room with boundaries and curves with lines (like an artist would!) and imagine the lines are staying the same.
   - TODO? Surprisingness training? Deltas should be judged based on how surprising the episodic memory differs from the real memory.
-
-Unstable details.
-
-- Enforce an **attention binary**.
-- Switch the CORRECT and INCORRECT labels. At this time, it is useful to practice the following:
-  - _If my goal were to label everything incorrectly,_ and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
-- Repeatedly switch at a fast pace, faster than you can find the first unstable detail.
+- Label swap the CORRECT and INCORRECT labels, thinking, _if my goal were to label everything incorrectly,_ and A were correct, labeling A as "correct" is incorrect while labeling A as "incorrect" is correct.
+- Repeatedly switch at a fast pace, faster than you can find the first unstable detail, such as:
   - locations of particular lines + creative technical description
   - shades of color + creative comparison to some other shade
   - a creative associated memory
 - Use a **"temporal ping-pong"** rhythm at a steady pace.
-
-> TODO! Anything in italics is a sophisticated metaphor/construct that requires further explanation.
-
-Advanced unstable details
-
-- _multiple-document cycle_
-- _stream-of-consciousness_
-- _garbage collection_: brief periods of waiting
-- _forced image consolidation_ (especially in second language acquisition context)
-- _group branching_: Correct Group vs. Incorrect Group
-- _Thin Client Principle_: virtually anything can be a sparse cue
-- _content buffer_: over an extended period of time
-- _Krashen Input Hypothesis_: critique
-
-Advanced stable details
-
-- _first principles_
-- _systems analysis_
-- _legalistic constructs_
-- _semi-mnemonics_: applying sparse mnemonics to a dense word-stream
 
 Training advantages.
 
@@ -128,7 +103,7 @@ The fact that there are only two items seems advantageous. Maybe there is the me
 
 ## Conclusion
 
-We created a general framework of state changes and provided three rules for their deliberate practice. Part 1 applies to self-regulation, and Part 2 applies to cognitive intelligence.
+We establish a three-rule framework for productive deliberate practice of self-regulation and cognitive intelligence.
 
 ## TODO: more advanced stuff
 
@@ -168,3 +143,23 @@ Even jumping from "front of flashcard" to "back of flashcard" is a logic formula
   - Creativity is in part the metaphorical combinatorial collision of thousands of spheres.
   - There frequently exists a need to jump from one sphere to another sphere wholly independent from the first one.
   - The relevant portal formula is: ```0&1```
+
+> TODO! Anything in italics is a sophisticated metaphor/construct that requires further explanation.
+
+Advanced unstable details
+
+- _multiple-document cycle_
+- _stream-of-consciousness_
+- _garbage collection_: brief periods of waiting
+- _forced image consolidation_ (especially in second language acquisition context)
+- _group branching_: Correct Group vs. Incorrect Group
+- _Thin Client Principle_: virtually anything can be a sparse cue
+- _content buffer_: over an extended period of time
+- _Krashen Input Hypothesis_: critique
+
+Advanced stable details
+
+- _first principles_
+- _systems analysis_
+- _legalistic constructs_
+- _semi-mnemonics_: applying sparse mnemonics to a dense word-stream
