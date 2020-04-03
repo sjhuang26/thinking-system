@@ -52,10 +52,12 @@ We claim that not only does our training have fewer repetitions, it has an advan
   - Episodic memory is pretty dense.
   - Declarative memory is notoriously sparse.
   - The **Ebbinghaus asymptote of density** is a common-sense assumption from the Ebbinghaus forgetting curve: the present sensory stream-of-consciousness is essentially equivalent to an episodic memory of **asymptotic (virtually infinite) density**. EXAMPLE: seeing an image and forgetting 90% of episodic detail between second 1 and second 10 (after assuming similar rates and extrapolating) reasonably implies that second 0.01 must be incredibly dense (thousands to millions of details) and that the density of second 0 must be virtually infinite.
-- The **portal** procedure is a cycle repeated several times to exercise an attention binary, in the end **snowballing** two cues at once.
+- The **portal** procedure is a cycle that in the end **snowballs** two **sparse** cues at once.
   - notation: ```Cue#1 & Cue#2```
 
-The **deliberate practice** procedure:
+The **deliberate practice** procedure in the simplest form: **dense cue** >> 2 details >> **portal**.
+
+A more explicit formula:
 
 1. treat the situation as one big **dense cue**...
 2. ...to **snowball** over (i.e., **dense coping**)...
@@ -129,7 +131,7 @@ Advanced dense coping
   - A, B, and X are all episodic memories and also members of the **cognitive map**. They can be thought of as crowds of neurons that talk to each other, resulting in very strong combinatorial interactions.
     - Details are pulled in pairs (jump to Cue#1, pull a detail, jump to Cue#2, pull another detail).
     - Does this make the training more robust? I don't know.
-  - Attention is moved between two points (which make a straight line!).
+  - Attention is moved between two points (which make a straight line).
 - mechanistic manipulation of "back-and-forth brain wave" rhythm
   - THINK: is there a density shift as attention is shifted, and how much?
   - I believe that the rhythm reflects how visualization works.
@@ -190,8 +192,48 @@ You could visualize this as a two-variable equation
 Even jumping from "front of flashcard" to "back of flashcard" is a logic formula of Item1 + Item2
 ```
 
-## "Snaps": a hand-motion game of self-regulation
+## TODO
 
-How can a _hand-motion game_ -- say, waving your hand one way for "yes" and the other way for "no" -- make rational behavior and self-regulation easier? I think the game creates a psychological buffer of rational behavior based on activation/sensitization to a **childlike curiosity of playing games**. Such "behavior games" are dense (trivial); most other behaviors are sparse (nontrivial), but deliberate practice can bridge the gap.
+### Part 1
 
-In the case of having the hand stuck in the middle, as you are stuck in what appears to be an infinitely unchanging apathetic state, emphasize how you **don't know when** you'll finally break out. It is impossible to find a signal to differentiate the state of apathy and the state of being _about to act_ within a reasonable amount of reaction time.
+A lot of psychology is simply to get people to adopt the rational behavior.
+
+I model rational behavior as **state changes** driven by a cognitive map. Suppose a simple hand-motion game where the wrist starts downwards, where flexing the wrist down is (RATIONALLY) INCORRECT and flexing the wrist up is (RATIONALLY) CORRECT.
+
+If the cognitive map is the heart of a neural circuit that competes against the impulse circuit in making state changes, what could help us make the cognitive map stronger?
+
+I think I have created a worthwhile behavioral intervention with three rules.
+
+1. mindfully compare the **detail** before-and-after, noting that state change can occur without any meaningful detail changes
+2. intrinsic reward for making the CORRECT behavior
+3. label swap cycle (binary rhythm) of CORRECT and INCORRECT
+
+Implementation notes.
+
+- First rule
+  - simply choose random details in the environment
+  - reflects how the cognitive map makes "spontaneous" state changes that you **don't know when** they will happen
+  - For me, this "surprise factor" has been vital to fight the feeling that "something must change" before the cognitive map can trigger the state change (INCORRECT to CORRECT).
+- Second rule
+  - reflects how rational behavior is intrinsically rewarding
+    - Moral intuition?
+    - Self-Other relationship?
+      - Contentment -- "Aesthestic sense that makes the cognitive map an alive imagination"?
+      - Curiosity -- "Intellectual curiosity more than a Self-based choice"?
+  - parallels to a childlike curiosity feeling of playing a game
+- Third rule
+  - TODO
+
+### Part 2
+
+We analyze a cognitive intelligence deliberate practice of quickly cycling attention between two loci. The first and most urgent thing to address is the construct of attention. I reasonably imagine the cognitive map as a navegable high-dimensional space, so when the student moves attention from Locus A to Locus B, this is a **state change** that clearly reflects a point-to-point cognitive map navigation. Now suppose that the movement of attention reflects the movement of ten thousand "attention soldiers." What is the timeline as the attention soldiers wander across? Do all ten thousand make it to Locus B at once, or is it gradual: tens, hundreds, thousands? The more soldiers, the more **unstable detail** is accessible.
+
+The question is now whether the attention-soldiers analogy is valid, because it doesn't take a genius to see the implications for cognitive intelligence training. For instance, reading could be trained by cycling attention between two phrases, with **stable detail** = the words of the phrases; **unstable detail** = one visual image per phrase.
+
+I support this analogy's validity and propose three requirements.
+
+1. mindfully compare the **stable detail** before-and-after, noting that state change can occur without any meaningful detail changes
+2. intrinsic reward for naming any **unstable detail** of a CORRECT locus
+3. label swap cycle (binary rhythm) of CORRECT and INCORRECT
+
+That's it!
