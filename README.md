@@ -105,6 +105,8 @@ The fact that there are only two items seems advantageous. Maybe there is the me
 
 We establish a three-rule framework for productive deliberate practice of self-regulation and cognitive intelligence.
 
+What I have seen in the past is a lot of two-out-of-the-three implementations. What needs to happen, is the student needs to move back to household objects, not abstract ideas. From there, they need to commit to this construct of attention soldiers that are sprinting from Locus A to Locus B and back, developing the generalizable skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details, thus boosting cognitive intelligence by a signficant amount.
+
 ## TODO: more advanced stuff
 
 > TODO? Practice random-access jumping between a cumulating list of items in a memory palace journey. But also a _Random-Access Stress_ in general. This is the best dense construct available ... TODO? This suggests the importance of also practicing memory palace (method of loci) navigation and visualizing "drawing a curved line across the path."
