@@ -18,36 +18,31 @@ This essay establishes a terminology of **cognitive maps**.
 
 ## State changes, rational behavior
 
-A lot of psychology is simply to get people to adopt the rational behavior.
+I came up with the word **"state change"** as an _ad hoc_ category for two psychological behaviors that are similar because I believe they are both driven by a cognitive map as the heart of a neural circuit.
 
-I model rational behavior as **state changes** driven by a cognitive map. Suppose a simple hand-motion game where the wrist starts downwards, where flexing the wrist down is (RATIONALLY) INCORRECT and flexing the wrist up is (RATIONALLY) CORRECT.
+The first state change involves self-regulation -- training yourself to do the rational behavior.
 
-If the cognitive map is the heart of a neural circuit that competes against the impulse circuit in making state changes, what could help us make the cognitive map stronger?
+Suppose we contrive a training exercise, e.g., a simple hand-motion game where the wrist starts downwards, where flexing the wrist down is (RATIONALLY) INCORRECT and flexing the wrist up is (RATIONALLY) CORRECT.
 
-I think I have created a worthwhile behavioral intervention with three rules.
+I think that such a basic training exercise must follow three rules.
 
-1. mindfully compare the **detail** before-and-after, noting that state change can occur without any meaningful detail changes
+1. compare the **detail** before-and-after; mindfully note that state change can occur without any meaningful detail changes
 2. making the CORRECT behavior needs to be intrinsically rewarding
 3. swap labels between CORRECT and INCORRECT in a cycle
 
-Is this merely a "detail mindfulness habit," or is it a **signal booster** (e.g., like a _Harry Potter_ magic wand)?
-
-Signal boosters require deliberate practice to make the most of them. To avoid severe training plateaus, step 2 needs to be super easy at first and increasingly hard.
+I believe that this is more than merely a "detail mindfulness habit" and starts to become a **signal booster**. Signal boosters require deliberate practice to make the most of them. To avoid severe training plateaus, step 2 needs to be super easy at first and increasingly hard. I personally envision the process like using one of the magic wands from _Harry Potter_.
 
 Implementation notes.
 
-- First rule
-  - simply choose random details in the environment
-  - reflects how the cognitive map makes "spontaneous" state changes that you **don't know when** they will happen
-  - For me, this "surprise factor" has been vital to fight the feeling that "something must change" before the cognitive map can trigger the state change (INCORRECT to CORRECT).
+In the first rule, details can be randomly found in the environment. Reflects how you **don't know when** the cognitive map will trigger the "spontaneous" state changes. I think this is quite effective in fighting the feeling that "something must change" before the cognitive map can trigger the state change (INCORRECT to CORRECT).
+
 - Second rule
-  - reflects how rational behavior is intrinsically rewarding
+  - What would the intrinsic motivation of rational behavior be?
     - Moral intuition?
     - Self-Other relationship?
-      - Contentment -- "Aesthestic sense that makes the cognitive map an alive imagination"?
-      - Curiosity -- "Intellectual curiosity more than a Self-based choice"?
-  - There is a reason why we start with silly games like this.
-    - parallels to a childlike curiosity/intrinsic-reward feeling of playing a game
+      - Contentment? Imagination/aliveness of cognitive map?
+      - Curiosity? More than a Self-based choice?
+    - The point of starting with silly games like this is to mimic the various childlike intrinsic rewards of playing a game.
 - Third rule
   - Practice swapping labels (i.e., the INCORRECT hand flex is changed to be CORRECT and vice versa).
   - Repeat this swap for several times.
@@ -64,7 +59,7 @@ Terminology note: **stable** and **unstable** refer to how easily details can be
 
 I think I have created a worthwhile attention training. I have made three rules to parallel the principles of state changing. The student needs to practice these rules on household objects before moving to abstract ideas. We are hypothesizing that this will increase cognitive intelligence by a lot.
 
-1. mindfully compare the **stable detail** before-and-after, noting that state change can occur without any meaningful detail changes
+1. compare the **stable detail** before-and-after; mindfully note that state change can occur without any meaningful detail changes
 2. intrinsic reward for naming any **unstable detail** of a CORRECT locus
 3. label swap cycle of CORRECT and INCORRECT
 
