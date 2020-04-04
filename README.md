@@ -1,70 +1,60 @@
-# New ways to train cognitive map aptitudes, increase cognitive intelligence, and cope with psychopathologies
+# Unified set of three rules to increase cognitive intelligence and resolve psychopathology
 
 ## Introduction
 
-This essay establishes a terminology of **cognitive maps**.
-
-- One source claims that "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds."
-- https://www.sciencedirect.com/science/article/pii/S0896627318308560
-- Relational Frame Theory is framed in terms of the cognitive map.
-  - At a young age, the cognitive map self-organizes through nonverbal acquisition of first principles and mental models.
-    - Is the approach of Multiple Exemplar Training in Relational Frame Theory the most efficient? In this light, what do we say about the **prior art** of Multiple Exemplar Training as applied in SMART training, currently the "only brain training system scientifically proven to raise IQ"? [Strengthening Mental Abilities with Relational Training; https://raiseyouriq.com]
-    - I think that SMART training supports the hypothesis that **cognitive map stress leads to positive results in cognitive intelligence aptitude increase**. However, is SMART training _efficient_ at cognitive map stress? SMART training takes thousands of repetitions.
-    - We claim that not only does our training have fewer repetitions, it fundamentally rewires the brain to rewire itself more effectively. SMART training does not achieve this.
-- Our training philosophy directly forces the operant behavior (Reward and Punishment) circuit to relinquish virtually all of its responsibility, in favor of the cognitive map (Rational Behavior) circuit.
-  - Do cognitive maps reflect something fundamental in **psychopathology**? At the very least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map.
-  - comparison to Cognitive Behavioral Therapy
-  - comparison to Acceptance and Commitment Therapy
+I came up with the word **"state change"** as an _ad hoc_ category for two psychological behaviors that are similar because I believe they are both driven by a **cognitive map** as the heart of a neural circuit. State changes are seen as a way to stimulate and exercise a generalizable skill of moving between two points on the cognitive map in a "straight line."
 
 ## State changes, rational behavior
 
-I came up with the word **"state change"** as an _ad hoc_ category for two psychological behaviors that are similar because I believe they are both driven by a cognitive map as the heart of a neural circuit.
-
 The first state change involves self-regulation -- training yourself to do the rational behavior.
 
-Suppose we contrive a training exercise, e.g., a simple hand-motion game where the wrist starts downwards, where flexing the wrist down is (RATIONALLY) INCORRECT and flexing the wrist up is (RATIONALLY) CORRECT.
+Let's contrive a two-state training exercise -- a simple hand-motion game where the wrist starts downwards, where flexing the wrist down is (RATIONALLY) INCORRECT and flexing the wrist up is (RATIONALLY) CORRECT.
 
-I think that such a basic training exercise must follow three rules.
+**For such a simple training to improve self-regulation, I believe it must follow the following rules.**
 
-1. compare the **detail** before-and-after; mindfully note that state change can occur without any meaningful detail changes
-2. making the CORRECT behavior needs to be intrinsically rewarding
+1. compare the **detail** _the moment before state change begins vs. the moment a few seconds before that_; mindfully note that state change can occur without any meaningful detail changes in the meantime
+2. making the CORRECT behavior intrinsically rewarding
 3. swap labels between CORRECT and INCORRECT in a cycle
 
-I believe that this is more than merely a "detail mindfulness habit" and starts to become a **signal booster**. Signal boosters require deliberate practice to make the most of them. To avoid severe training plateaus, step 2 needs to be super easy at first and increasingly hard. I personally envision the process like using one of the magic wands from _Harry Potter_.
+In the first rule, details can be randomly found in the environment. Reflects how you **don't know when** the cognitive map will trigger the "spontaneous" state changes. I think this is quite effective in fighting the negative thinking that "something must change" before the cognitive map can trigger the INCORRECT to CORRECT state change.
 
-Implementation notes.
+The way that these trainings work, is that I believe that they are a **signal booster** that is more than a mere "detail mindfulness habit." The learning curve: start with hand motions at first. I personally envision the process like using one of the magic wands from _Harry Potter_.
 
-In the first rule, details can be randomly found in the environment. Reflects how you **don't know when** the cognitive map will trigger the "spontaneous" state changes. I think this is quite effective in fighting the feeling that "something must change" before the cognitive map can trigger the state change (INCORRECT to CORRECT).
+Second rule: What would the intrinsic motivation of rational behavior be?
 
-- Second rule
-  - What would the intrinsic motivation of rational behavior be?
-    - Moral intuition?
-    - Self-Other relationship?
-      - Contentment? Imagination/aliveness of cognitive map?
-      - Curiosity? More than a Self-based choice?
-    - The point of starting with silly games like this is to mimic the various childlike intrinsic rewards of playing a game.
-- Third rule
-  - Practice swapping labels (i.e., the INCORRECT hand flex is changed to be CORRECT and vice versa).
-  - Repeat this swap for several times.
+- Moral intuition?
+  - Self-Other relationship?
+  - Contentment? Imagination/aliveness of cognitive map?
+  - Curiosity? Moving towards the greater good, in a way that transcends a Self-based choice?
+- The point of starting with silly games like this is to mimic the various childlike intrinsic rewards of playing a game.
+
+Third rule: Repeatedly practice swapping labels (i.e., the INCORRECT hand flex is changed to be CORRECT and vice versa).
 
 ## State changes, attention
 
-Imagine someone attempts a deliberate practice system to improve cognitive intelligence, and their main strategy is quickly cycling attention between two loci, such that when the student moves attention from Locus A to Locus B, this is a **state change** (i.e., a point-to-point cognitive map navigation).
+We make a paradigm shift in cognitive intelligence.
 
-The paradigm is to frame the deliberate practice as ten thousand **"attention soldiers"** sprinting from Locus A to Locus B and back. When a locus has more soldiers, that means that nontrivial/subtle/unstable details and memory associations become activated, so what the student tries to build is the skill of **moving more attention soldiers at once**, where an agile army is well equipped to saturate a locus and extract increasingly unstable details. I think that after the sensation of attention being like flicking a light switch, the invisible and gradual snowballing of soldiers has just begun: ones, tens, hundreds, thousands. What this suggests is that attention speed directly influences the speed to spot a nontrivial/subtle/unstable detail.
+Cognitive intelligence is the agility of your **"attention soldiers"** -- a mix of veterans (spatiovisual) and newcomers (verbal) who perform the neuron-by-neuron work of cognition.
 
-Example: reading could be trained by cycling attention between two phrases, with **stable** = the words of the phrases; **unstable** = one visual image per phrase? If there are attention soldiers for memory palaces and other attention soldiers for word processing (perhaps the cognitive map contains a map of all words in the memory that the attention soldiers patrol, and seeing a word makes the attention soldiers rush to that spot), maybe the two teams will "blend together" into a big team in the subconscious of the cognitive map.
+Whenever the student flicks their attention from Locus A to Locus B and back (creating **state changes**), the soldiers struggle to move between loci in the cognitive map. The invisible and gradual arrival of soldiers has just begun -- ones, tens, hundreds, thousands -- and the more soldiers, the more unstable details can be activated.
 
-Terminology note: **stable** and **unstable** refer to how easily details can be activated. Spatial-visual memory is notoriously stable, considering the fast speed that the individual hierarchically unpacks big details into little details, many of which are memorized and retained. Episodic memory is pretty stable. Declarative memory is notoriously unstable. I believe, from extrapolation from the Ebbinghaus forgetting curve, that the present sensory stream-of-consciousness is equivalent to an episodic memory with virtually infinite stability.
+You see, value exists in moving more attention soldiers at once.
 
-I think I have created a worthwhile attention training. I have made three rules to parallel the principles of state changing. The student needs to practice these rules on household objects before moving to abstract ideas. We are hypothesizing that this will increase cognitive intelligence by a lot.
+**Stable** and **unstable** refer to how easily details can be activated. (Spatial-visual memory is notoriously stable, considering the fast speed that the individual hierarchically unpacks big details into little details, many of which are memorized and retained. Episodic memory is pretty stable. Declarative memory is notoriously unstable. I believe, from extrapolation from the Ebbinghaus forgetting curve, that the present sensory stream-of-consciousness is equivalent to an episodic memory with virtually infinite stability.)
 
-1. compare the **stable detail** before-and-after; mindfully note that state change can occur without any meaningful detail changes
+Example: reading could be trained by cycling attention between two phrases, with **stable** = the words of the phrases; **unstable** = one visual image per phrase.
+
+If there are attention soldiers for memory palaces and other attention soldiers for word processing, maybe the two teams will "blend together" into a big team in the subconscious of the cognitive map. (Perhaps the cognitive map contains a map of all words in the memory that the attention soldiers patrol, and seeing a word makes the attention soldiers rush to that spot.)
+
+**Variations of the state change rules apply.**
+
+1. compare the **stable detail** _throughout the state change_; mindfully note that state change can occur without any meaningful detail changes in the meantine
 2. intrinsic reward for naming any **unstable detail** of a CORRECT locus
 3. label swap cycle of CORRECT and INCORRECT
 
 Implementation notes.
 
+- The student needs to practice these rules on household objects before moving to abstract ideas.
 - Look at your physical environment and pick two loci. The choice of loci should be a stable detail.
   - A.
   - B.
@@ -100,7 +90,7 @@ The fact that there are only two items seems advantageous. Maybe there is the me
 
 ## Conclusion
 
-We establish a three-rule framework for productive deliberate practice of self-regulation and cognitive intelligence.
+We establish a three-rule framework for productive deliberate practice of self-regulation and cognitive intelligence. Both findings, if scientifically workable, are candidate solutions to major open questions of psychology.
 
 ## TODO: more advanced stuff
 
@@ -160,3 +150,17 @@ Advanced stable details
 - _systems analysis_
 - _legalistic constructs_
 - _semi-mnemonics_: applying sparse mnemonics to a dense word-stream
+
+## Technical notes
+
+- One source claims that "map-like representations observed in a spatial context may be an instance of general coding mechanisms capable of organizing knowledge of all kinds."
+- https://www.sciencedirect.com/science/article/pii/S0896627318308560
+- Relational Frame Theory is framed in terms of the cognitive map.
+  - At a young age, the cognitive map self-organizes through nonverbal acquisition of first principles and mental models.
+    - Is the approach of Multiple Exemplar Training in Relational Frame Theory the most efficient? In this light, what do we say about the **prior art** of Multiple Exemplar Training as applied in SMART training, currently the "only brain training system scientifically proven to raise IQ"? [Strengthening Mental Abilities with Relational Training; https://raiseyouriq.com]
+    - I think that SMART training supports the hypothesis that **cognitive map stress leads to positive results in cognitive intelligence aptitude increase**. However, is SMART training _efficient_ at cognitive map stress? SMART training takes thousands of repetitions.
+    - We claim that not only does our training have fewer repetitions, it fundamentally rewires the brain to rewire itself more effectively. SMART training does not achieve this.
+- Our training philosophy directly forces the operant behavior (Reward and Punishment) circuit to relinquish virtually all of its responsibility, in favor of the cognitive map (Rational Behavior) circuit.
+  - Do cognitive maps reflect something fundamental in **psychopathology**? At the very least, virtually everyone is psychologically motivated to put work into better organizing one's cognitive map.
+  - comparison to Cognitive Behavioral Therapy
+  - comparison to Acceptance and Commitment Therapy
