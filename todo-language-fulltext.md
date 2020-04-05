@@ -8,6 +8,7 @@ Linear fulltext (Word documents, writing, computer code, etc.)
 - audience-oriented deliberate practice
   - stick something out for pattern recognition (patent claim system)
   - pose a hard question that is beneficial to the audience to wrack their brain over
+  - regression consolidation or "garbage collection" (a firm image that the audience can grab onto)
 
 SDCFT formulation: Serial Data Code Full Text
 
@@ -114,3 +115,44 @@ Smolin points out the severe bias and uses it to justify affirmative action. "In
 To cap off the academia case, Smolin says, "Science requires a balance between rebellion and respect, so there will always be arguments between radicals and conservatives. But there is no balance in the current academic world. More than at any time in the history of science, the cards are stacked against the revolutionary. Such people are simply not tolerated in the research universities. Little wonder, then, that even when the science clearly calls for one, we can’t seem to pull off a revolution."
 
 Smolin advises basic budgeting. "A research program should not be allowed to become institutionally dominant before it has gathered convincing scientific proof. Until it does, alternative approaches should be encouraged, so that the progress of science is not stalled by overinvestment in a wrong direction. When there is a recalcitrant but key problem, there should be a limit on the proportion of support given to any one research program that aims to solve it—say, a third of total funding."
+
+## Hackers and Painters by Paul Graham
+
+1. Virtually all programming moves through design stages (e.g., from drafting sketching board to final artwork board) and a programming language needs to be "malleable" to be optimal for each. Imagine a language with optional static typing where the types are added in the final version.
+2. A concise and "very abstract" language is the "key to flexibility."
+3. Catching bugs early leads to "fewer compound bugs" (two separate bugs that interact) -- a sort of bug hygiene.
+4. Avoid side effects (functional programming).
+5. You can have inefficient high-level language code and then use compilers and profilers for optimization. "So, in practice, the way to get fast code is to have a good profiler, rather than by, say, making the language statically typed ... somehow represent what's happening in running programs."
+6. The story of Viaweb is interesting. They used such an efficient high-level programming language (Lisp). Their source code is 20-25% macros.
+7. "The right thing to compare Lisp to is not 1950s hardware but the quick-sort algorithm..."
+8. Macros in the context of Lisp. "A notation of code using trees of symbols and constants." "There is no real distinction between read-time, compile-time, and run-time." "Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML."
+9. Graham discusses institutionalization of "'patterns'" in the OOP world which Graham considers a "sign of trouble." Such regularities signal "abstractions that aren't powerful enough" or "generating by hand the expansions of some macro that I need to write."
+10. "Anything that can be implicit, should be."
+11. "Many a hacker will want to tweak your semantic model in a way that you never imagined ... give the programmer access as much internal stuff as you can."
+12. Graham argues that future programming language designers will zero into the difficulty of library building, because like in Perl, libraries matter a great deal. This parallels core language design. "Once the libraries get too big, it can sometimes take longer to find the function you need than to write it yourself."
+13. "As Knuth pointed out long ago, speed only matters in certain critical bottlenecks."
+14. Focus on I/O optimization. "deep structural changes like caching and persistent objects" as well as "lazy-loading"
+15. "big abstractions" to "write the first version of a program very quickly"
+16. "The language has a small core, and powerful, highly orthogonal libraries that are as carefully designed as the core language."
+17. "Open design": "you can change everything about it, including even its syntax", and you can "get hold" of the lower-level abstractions. Paul Graham uses analogy to open-source: theoretically, you could go to the codebase of the programming language's implementation, see the low-level abstractions, and extend them yourself in your application. Lisp has a style of bottom-up programming -- to "build the language up to your program" -- that involves creating new language operators.
+18. "Looking down on the user, however benevolently, always seems to corrupt the designer ... if you think you're designing something for idiots, odds are you're not designing something good, even for idiots."
+19. interactive toplevel (REPL) as a general case of "real-time programming" ... "It would not work well for a language where you have to declare variables before using them."
+20. "always have working code"
+21. Programs can output Lisp data structures, and Lisp data structures are essentially equivalent to Lisp code.
+22. With macros, closures, and run-time typing, Lisp transcends object-oriented programming.
+23. Lisp notation is just atoms and lists.
+24. Lisp has evaluation rules for lists. The default is to use the first item as the function and the rest as arguments (evaluated left-to-right). However, the ```(quote x)``` operator, aliased to ```'(x)```, is a special evaluation rule that doesn't evaluate x and simply returns x.
+25. Lisp has symbols notated as ```'x```.
+26. Lisp has a list-builder notated as ```(list x y z)```.
+27. Lisp has an empty list notated as symbol ```nil```.
+28. Lisp has ```car``` and ```cdr``` to extract the first element + rest of a list.
+
+Connecting to anti-bias training.
+
+Anti-bias training, by essence, teaches far more than mere anti-bias. What kind of paradigm shift would be associated with bias? "I'm biased" is a shallow paradigm shift. It has to be more like, anti-bias is trying to achieve a sort of self-transcendence. So we need to clearly capture where we delta off from social norms or social habits.
+
+Attempt 1. Social norms are psychological coping. If we are even-minded people we won't use some of the expressions that we use casually.
+
+Attempt 2. Culture of excellence. If the real goal is to optimize, then open prejudice would be optimized out.
+
+Attempt 3. Attention training. Attention in, attention out. Hack together a breathing exercise.
