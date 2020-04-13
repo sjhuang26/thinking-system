@@ -12,8 +12,6 @@ Let's contrive a two-state training exercise -- a simple hand-motion game where 
 
 **We establish rules for the training to be effective.**
 
-> TODO? Redefine Rule 1 as stable detail construct -- delta stable detail = 0 over state change -- preserved through Zero Items (i.e., Zero Cues). When we talk about Other, the Other might simply be a special case of Zero Item abstractions. ZPS (Zero Point Symmetry?)
-
 1. compare the **detail** _the moment before state change begins vs. the moment a few seconds before that_; mindfully note that state change can occur without any meaningful detail changes in the meantime
 2. making the CORRECT behavior intrinsically rewarding
 3. swap labels between CORRECT and INCORRECT in a cycle

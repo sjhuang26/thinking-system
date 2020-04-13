@@ -142,3 +142,30 @@ Is this terminology useful?
 ## Analytical Deliberate Practice
 
 > Rhetoric as deliberate practice?
+
+## More speculation: interesting "primitives" for psychological exercises
+
+We "equate" two states together:
+
+- Motivated (ABOUT to act) vs. Unmotivated (actually apathetic)
+- Attention shifts
+- EmotionA vs. EmotionB
+
+"Equating" is basically saying that both states are composed of details and mindfully picturing the details as essentially a-emotional.
+
+- ACT defusion / mindfulness.
+  - writing the details on slips of paper
+-	cues as being wired to a network of other cue objects, past and present
+-	cues as mere streams of abstract tokens
+-	cues as homogeneous spheres
+- cues as Lego blocks in a hierarchy
+
+Benefit 1: This makes all states emotionally connected.
+
+- contra the detail-driven emotions
+- contentment (low-level loop of eat-drink-sleep-live)
+- curiosity (transcendent Self-Other relationships)
+
+Benefit 2: How will we get self-regulation? Safe spaces, except that the two states have already been equated, which is a power move of self-confidence!
+
+- I would see simple practice schemes like basic physical motions like hand waves as safe spaces where Rational Behavior Circuits can actually cause the state changes
