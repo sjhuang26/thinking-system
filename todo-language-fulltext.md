@@ -1,22 +1,21 @@
 # The Fulltext Wars
 
+The nature of first principles
+
+scientific subfields
+exaptation of ideas
+
+- Secrets of Question Based Selling
+- Paul Graham and LISP
+- Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems >> async
+
 Linear fulltext (Word documents, writing, computer code, etc.)
 
-- sales
-- software engineering
 - rhetoric
 - audience-oriented deliberate practice
   - stick something out for pattern recognition (patent claim system)
   - pose a hard question that is beneficial to the audience to wrack their brain over
   - regression consolidation or "garbage collection" (a firm image that the audience can grab onto)
-
-SDCFT formulation: Serial Data Code Full Text
-
-Tentative canon for SDCFT:
-
-- Secrets of Question Based Selling
-- there is a way to judge down many leadership books -- failure of utility (Paul Graham and LISP)
-- Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems >> async
 
 Hackers and Painters by Paul Graham. The feeling that anything short of LISP data-as-code isn't fully malleable. It isn't really fulltext. Anything less is bad. The system starts to crumble.
 
