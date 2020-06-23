@@ -6,18 +6,20 @@
 - Thalamus >> interrupt circuit for attention that any cortex cell has access to.
 - On Intelligence by Jeff Hawkins, Sandra Blakeslee
 
+## Magic wands
+
 like using one of the magic wands from _Harry Potter_ -- **signal booster**
+
+## Self and Other
 
 - Solid bond between Self and Other.
 - The Self moves towards the Other.
 
-class of detail mindfulness habits
+## Peacefulness
 
 peacefulness -- falling asleep -- A state, B state
 
-Moral Curiosity
-
-**"Attention soldiers"**
+## (Intuition) Attention soldiers analogy
 
 A mix of veterans (spatiovisual) and newcomers (verbal) who navigate across loci of attention in the cognitive map.
 
@@ -26,10 +28,9 @@ A mix of veterans (spatiovisual) and newcomers (verbal) who navigate across loci
 3. The more soldiers in Locus B, the more **unstable** details can be activated.
 4. Spatial-visual memory and episodic memory are considered stable (hierarchy of big/small details). Declarative memory is considered unstable.
 
-## Practice 1
+## (Intuition) Household objects practice
 
 - Find two loci (household objects).
 - Pick a detail from Locus A, pick a detail from Locus B, repeat.
 - Label swap -- A as CORRECT, B as INCORRECT, then switch CORRECT and INCORRECT.
-
-crowds of neurons -- Crowd A and Crowd B -- very strong combinatorial interactions between pairs of details. 
+- crowds of neurons -- Crowd A and Crowd B -- very strong combinatorial interactions between pairs of details. 

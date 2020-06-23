@@ -45,14 +45,12 @@ What you need to see, though, is that the textbook does teach attention regulati
 
 ## Rhetorical strategy
 
-Particularly in the introduction and conclusion, writing is about acts of focus. If a cognitive map underlies rhetoric, then such focus is like a hotspot of attention in a complex cognitive map.
+Writing is about creating hotspots of attention.
 
 - narrow spotlight
 - psychologically motivating the reader to think about something
-- no proliferating islands of "swamp floaters"
-- no meandering
-- question/answer
-- problem/solution
+
+Claim + illustrations of the first principles of what is claimed
 
 I decided that "draining the swamp of rhetoric" is easiest with the thin client* formula: ```claim + illustrations of the first principles of what is claimed```**.
 
@@ -60,112 +58,4 @@ I decided that "draining the swamp of rhetoric" is easiest with the thin client*
 
 **There are strong parallels to patents (standardized patent format).
 
-## "Remote switch"
-
-How could strategies similar to temporal ping-pong -- a "remote switch" of attention -- be the only true necessity?
-
-- I decided to introduce Zero Point Symmetry.
-- I decided to introduce Density, so we can contextualize the learning curve and the deliberate practice involved. 
-- I decided to introduce an ampersand  ```&``` notation for portals, so we can talk about the formulas involved.
-  - ```0&01 versus 01&012``` only really matters for low-density work
-
-## TODO Advanced cognitive languages: even more formulas?
-
-```
-
-The student divides up their thought process between the major languages.
-
-ensure a good trajectory
-
-- skill generalization
-- maturity
-- rationality
-- To do this, we assume the existence of particular neurological phenomena
-- in the end, we can't get "stuck" so we'll have to do this Wartime Mentality capture of value
-
-Serial Data Full Text / Code
-SDFT/C, SDCFT
-
-TODO The computer science data-as-code >> the GPU's-rationality-model includes data/Packers, and the code alters-this-rationality-circuit
-The student should master the systems thinking formula
-from SDFT (packers) to Code="the system of {SDFT}" (mappers)
-The student should imagine that the GPU tries to use rationality to model a Packer
-The student should do this in order to get the GPU to "understand CI without the CPU's help"
-
-ZPS (Zero Point Symmetric) / SDFT (Serial Data Full Text) / UX critique
-ZPAS (Zero Point Asymmetric) / MCMM (Mikado Method <> deliberate practice; Categorization; Mental Model/the CommonCog formulation) / domains in which you are an expert / address Michael Simmons as a ZPAS, NOT a ZPS -- ZPAS problem/solution, classify/divide vs. the ZPS variations; ZPS notation vs. ZPAS notation? / ZPAS as a combination of sequential accumulation and combinatorial explosion
-SDSL (Social Domain Specific Language) / face-recognition primitives (identity issues) / social-relationship-based tones of rhetoric / cultural influences
-MPSOC (Mapper Packer Stream-of-Consciousness) / Code as a bridge from Packer to Mapper (self-organization of rationality) / First Class Function Stream-of-Consciousness / energy burn analysis / Snaps abstraction of hypnosis construct / Snaps / Density / Contentment / Curiosity
-
-> TODO: We have a more rigorous "rotational symmetry of attention spotlight" that we need to type up, also, how "far" the attention spotlight shines, also, abstracting the idea of an "attention spotlight" to an "observer reference point that has a statistical bias"
-
-Empirical suggesting of branching >> Between the two extremes of 0 (generalizable) and 1 (nongeneralizable), there is a "top" object and a limited amount of "branches" at the top.
-
-Branching model >> mathematics of high-dimensional brain spaces >> speculative rotational symmetry diagram (Zero Point Symmetry)
-- cognitive map is massively organized as a high-dimensional space
-
-- 0 = center, 1 = edges of circle
-- `~=` defined as combination of
-  - non-side-channel (rotational symmetry around 0 = SDFT (raw absorption/Ebbinghaus-retention of full text and data presented in a simple serial format))
-  - side channel (popular culture necessity of Deliberate Practice; the Code of SDCFT) pushed to the outside context
-  - TODO fix the side channel setup: SDFT is Packer while Code is mapper!!!
-
-The idea that violations of the languages can lead to (serious?) psychological stress
-
-- TODO/ SDFT violations
-  - non-serial presentation
-  - ambiguous data-fulltext division
-
-- TODO/ etc. ... let the student figure this out
-```
-
-## TODO: Our speculative neural circuits
-
 A mapper will "sit and think" about "collect[ed] information" to "simplify" the "mental map" while a packer lacks command of the aforementioned simplifying process. [https://wiki.c2.com/?MappersVsPackers]
-
-CPU = Packer = Reward and Punishment circuit
-
-GPU = Mapper = Cognitive Map circuit (TODO legacy notation: Rationality Circuit)
-
-Is this terminology useful?
-
-### CPU >> Emotional Executive
-
-> TODO: executive control metaphor; fuse Skinnerian operant w/curiosity; The highlighting of detail plays a transitional role (Packer >> Mapper) where the student follows a "formula of paying attention" that applies to any pair of two details (combinatorial explosion = training is more robust). Helps the idea of paying attention to This Thing while being motivated to precommit to One Other Thing.
-
-### GPU >> Self-regulation
-
-- `self-regulation.md`
-
-> ```{TODO: "rationality module" + "energy system" + "Self-Other Relationship module" + "(TODO: SDSL?)" + "(TODO: ZPAS; "Genius Slave"?) or some other metaphor contra grandioseness" + Packer-Mapper analogy (TODO: MPSOC)} (TODO: Packer >> Mapper)(ZPS) (Mapper-ish; SDFT-ish) ("Single Thin Client" metaphor)```
-
-## Analytical Deliberate Practice
-
-> Rhetoric as deliberate practice?
-
-## More speculation: interesting "primitives" for psychological exercises
-
-We "equate" two states together:
-
-- Motivated (ABOUT to act) vs. Unmotivated (actually apathetic)
-- Attention shifts
-- EmotionA vs. EmotionB
-
-"Equating" is basically saying that both states are composed of details and mindfully picturing the details as essentially a-emotional.
-
-- ACT defusion / mindfulness.
-  - writing the details on slips of paper
--	cues as being wired to a network of other cue objects, past and present
--	cues as mere streams of abstract tokens
--	cues as homogeneous spheres
-- cues as Lego blocks in a hierarchy
-
-Benefit 1: This makes all states emotionally connected.
-
-- contra the detail-driven emotions
-- contentment (low-level loop of eat-drink-sleep-live)
-- curiosity (transcendent Self-Other relationships)
-
-Benefit 2: How will we get self-regulation? Safe spaces, except that the two states have already been equated, which is a power move of self-confidence!
-
-- I would see simple practice schemes like basic physical motions like hand waves as safe spaces where Rational Behavior Circuits can actually cause the state changes

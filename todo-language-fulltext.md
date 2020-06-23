@@ -9,17 +9,12 @@ exaptation of ideas
 - Paul Graham and LISP
 - Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems >> async
 
-Linear fulltext (Word documents, writing, computer code, etc.)
-
-- rhetoric
 - audience-oriented deliberate practice
   - stick something out for pattern recognition (patent claim system)
   - pose a hard question that is beneficial to the audience to wrack their brain over
   - regression consolidation or "garbage collection" (a firm image that the audience can grab onto)
 
 Hackers and Painters by Paul Graham. The feeling that anything short of LISP data-as-code isn't fully malleable. It isn't really fulltext. Anything less is bad. The system starts to crumble.
-
-Each book changes the flavor of the whole fulltext approach. Mastering fulltext is mastering character.
 
 "Pedagogial hacking". A school should be a set of building blocks that can freely be interlinked, because when school becomes disassembleable, the rate of innovation is far higher.
 
